@@ -7,12 +7,14 @@ website:
     left:
       - text: "Início"
         href: index.qmd
-      - text: "Macroeconomia"
-        href: macroeconomia.qmd
-      - text: "Política"
-        href: politica.qmd
+      - text: "Newsletter"
+        href: newsletter.qmd
+      - text: "Índices"
+        href: indices.qmd
       - text: "Quem somos?"
         href: sobre.qmd
+      - text: "Receba no email"
+        href: email.qmd
 
 format:
   html:
