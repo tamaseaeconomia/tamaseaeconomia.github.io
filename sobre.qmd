@@ -26,7 +26,7 @@ Este projeto tem como objetivo analisar temas econômicos e sociais de forma ace
 
 <h4>**Pessoa 1**</h4>
 
-Estudante de economia com foco em macroeconomia, finanças públicas e visualização de dados utilizando R. :::
+Estudante de economia com foco em macroeconomia, finanças públicas e visualização de dados utilizando R.
 :::
 
 ::: g-col-4
@@ -51,6 +51,4 @@ Estudante de economia com foco em macroeconomia, finanças públicas e visualiza
 <h4>**Pessoa 4**</h4>
 
 Economista em formação, com interesse em políticas públicas, desigualdade social e análise de dados aplicados à economia brasileira.
-:::
-
 :::
