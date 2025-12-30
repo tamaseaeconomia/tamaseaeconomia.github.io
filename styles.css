@@ -203,6 +203,13 @@
   color: #777;
 }
 
+.indicator-item {
+  width: auto;        /* NUNCA 100% */
+  max-width: 100%;
+  display: block;     /* ok */
+}
+
+
 /* Responsivo */
 @media (max-width: 768px) {
   .indicator-item {
@@ -255,12 +262,4 @@
     border-left: none;
     padding-left: 0;
   }
-}
-
-/*vendo um trem*/
-
-footer.footer {
-  background-color: red !important;
-  display: block !important;
-  min-height: 50px;
 }
