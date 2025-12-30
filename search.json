@@ -18,42 +18,28 @@
     "href": "sobre.html#nossa-equipe",
     "title": "Tá, mas e a economia?",
     "section": "Nossa equipe",
-    "text": "Nossa equipe\n\n\n\n\n\nNome da Pessoa 1\nEconomista em formação, com interesse em políticas públicas, desigualdade social e análise de dados aplicados à economia brasileira.\n\n\n\n\n\n\nNome da Pessoa 2\nEstudante de economia com foco em macroeconomia, finanças públicas e visualização de dados utilizando R.\n\n\n\n\n\n\n\n\n\nNome da Pessoa 3\nEconomista em formação, com interesse em políticas públicas, desigualdade social e análise de dados aplicados à economia brasileira.\n\n\n\n\n\n\nNome da Pessoa 4\nEstudante de economia com foco em macroeconomia, finanças públicas e visualização de dados utilizando R."
+    "text": "Nossa equipe\n\n\n\n\n\nNome da Pessoa 1\nEconomista em formação, com interesse em políticas públicas, desigualdade social e análise de dados aplicados à economia brasileira.\n\n\n\n\n\n\nNome da Pessoa 2\nEstudante de economia com foco em macroeconomia, finanças públicas e visualização de dados utilizando R.\n\n\n\n\n\n\n\n\n\nNome da Pessoa 3\nEconomista em formação, com interesse em políticas públicas, desigualdade social e análise de dados aplicados à economia brasileira.\n\n\n\n\n\n\nNome da Pessoa 4\nEstudante de economia com foco em macroeconomia, finanças públicas e visualização de dados utilizando R.\n\n\n\n\n\n\n\n\nPessoa 1\n\nDescrição.\n\n\n\n\nPessoa 2\n\nDescrição.\n\n\n\n\nPessoa 3\n\nDescrição.\n\n\n\n\nPessoa 4\n\nDescrição."
   },
   {
-    "objectID": "indice.html",
-    "href": "indice.html",
-    "title": "Índices",
+    "objectID": "Newsletter/artigo1.html",
+    "href": "Newsletter/artigo1.html",
+    "title": "Anbima defende BC após questionamentos",
     "section": "",
-    "text": "ibc-br;desemprego; piri poro"
+    "text": "Título\nblablablla\n\n\ndesenvolvimento\nbalbablablabal\n\n\nConclusão\nblabbla"
   },
   {
-    "objectID": "indice.html#atualizações-semanais-dos-seguintes-indices",
-    "href": "indice.html#atualizações-semanais-dos-seguintes-indices",
-    "title": "Índices",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tá, mas e a economia?",
     "section": "",
-    "text": "ibc-br;desemprego; piri poro"
+    "text": "texto sobre o que é o projeto"
   },
   {
-    "objectID": "indice.html#últimas-notícias-de-macroeconomia",
-    "href": "indice.html#últimas-notícias-de-macroeconomia",
-    "title": "Índices",
-    "section": "Últimas Notícias de Macroeconomia",
-    "text": "Últimas Notícias de Macroeconomia\n\nCongresso pauta Orçamento de 2026\nResumo curto da notícia.\n\n\nInflação desacelera no último trimestre\nResumo curto da notícia."
-  },
-  {
-    "objectID": "email.html",
-    "href": "email.html",
-    "title": "Receba no E-mail",
+    "objectID": "index.html#section",
+    "href": "index.html#section",
+    "title": "Tá, mas e a economia?",
     "section": "",
-    "text": "Carregando…"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "olaaaaaaaaaaaaaaaaaaaaaa"
   },
   {
     "objectID": "artigos/artigo1.html",
@@ -84,24 +70,45 @@
     "text": "Conclusão\nSíntese dos resultados e implicações do estudo."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Tá, mas e a economia?",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "texto sobre o que é o projeto"
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "newsletter.html",
-    "href": "newsletter.html",
-    "title": "Newsletter",
+    "objectID": "email.html",
+    "href": "email.html",
+    "title": "Receba no E-mail",
     "section": "",
-    "text": "Aqui você encontra resumos dos artigos produzidos pelo projeto. Clique em um artigo para acessar o conteúdo completo.\nOutro exemplo para mostrar o resumo dos textos"
+    "text": "Carregando…"
   },
   {
-    "objectID": "newsletter.html#últimos-artigos",
-    "href": "newsletter.html#últimos-artigos",
+    "objectID": "indice.html",
+    "href": "indice.html",
+    "title": "Índices",
+    "section": "",
+    "text": "ibc-br;desemprego; piri poro"
+  },
+  {
+    "objectID": "indice.html#atualizações-semanais-dos-seguintes-indices",
+    "href": "indice.html#atualizações-semanais-dos-seguintes-indices",
+    "title": "Índices",
+    "section": "",
+    "text": "ibc-br;desemprego; piri poro"
+  },
+  {
+    "objectID": "indice.html#últimas-notícias-de-macroeconomia",
+    "href": "indice.html#últimas-notícias-de-macroeconomia",
+    "title": "Índices",
+    "section": "Últimas Notícias de Macroeconomia",
+    "text": "Últimas Notícias de Macroeconomia\n\nCongresso pauta Orçamento de 2026\nResumo curto da notícia.\n\n\nInflação desacelera no último trimestre\nResumo curto da notícia."
+  },
+  {
+    "objectID": "Newsletter/indexNe.html",
+    "href": "Newsletter/indexNe.html",
     "title": "Newsletter",
-    "section": "Últimos artigos",
-    "text": "Últimos artigos\nAqui você encontra resumos dos artigos do projeto. Clique em um artigo para ler o texto completo.\n\n\n\n\n\n\n\nTítulo do artigo\n18 de setembro de 2025\nResumo do artigo. Aqui entra um texto curto descrevendo o conteúdo, os objetivos do texto e por que ele é relevante.\n\n\n\n\n\n\n\n\n\n\nTítulo do artigo\n18 de novembro de 2025\nResumo do artigo. Texto genérico para visualização.\n\n\n\n\nOutra opção\n\n\n\n\n\nTítulo do Artigo\n16 de fevereiro de 2016\nResumo do texto aqui…\n\n\n\n\noutro estilo\n\n\n\n\n\n\nTítulo do Artigo\nAqui entra o resumo do seu texto. Ele ocupa o centro e se ajusta automaticamente ao espaço disponível.\n\n\nSeu Nome\n27 de Dezembro, 2025"
+    "section": "",
+    "text": "Anbima defende BC após questionamentos\n\n\nBC\n\n\nO ouro ganhou espaço na China como reserva de segurança não apenas pelo Banco Central, mas por instituições e famílias, em demanda refletida por fortes fluxos de entrada em fundos ETF.\n\n\n\n\n\n30/12/2025\n\n\nJoão , Maria\n\n\n\n\n\n\n\n\n\n\n\n\nAnbima defende BC após questionamentos\n\n\nBC\n\n\nO ouro ganhou espaço na China como reserva de segurança não apenas pelo Banco Central, mas por instituições e famílias, em demanda refletida por fortes fluxos de entrada em fundos ETF.\n\n\n\n\n\n30/12/2025\n\n\nJoão , Maria\n\n\n\n\n\n\n\n\n\n\n\n\nApós fraudes bilionárias, Fazenda planeja novas frentes contra devedores\n\n\nfraudes\n\n\nA desarticulação de esquemas bilionários de fraude fiscal nos últimos meses passou a orientar uma nova fase de atuação do governo federal a partir de 2026, voltada ao enfrentamento de grandes devedores estruturados e à repressão a práticas ilícitas que distorcem mercados e comprometem a arrecadação.\n\n\n\n\n\n30/12/2025\n\n\nJoão , Maria\n\n\n\n\n\n\n\n\n\n\n\n\nJapão marca auditoria sanitária da carne bovina do Brasil para 2026\n\n\nBC\n\n\nO governo do Japão realizará uma auditoria para avaliar o sistema sanitário de carne bovina do Brasil em março de 2026, como parte do processo para abertura do mercado japonês ao produto brasileiro, informou o Ministério da Agricultura nesta sexta-feira (26).\n\n\n\n\n\n30/12/2025\n\n\nJoão , Maria\n\n\n\n\n\n\n\n\n\n\n\n\nSTF atende setor privado e dá mais um mês para distribuição de dividendos\n\n\nstf\n\n\nO ministro Kassio Nunes Marques, do STF (Supremo Tribunal Federal), deu mais um mês para empresas aprovarem a distribuição de dividendos de 2025 sem perda da isenção do Imposto de Renda (IR), no âmbito da lei que ampliou a faixa de isenção do imposto para quem ganha até R$ 5 mil.\n\n\n\n\n\n30/12/2025\n\n\nJoão , Maria\n\n\n\n\n\nSem itens correspondentes"
   }
 ]

@@ -92,3 +92,61 @@
   color: #666;
   min-width: 150px;
 }
+
+
+/* Container geral */
+.newsletter-header {
+  padding: 2rem 0;
+  border-bottom: 1px solid #ddd;
+}
+
+/* Título */
+.newsletter-title {
+  font-size: 2.1rem;
+  font-weight: 600;
+  line-height: 1.2;
+  margin-bottom: 0.8rem;
+}
+
+/* Resumo */
+.newsletter-summary {
+  font-size: 1.05rem;
+  color: #444;
+  max-width: 90%;
+}
+
+/* Metadata */
+.newsletter-meta {
+  text-align: right;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+.newsletter-date {
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.newsletter-authors {
+  line-height: 1.4;
+}
+
+/* ======= */
+/* MOBILE */
+/* ======= */
+
+@media (max-width: 768px) {
+  .newsletter-title {
+    font-size: 1.6rem;
+  }
+
+  .newsletter-summary {
+    font-size: 1rem;
+    max-width: 100%;
+  }
+
+  .newsletter-meta {
+    text-align: left;
+    margin-top: 1.5rem;
+  }
+}
