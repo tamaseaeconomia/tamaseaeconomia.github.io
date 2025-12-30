@@ -2,6 +2,7 @@
 title: "Índices Econômicos"
 format:
   html:
+    page-layout: full
     toc: false
 execute:
   echo: false
