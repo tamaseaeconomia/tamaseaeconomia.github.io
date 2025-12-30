@@ -1,10 +1,17 @@
+---
+title: "Índices Econômicos" 
+format: 
+  html: 
+   page-layout: full 
+   toc: false 
+---
+
 ## Painel de Indicadores
 
-:::: {.container}
+::: {.container .text-center}
+::: {.row}
 
-::: {.row .text-center}
-
-::: {.col-md-3 .indicator-item}
+::: {.col-md-3}
 <div class="indicator-circle">
   <img src="foto1.png" alt="IPCA">
 </div>
@@ -14,7 +21,7 @@
 <p class="indicator-date">nov/2025</p>
 :::
 
-::: {.col-md-3 .indicator-item}
+::: {.col-md-3}
 <div class="indicator-circle">
   <img src="foto1.png" alt="INPC">
 </div>
@@ -24,7 +31,7 @@
 <p class="indicator-date">nov/2025</p>
 :::
 
-::: {.col-md-3 .indicator-item}
+::: {.col-md-3}
 <div class="indicator-circle">
   <img src="foto1.png" alt="PIB">
 </div>
@@ -34,7 +41,7 @@
 <p class="indicator-date">3º tri/2025</p>
 :::
 
-::: {.col-md-3 .indicator-item}
+::: {.col-md-3}
 <div class="indicator-circle">
   <img src="foto1.png" alt="Desemprego">
 </div>
@@ -45,5 +52,4 @@
 :::
 
 :::
-
-::::
+:::

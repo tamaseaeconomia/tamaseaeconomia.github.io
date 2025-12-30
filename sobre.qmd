@@ -1,42 +1,56 @@
+---
+title: "Integrantes"
+toc: true
+title-block-banner: true
+toc-title: "Nesta página"
+toc-depth: 10
+format:
+  html:
+    anchor-sections: false
+---
+
 ## Sobre o projeto
 
-   Este projeto tem como objetivo analisar temas econômicos e sociais de forma acessível, utilizando dados públicos e ferramentas de análise estatística em R.
-   A iniciativa é desenvolvida de forma colaborativa por estudantes interessados em macroeconomia, políticas públicas e divulgação científica.
+Este projeto tem como objetivo analisar temas econômicos e sociais de forma acessível, utilizando dados públicos e ferramentas de análise estatística em R. A iniciativa é desenvolvida de forma colaborativa por estudantes interessados em macroeconomia, políticas públicas e divulgação científica.
 
 ------------------------------------------------------------------------
 
 ## Nossa equipe
 
+
+::: grid
+
+::: g-col-4
+
+![](imagens/equipe/foto.png)
+
 <h4>**Pessoa 1**</h4>
 
-Estudante de economia com foco em macroeconomia, finanças públicas e visualização de dados utilizando R.
+Estudante de economia com foco em macroeconomia, finanças públicas e visualização de dados utilizando R. :::
 :::
 
-:::g-col-4
+::: g-col-4
 ![](imagens/equipe/foto.png)
 
 <h4>**Pessoa 2**</h4>
 
 Economista em formação, com interesse em políticas públicas, desigualdade social e análise de dados aplicados à economia brasileira.
-
 :::
 
-:::g-col-4
+::: g-col-4
 ![](imagens/equipe/foto.png)
 
 <h4>**Pessoa 3**</h4>
 
 Estudante de economia com foco em macroeconomia, finanças públicas e visualização de dados utilizando R.
-
 :::
 
-:::g-col-4
+::: g-col-4
 ![](imagens/equipe/foto.png)
 
 <h4>**Pessoa 4**</h4>
 
 Economista em formação, com interesse em políticas públicas, desigualdade social e análise de dados aplicados à economia brasileira.
-
 :::
 
 :::
