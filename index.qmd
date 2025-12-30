@@ -9,8 +9,6 @@ about:
   template: trestles
   image-width: 12em
   image-shape: rounded
-  alignment: left
-  show-links: true
 
 header-includes: >
   <link rel="stylesheet" href="styles.css">
@@ -21,14 +19,14 @@ header-includes: >
 ### Fundadoras
 
 ::: founder
-<img src="pessoa1.png" alt="Pessoa 1"/>
+<img src="pessoa1.jpg" alt="Pessoa 1"/>
 
 **Nome da Pessoa 1**\
 Mini resumo sobre a pessoa 1, formação, área de atuação e vínculo com o projeto.
 :::
 
 ::: founder
-<img src="pessoa2.png" alt="Pessoa 2"/>
+<img src="pessoa1.jpg" alt="Pessoa 2"/>
 
 **Nome da Pessoa 2**\
 Mini resumo sobre a pessoa 2, formação, área de atuação e vínculo com o projeto.
