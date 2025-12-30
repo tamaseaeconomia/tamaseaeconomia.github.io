@@ -1,0 +1,47 @@
+---
+title: "Índices Econômicos"
+format:
+  html:
+    page-layout: full
+    toc: false
+execute:
+  echo: false
+---
+
+## Painel de Indicadores
+
+::: {.row .text-center}
+
+::: {.col-md-3 .indicator-card}
+<img src="../assets/icons/inflacao.svg" class="indicator-icon">
+<h5>Inflação</h5>
+<p class="indicator-sub">IPCA · Mensal</p>
+<p class="indicator-value">0,18%</p>
+<p class="indicator-date">nov/2025</p>
+:::
+
+::: {.col-md-3 .indicator-card}
+<img src="../assets/icons/inpc.svg" class="indicator-icon">
+<h5>Inflação</h5>
+<p class="indicator-sub">INPC</p>
+<p class="indicator-value">0,03%</p>
+<p class="indicator-date">nov/2025</p>
+:::
+
+::: {.col-md-3 .indicator-card}
+<img src="../assets/icons/pib.svg" class="indicator-icon">
+<h5>Variação do PIB</h5>
+<p class="indicator-sub">Acumulado 4 trimestres</p>
+<p class="indicator-value">2,7%</p>
+<p class="indicator-date">3º tri/2025</p>
+:::
+
+::: {.col-md-3 .indicator-card}
+<img src="../assets/icons/desemprego.svg" class="indicator-icon">
+<h5>Desemprego</h5>
+<p class="indicator-sub">PNAD Contínua</p>
+<p class="indicator-value">5,6%</p>
+<p class="indicator-date">3º tri/2025</p>
+:::
+
+:::
