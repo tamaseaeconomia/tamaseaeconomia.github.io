@@ -1,0 +1,42 @@
+---
+title: "teste222"
+format: 
+ html:
+   css: style1.css
+---
+
+<div class="macro-container">
+
+{{< indicador
+titulo="Inflação"
+subtitulo="IPCA · Mensal"
+valor="0,18%"
+data="nov 2025"
+icone="📉"
+>}}
+
+{{< indicador
+titulo="Inflação"
+subtitulo="INPC"
+valor="0,03%"
+data="nov 2025"
+icone="📉"
+>}}
+
+{{< indicador
+titulo="Variação do PIB"
+subtitulo="SCNT · Acum. 4 trimestres"
+valor="2,7%"
+data="3º tri 2025"
+icone="💰"
+>}}
+
+{{< indicador
+titulo="Desemprego"
+subtitulo="PNAD Contínua"
+valor="5,6%"
+data="3º tri 2025"
+icone="💼"
+>}}
+
+</div>
