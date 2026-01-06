@@ -1,6 +1,6 @@
 ---
 title: "Integrantes"
-toc: true
+toc: false
 title-block-banner: true
 toc-title: "Nesta página"
 toc-depth: 10
@@ -17,38 +17,16 @@ Este projeto tem como objetivo analisar temas econômicos e sociais de forma ace
 
 ## Nossa equipe
 
-
 ::: grid
 
-::: g-col-4
-
+::: {.g-col-12 .g-col-md-4}
 ![](imagens/equipe/foto.png)
+::: 
 
-<h4>**Pessoa 1**</h4>
+::: {.g-col-12 .g-col-md-8}
+##### **pessoa 1**
 
 Estudante de economia com foco em macroeconomia, finanças públicas e visualização de dados utilizando R.
 :::
 
-::: g-col-4
-![](imagens/equipe/foto.png)
-
-<h4>**Pessoa 2**</h4>
-
-Economista em formação, com interesse em políticas públicas, desigualdade social e análise de dados aplicados à economia brasileira.
-:::
-
-::: g-col-4
-![](imagens/equipe/foto.png)
-
-<h4>**Pessoa 3**</h4>
-
-Estudante de economia com foco em macroeconomia, finanças públicas e visualização de dados utilizando R.
-:::
-
-::: g-col-4
-![](imagens/equipe/foto.png)
-
-<h4>**Pessoa 4**</h4>
-
-Economista em formação, com interesse em políticas públicas, desigualdade social e análise de dados aplicados à economia brasileira.
-:::
+::: 

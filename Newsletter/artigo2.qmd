@@ -10,3 +10,18 @@ format:
   html:
     toc: false
 ---
+
+O presidente Donald Trump bloqueou na sexta-feira (3) a aquisição, pela empresa americana de fotônica HieFo Corp, de ativos da Emcore, especialista em aeroespacial e defesa com sede em Nova Jersey, por US$ 3 milhões, citando preocupações de segurança nacional e relacionadas à China.
+Em uma ordem divulgada pela Casa Branca, Trump afirmou que a HieFo era "controlada por um cidadão da República Popular da China" e que a aquisição dos negócios da Emcore em 2024 levou o presidente a acreditar que a empresa poderia "tomar medidas que ameaçam prejudicar a segurança nacional dos Estados Unidos".
+A ordem não nomeou o indivíduo nem detalhou as preocupações de Trump.
+
+"A transação está expressamente proibida", disse Trump, ordenando que HieFo "se desfaça de todos os interesses e direitos sobre os ativos da Emcore, onde quer que estejam localizados", dentro de 180 dias.
+
+O Comitê de Investimento Estrangeiro nos Estados Unidos identificou um risco à segurança nacional em sua investigação sobre o acordo, informou o Departamento do Tesouro após a ordem de Trump. A declaração não especificou qual o risco à segurança nacional.
+Não foi possível contatar imediatamente a HieFo e a Emcore para comentar o assunto, e elas não haviam publicado nenhuma manifestação em seus sites até o final da noite de sexta-feira.
+
+A Emcore, que tinha ações negociadas em bolsa na época do acordo e posteriormente se tornou privada, afirmou que a HieFo comprou seu negócio de chips e suas operações de fabricação de wafers de fosfeto de índio por US$ 2,92 milhões.
+
+Na época, a HieFo afirmou ter sido cofundada por Genzao Zhang, ex-vice-presidente de engenharia da Emcore, e Harry Moore, cujo perfil no LinkedIn o descreve como ex-diretor sênior de vendas da Emcore.
+
+(Reportagem de Kanishka Singh em Washington; Edição de William Mallard)

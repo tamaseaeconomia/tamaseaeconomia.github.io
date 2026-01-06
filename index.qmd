@@ -10,25 +10,22 @@ header-includes: >
 ---
 
 ::::::: home-container
-::: left-column
+::::: left-column
 ### Fundadoras
 
 ::: founder
-<img src="pessoa1.jpg" class="founder-img">
-**Nome da Pessoa 1** Mini resumo sobre a pessoa 1, formação, área de atuação e vínculo com o projeto.
+<img src="pessoa1.jpg" class="founder-img"/> **Nome da Pessoa 1** Mini resumo sobre a pessoa 1, formação, área de atuação e vínculo com o projeto.
 :::
 
 ::: founder
-<img src="pessoa1.jpg" class="founder-img">
-**Nome da Pessoa 2** Mini resumo sobre a pessoa 2, formação, área de atuação e vínculo com o projeto.
+<img src="pessoa1.jpg" class="founder-img"/> **Nome da Pessoa 2** Mini resumo sobre a pessoa 2, formação, área de atuação e vínculo com o projeto.
 :::
-:::
+:::::
 
 ::: right-column
 ## Sobre o projeto
 
-Texto explicativo do projeto em si.  
-Aqui você descreve o objetivo, a motivação, o público-alvo e o tipo de conteúdo produzido.
+Texto explicativo do projeto em si.
 
 O projeto nasce da necessidade de traduzir evidências, dados e análises econômicas em linguagem acessível, mantendo rigor técnico e compromisso público.
 :::

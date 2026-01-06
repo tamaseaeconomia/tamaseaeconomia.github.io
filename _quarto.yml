@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Tá, mas e a economia?"
+  favicon: imagens/logo.png
   navbar:
     logo: imagens/logo.png
     background: "#04147c"

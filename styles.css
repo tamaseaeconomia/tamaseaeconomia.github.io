@@ -3,7 +3,7 @@
 }
 
 .membro {
-  max-width: 220px;
+  max-width: 90vw;
   margin: 0 auto 40px auto;
   text-align: center;
 }
@@ -19,6 +19,27 @@
 .membro p {
   margin: 0;
 }
+
+.membro {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap; /*permite quebrar a linha */
+}
+
+@media (max-width: 768px) {
+  .membro {
+    flex-direction: column;
+    align-items: center;
+  }
+  .grid {
+    display: block;
+  }
+  .g-col-4{
+    width: 100%;
+  }
+}
+
 
 .newsletter-item {
   padding: 25px 0;
@@ -262,3 +283,5 @@
     padding-left: 0;
   }
 }
+
+
