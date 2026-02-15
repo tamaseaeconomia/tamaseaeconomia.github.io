@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="João, Maria">
+<meta name="description" content="demonstração de todas as flexibilidades e organizações que conheço para o site">
 
-<title>Newsletter – Tá, mas e a economia?</title>
+<title>Estilo 1 – Tá, mas e a economia?</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,8 +33,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
 <link href="../imagens/logo.png" rel="icon" type="image/png">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
@@ -74,70 +74,12 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Procurar"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
 
-<body class="nav-fixed quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+<body class="nav-fixed fullcontent quarto-light"><script id="quarto-html-before-body" type="application/javascript">
     const toggleBodyColorMode = (bsSheetEl) => {
       const mode = bsSheetEl.getAttribute("data-mode");
       const bodyEl = window.document.querySelector("body");
@@ -324,7 +266,7 @@ window.Quarto = {
 <span class="menu-text">Início</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../Newsletter/indexNe.html" aria-current="page"> 
+    <a class="nav-link" href="../Newsletter/indexNe.html"> 
 <span class="menu-text">Newsletter</span></a>
   </li>  
   <li class="nav-item">
@@ -353,25 +295,41 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Newsletter</h1>
-<p class="subtitle lead">explicação…</p>
+<h1 class="title">Estilo 1</h1>
+</div>
+
+<div>
+  <div class="description">
+    demonstração de todas as flexibilidades e organizações que conheço para o site
+  </div>
 </div>
 
 
+<div class="quarto-title-meta">
 
-<div class="quarto-title-meta column-page">
-
+    <div>
+    <div class="quarto-title-meta-heading">Autor</div>
+    <div class="quarto-title-meta-contents">
+             <p>João, Maria </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Data de Publicação</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">30/12/2025</p>
+    </div>
+  </div>
   
     
   </div>
@@ -381,115 +339,98 @@ window.Quarto = {
 </header>
 
 
+<p>Nesse estilo o texto não eh cortado para incluir imagens ou as caixinhas, elas serão sempre paralelas ao texto.</p>
+<section id="subtópico" class="level4">
+<h4 class="anchored" data-anchor-id="subtópico">Subtópico</h4>
+<p>Imagem ocupa o espaço todo.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="imagem.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
+</figure>
+</div>
+<p>Texto continua normalmente após a imagem.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Caixinha
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Esse é um destaque que ocupa toda a largura da página.</p>
+<ul>
+<li>Ponto 1</li>
+<li>Ponto 2</li>
+<li>Ponto 3</li>
+</ul>
+</div>
+</div>
+<p>Outros exemplos de caixinha com cores diferentes.</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Caixinha
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Possibilidade de texto aqui</p>
+<p>Tópicos:</p>
+<ul>
+<li>Ponto 1</li>
+<li>Ponto 2</li>
+<li>Ponto 3</li>
+</ul>
+</div>
+</div>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Caixinha
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>Ponto 1</li>
+<li>Ponto 2</li>
+<li>Ponto 3</li>
+</ul>
+</div>
+</div>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Caixinha
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>Ponto 1</li>
+<li>Ponto 2</li>
+<li>Ponto 3</li>
+</ul>
+</div>
+</div>
+<p>Coloquei como citação por ser o que me lembra, mas dá pra usar pra qualquer coisa como explicações ou fontes.</p>
+<blockquote class="blockquote">
+<p>“…”</p>
+<p>— Economista x</p>
+</blockquote>
 
 
+</section>
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1767063600000" data-listing-file-modified-sort="1771110984419" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="127">
-<div class="thumbnail"><a href="../Newsletter/Estilo1.html" class="no-external">
-
-<p class="card-img-top"><img src="imagem.jpg"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../Newsletter/Estilo1.html" class="no-external">Estilo 1</a>
-</h3>
-<div class="delink listing-description"><a href="../Newsletter/Estilo1.html" class="no-external">
-<p>demonstração de todas as flexibilidades e organizações que conheço para o site</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="../Newsletter/Estilo1.html" class="no-external">
-<div class="listing-date">
-30/12/2025
-</div>
-<div class="listing-author">
-João, Maria
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1767063600000" data-listing-file-modified-sort="1771112019970" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="449">
-<div class="thumbnail"><a href="../Newsletter/Estilo2.html" class="no-external">
-
-<p class="card-img-top"><img src="imagem.jpg"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../Newsletter/Estilo2.html" class="no-external">Estilo 2</a>
-</h3>
-<div class="delink listing-description"><a href="../Newsletter/Estilo2.html" class="no-external">
-<p>demonstração de todas as flexibilidades e organizações que conheço para o site</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="../Newsletter/Estilo2.html" class="no-external">
-<div class="listing-date">
-30/12/2025
-</div>
-<div class="listing-author">
-João, Maria
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1767063600000" data-listing-file-modified-sort="1771113313922" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="477">
-<div class="thumbnail"><a href="../Newsletter/Estilo3.html" class="no-external">
-
-<p class="card-img-top"><img src="imagem.jpg"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../Newsletter/Estilo3.html" class="no-external">Estilo 3</a>
-</h3>
-<div class="delink listing-description"><a href="../Newsletter/Estilo3.html" class="no-external">
-<p>demonstração de todas as flexibilidades e organizações que conheço para o site</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="../Newsletter/Estilo3.html" class="no-external">
-<div class="listing-date">
-30/12/2025
-</div>
-<div class="listing-author">
-João, Maria
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1767063600000" data-listing-file-modified-sort="1771113950248" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="417">
-<div class="thumbnail"><a href="../Newsletter/Estilo4.html" class="no-external">
-
-<p class="card-img-top"><img src="capa.jpg"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../Newsletter/Estilo4.html" class="no-external">Estilo 4</a>
-</h3>
-<div class="delink listing-description"><a href="../Newsletter/Estilo4.html" class="no-external">
-<p>demonstração de todas as flexibilidades e organizações que conheço para o site</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="../Newsletter/Estilo4.html" class="no-external">
-<div class="listing-date">
-30/12/2025
-</div>
-<div class="listing-author">
-João, Maria
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">Sem itens correspondentes</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right

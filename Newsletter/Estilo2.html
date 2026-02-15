@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="João, Maria">
+<meta name="description" content="demonstração de todas as flexibilidades e organizações que conheço para o site">
 
-<title>Newsletter – Tá, mas e a economia?</title>
+<title>Estilo 2 – Tá, mas e a economia?</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,8 +33,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
 <link href="../imagens/logo.png" rel="icon" type="image/png">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
@@ -74,70 +74,13 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Procurar"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="../styles.css">
+<link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+<body class="nav-fixed fullcontent quarto-light"><script id="quarto-html-before-body" type="application/javascript">
     const toggleBodyColorMode = (bsSheetEl) => {
       const mode = bsSheetEl.getAttribute("data-mode");
       const bodyEl = window.document.querySelector("body");
@@ -324,7 +267,7 @@ window.Quarto = {
 <span class="menu-text">Início</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../Newsletter/indexNe.html" aria-current="page"> 
+    <a class="nav-link" href="../Newsletter/indexNe.html"> 
 <span class="menu-text">Newsletter</span></a>
   </li>  
   <li class="nav-item">
@@ -353,25 +296,41 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Newsletter</h1>
-<p class="subtitle lead">explicação…</p>
+<h1 class="title">Estilo 2</h1>
+</div>
+
+<div>
+  <div class="description">
+    demonstração de todas as flexibilidades e organizações que conheço para o site
+  </div>
 </div>
 
 
+<div class="quarto-title-meta">
 
-<div class="quarto-title-meta column-page">
-
+    <div>
+    <div class="quarto-title-meta-heading">Autor</div>
+    <div class="quarto-title-meta-contents">
+             <p>João, Maria </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Data de Publicação</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">30/12/2025</p>
+    </div>
+  </div>
   
     
   </div>
@@ -381,115 +340,39 @@ window.Quarto = {
 </header>
 
 
+<section id="textos-retirado-de-noticias-para-demonstrar-a-estrutura-do-texto." class="level3">
+<h3 class="anchored" data-anchor-id="textos-retirado-de-noticias-para-demonstrar-a-estrutura-do-texto.">Textos retirado de noticias para demonstrar a estrutura do texto.</h3>
+<p>A China implementará o tratamento de tarifa zero para importações dos 53 países africanos com os quais mantém relações diplomáticas.</p>
+<p>A medida será implementada a partir de 1º de maio de 2026, de acordo a mídia estatal.</p>
+<p>Segundo reportagem da televisão estatal, a China também continuará a pressionar pela negociação e assinatura de pactos de parceria econômica conjunta e a expandir ainda mais o acesso das exportações africanas ao mercado chinês por meio de mecanismos aprimorados, como o seu “canal verde”.</p>
+<p><img src="imagem.jpg" class="img-direita img-fluid"></p>
+<p>A Receita Federal conseguiu reduzir em mais de 60% o volume de encomendas internacionais em desacordo com o programa Remessa Conforme, conhecido como “taxa das blusinhas”. No ano passado, o Fisco identificou 6,2 milhões de encomendas em desconformidade com a iniciativa, ante 15,7 milhões em 2024.</p>
+<p>No período, também houve queda no volume de compras internacionais realizadas por brasileiros. Em 2025, a Receita Federal contabilizou 157,3 milhões de encomendas, redução de cerca de 8% em comparação ao ano anterior, quando 169,4 milhões foram registradas.</p>
+<p>Apesar da queda nas encomendas, a arrecadação federal com a taxa das blusinhas duplicou. Subiu de R$ 2,88 bilhões em 2024 para R$ 5 bilhões no ano passado.</p>
+<p>O programa foi implementado em agosto de 2023 como parte de um esforço do governo para combater a sonegação de impostos em compras internacionais. No Remessa Conforme, há duas modalidades de tributação:</p>
+</section>
+<section id="caixinha" class="level3 caixinha-lateral">
+<h3 class="anchored" data-anchor-id="caixinha">Caixinha</h3>
+<p>compras de até US$ 50:</p>
+<ul>
+<li>20% de Imposto de Importação;</li>
+<li>17% de ICMS;</li>
+</ul>
+<p>compras de até US$ 50:</p>
+<ul>
+<li>60% de Imposto de Importação;</li>
+<li>17% de ICMS.</li>
+</ul>
+</section>
+<p>Caso a compra internacional seja realizada em um site não certificado no Remessa Conforme, será aplicada a regra geral, cujas alíquotas são 60% de imposto de importação e 17% de ICMS. Os impostos são aplicados quando o produto chega no Brasil, antes de serem enviados à casa do comprador.</p>
+<p>À primeira vista, a aposta do governo Trump na imigração e nos empregos parece uma simples questão de matemática: se um grande número de trabalhadores for removido do país, os empregadores precisarão recorrer aos trabalhadores que ainda estão nos Estados Unidos para preencher essas vagas.</p>
+<p>No entanto, não é isso que está acontecendo. Os trabalhadores americanos, cidadãos ou não, estão enfrentando um crescimento salarial mais lento, menos vagas de emprego e uma taxa de desemprego mais alta.</p>
+<p>Acontece que há muitos fatores complicados mantendo os americanos desempregados à margem. O principal deles é a menor demanda geral resultante da remoção de pessoas dos Estados Unidos e da interrupção da entrada de novos imigrantes.</p>
+<p>“No primeiro ano do presidente Trump no cargo, todo o crescimento do emprego foi para os trabalhadores nascidos nos Estados Unidos, enquanto o crescimento do emprego diminuiu para os trabalhadores nascidos no exterior”, disse a porta-voz da Casa Branca, Taylor Rogers, à CNN em um comunicado.</p>
 
 
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1767063600000" data-listing-file-modified-sort="1771110984419" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="127">
-<div class="thumbnail"><a href="../Newsletter/Estilo1.html" class="no-external">
-
-<p class="card-img-top"><img src="imagem.jpg"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../Newsletter/Estilo1.html" class="no-external">Estilo 1</a>
-</h3>
-<div class="delink listing-description"><a href="../Newsletter/Estilo1.html" class="no-external">
-<p>demonstração de todas as flexibilidades e organizações que conheço para o site</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="../Newsletter/Estilo1.html" class="no-external">
-<div class="listing-date">
-30/12/2025
-</div>
-<div class="listing-author">
-João, Maria
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1767063600000" data-listing-file-modified-sort="1771112019970" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="449">
-<div class="thumbnail"><a href="../Newsletter/Estilo2.html" class="no-external">
-
-<p class="card-img-top"><img src="imagem.jpg"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../Newsletter/Estilo2.html" class="no-external">Estilo 2</a>
-</h3>
-<div class="delink listing-description"><a href="../Newsletter/Estilo2.html" class="no-external">
-<p>demonstração de todas as flexibilidades e organizações que conheço para o site</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="../Newsletter/Estilo2.html" class="no-external">
-<div class="listing-date">
-30/12/2025
-</div>
-<div class="listing-author">
-João, Maria
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1767063600000" data-listing-file-modified-sort="1771113313922" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="477">
-<div class="thumbnail"><a href="../Newsletter/Estilo3.html" class="no-external">
-
-<p class="card-img-top"><img src="imagem.jpg"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../Newsletter/Estilo3.html" class="no-external">Estilo 3</a>
-</h3>
-<div class="delink listing-description"><a href="../Newsletter/Estilo3.html" class="no-external">
-<p>demonstração de todas as flexibilidades e organizações que conheço para o site</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="../Newsletter/Estilo3.html" class="no-external">
-<div class="listing-date">
-30/12/2025
-</div>
-<div class="listing-author">
-João, Maria
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1767063600000" data-listing-file-modified-sort="1771113950248" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="417">
-<div class="thumbnail"><a href="../Newsletter/Estilo4.html" class="no-external">
-
-<p class="card-img-top"><img src="capa.jpg"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../Newsletter/Estilo4.html" class="no-external">Estilo 4</a>
-</h3>
-<div class="delink listing-description"><a href="../Newsletter/Estilo4.html" class="no-external">
-<p>demonstração de todas as flexibilidades e organizações que conheço para o site</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="../Newsletter/Estilo4.html" class="no-external">
-<div class="listing-date">
-30/12/2025
-</div>
-<div class="listing-author">
-João, Maria
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">Sem itens correspondentes</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right
