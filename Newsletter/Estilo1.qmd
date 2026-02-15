@@ -1,0 +1,66 @@
+---
+title: "Estilo 1"
+author:
+  - João, Maria
+date: 2025-12-30
+description: demonstração de todas as flexibilidades e organizações que conheço para o site
+format:
+  html:
+    toc: false
+---
+
+Nesse estilo o texto não eh cortado para incluir imagens ou as caixinhas, elas serão sempre paralelas ao texto.
+
+#### Subtópico
+
+Imagem ocupa o espaço todo.
+
+![](imagem.jpg){width="100%" fig-align="center"}
+
+Texto continua normalmente após a imagem.
+
+::: callout-note
+### Caixinha
+
+Esse é um destaque que ocupa toda a largura da página.
+
+-   Ponto 1
+-   Ponto 2
+-   Ponto 3
+:::
+
+Outros exemplos de caixinha com cores diferentes.
+
+::: callout-tip
+### Caixinha
+
+Possibilidade de texto aqui
+
+Tópicos:
+
+-   Ponto 1
+-   Ponto 2
+-   Ponto 3
+:::
+
+::: callout-warning
+### Caixinha
+
+-   Ponto 1
+-   Ponto 2
+-   Ponto 3
+:::
+
+::: callout-important
+### Caixinha
+
+-   Ponto 1
+-   Ponto 2
+-   Ponto 3
+:::
+
+Coloquei como citação por ser o que me lembra, mas dá pra usar pra qualquer coisa como explicações ou fontes.
+
+> "..."
+>
+> — Economista x
