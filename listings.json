@@ -2,10 +2,11 @@
   {
     "listing": "/Newsletter/indexNe.html",
     "items": [
-      "/Newsletter/Estilo1.html",
-      "/Newsletter/Estilo2.html",
-      "/Newsletter/Estilo3.html",
-      "/Newsletter/Estilo4.html"
+      "/Newsletter/artigo1.html",
+      "/Newsletter/artigo5.html",
+      "/Newsletter/artigo2.html",
+      "/Newsletter/artigo4.html",
+      "/Newsletter/artigo3.html"
     ]
   }
 ]
