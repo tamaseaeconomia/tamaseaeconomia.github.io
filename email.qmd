@@ -1,6 +1,6 @@
 ---
 title: "Receba no E-mail"
-subtitle: "Receba nossas análises e debates da USP traduzidos para uma linguagem clara e acessível. Inscreva-se para acompanhar a produção acadêmica conectada com o mundo real."
+subtitle: "Receba nossas análises traduzidos para uma linguagem clara e acessível. Inscreva-se para acompanhar a produção acadêmica conectada com o mundo real."
 ---
 
 ::: {style="display: flex; justify-content: center; width: 100%; margin: 30px 0;"}
