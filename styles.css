@@ -284,7 +284,17 @@
   }
 }
 
-/* muda a cor do texto para amarelo ao passar o mouse */
-.navbar-nav .nav-link:hover {
-  color: #fcb54f !important; 
+/*muda a cor do item do menu da página que está aberta (ativa) */
+.navbar-nav .nav-link.active {
+  color: #fcb54f !important;
+}
+
+/* garante que, mesmo estando na página aberta, o hover continue funcionando */
+.navbar-nav .nav-link.active:hover {
+  color: #fcb54f !important;
+}
+
+/* se houver ícones (como o do Instagram) na página ativa, eles também ficam amarelos */
+.navbar-nav .nav-link.active i {
+  color: #fcb54f !important;
 }
