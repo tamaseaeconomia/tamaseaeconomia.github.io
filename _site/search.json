@@ -10,36 +10,52 @@
     "objectID": "sobre.html#sobre-o-projeto",
     "href": "sobre.html#sobre-o-projeto",
     "title": "Integrantes",
+<<<<<<< Updated upstream
     "section": "Sobre o projeto",
     "text": "Sobre o projeto\nEste projeto tem como objetivo analisar temas econômicos e sociais de forma acessível, utilizando dados públicos e ferramentas de análise estatística em R. A iniciativa é desenvolvida de forma colaborativa por estudantes interessados em macroeconomia, políticas públicas e divulgação científica."
+=======
+    "section": "",
+    "text": "Este projeto tem como objetivo analisar temas econômicos e sociais de forma acessível, utilizando dados públicos e ferramentas de análise estatística em R. A iniciativa é desenvolvida de forma colaborativa por estudantes interessados em macroeconomia, políticas públicas e divulgação científica."
+>>>>>>> Stashed changes
   },
   {
     "objectID": "sobre.html#nossa-equipe",
     "href": "sobre.html#nossa-equipe",
     "title": "Integrantes",
     "section": "Nossa equipe",
+<<<<<<< Updated upstream
     "text": "Nossa equipe\n\n\nAnna Livya Queiroz\n\n\n\nBruna Agostini\n\n\n\nCaroline Lhais Oliveira\n\n\n\nGabriel\n\n\n\nGiuliana Sigilló\n\n\n\nGustavo Lima Moraes\n\n\n\nJoão Gabriel\n\n\n\nJonathan Cunha\n\n\n\nLeticia Brito\n\n\n\nManuela Marangoni Jampani\n\n\n\nMatheus de Souza Teixeira\n\n\n\nPaula Leandra"
+=======
+    "text": "Nossa equipe\n\n\n\n\n\npessoa 1\nEstudante de economia com foco em macroeconomia, finanças públicas e visualização de dados utilizando R.\n\n\n\n\n\npessoa 2\nEstudante de economia com foco em macroeconomia, finanças públicas e visualização de dados utilizando R.\n\n\n\n\n\npessoa 3\nEstudante de economia com foco em macroeconomia, finanças públicas e visualização de dados utilizando R."
+>>>>>>> Stashed changes
   },
   {
-    "objectID": "indice.html",
-    "href": "indice.html",
-    "title": "Índices",
+    "objectID": "Newsletter/Estilo4.html",
+    "href": "Newsletter/Estilo4.html",
+    "title": "Estilo 4",
     "section": "",
-    "text": "ibc-br;desemprego; piri poro"
+    "text": "Imagem de capa\n\n\n\nA China implementará o tratamento de tarifa zero para importações dos 53 países africanos com os quais mantém relações diplomáticas.\nA medida será implementada a partir de 1º de maio de 2026, de acordo a mídia estatal.\nSegundo reportagem da televisão estatal, a China também continuará a pressionar pela negociação e assinatura de pactos de parceria econômica conjunta e a expandir ainda mais o acesso das exportações africanas ao mercado chinês por meio de mecanismos aprimorados, como o seu “canal verde”.\n\nSubtítulo da matéria\n\nResumo/comentário/dados/o que quiser. Aqui fica com uma fontezinha diferente.\n\npesar da queda nas encomendas, a arrecadação federal com a taxa das blusinhas duplicou. Subiu de R$ 2,88 bilhões em 2024 para R$ 5 bilhões no ano passado.\nO programa foi implementado em agosto de 2023 como parte de um esforço do governo para combater a sonegação de impostos em compras internacionais. No Remessa Conforme, há duas modalidades de tributação:\n\n“Essa mudança altera profundamente o comportamento do crédito.” — Especialista\n\n\n\nNovo subtópico\nCaso a compra internacional seja realizada em um site não certificado no Remessa Conforme, será aplicada a regra geral, cujas alíquotas são 60% de imposto de importação e 17% de ICMS. Os impostos são aplicados quando o produto chega no Brasil, antes de serem enviados à casa do comprador.\nÀ primeira vista, a aposta do governo Trump na imigração e nos empregos parece uma simples questão de matemática: se um grande número de trabalhadores for removido do país, os empregadores precisarão recorrer aos trabalhadores que ainda estão nos Estados Unidos para preencher essas vagas.\nNo entanto, não é isso que está acontecendo. Os trabalhadores americanos, cidadãos ou não, estão enfrentando um crescimento salarial mais lento, menos vagas de emprego e uma taxa de desemprego mais alta.\n\n\n\n\n\n\nCaixinha\n\n\n\ncompras de até US$ 50:\n\n20% de Imposto de Importação;\n17% de ICMS;\n\ncompras de até US$ 50:\n\n60% de Imposto de Importação;\n17% de ICMS.\n\n\n\nAcontece que há muitos fatores complicados mantendo os americanos desempregados à margem. O principal deles é a menor demanda geral resultante da remoção de pessoas dos Estados Unidos e da interrupção da entrada de novos imigrantes.\n“No primeiro ano do presidente Trump no cargo, todo o crescimento do emprego foi para os trabalhadores nascidos nos Estados Unidos, enquanto o crescimento do emprego diminuiu para os trabalhadores nascidos no exterior”, disse a porta-voz da Casa Branca, Taylor Rogers, à CNN em um comunicado.\n\n\n\n\n\n\nCaixinha\n\n\n\ncompras de até US$ 50:\n\n20% de Imposto de Importação;\n17% de ICMS;\n\ncompras de até US$ 50:\n\n60% de Imposto de Importação;\n17% de ICMS."
   },
   {
-    "objectID": "indice.html#atualizações-semanais-dos-seguintes-indices",
-    "href": "indice.html#atualizações-semanais-dos-seguintes-indices",
-    "title": "Índices",
+    "objectID": "Newsletter/Estilo2.html",
+    "href": "Newsletter/Estilo2.html",
+    "title": "Estilo 2",
     "section": "",
-    "text": "ibc-br;desemprego; piri poro"
+    "text": "Textos retirado de noticias para demonstrar a estrutura do texto.\nA China implementará o tratamento de tarifa zero para importações dos 53 países africanos com os quais mantém relações diplomáticas.\nA medida será implementada a partir de 1º de maio de 2026, de acordo a mídia estatal.\nSegundo reportagem da televisão estatal, a China também continuará a pressionar pela negociação e assinatura de pactos de parceria econômica conjunta e a expandir ainda mais o acesso das exportações africanas ao mercado chinês por meio de mecanismos aprimorados, como o seu “canal verde”.\n\nA Receita Federal conseguiu reduzir em mais de 60% o volume de encomendas internacionais em desacordo com o programa Remessa Conforme, conhecido como “taxa das blusinhas”. No ano passado, o Fisco identificou 6,2 milhões de encomendas em desconformidade com a iniciativa, ante 15,7 milhões em 2024.\nNo período, também houve queda no volume de compras internacionais realizadas por brasileiros. Em 2025, a Receita Federal contabilizou 157,3 milhões de encomendas, redução de cerca de 8% em comparação ao ano anterior, quando 169,4 milhões foram registradas.\nApesar da queda nas encomendas, a arrecadação federal com a taxa das blusinhas duplicou. Subiu de R$ 2,88 bilhões em 2024 para R$ 5 bilhões no ano passado.\nO programa foi implementado em agosto de 2023 como parte de um esforço do governo para combater a sonegação de impostos em compras internacionais. No Remessa Conforme, há duas modalidades de tributação:\n\n\nCaixinha\ncompras de até US$ 50:\n\n20% de Imposto de Importação;\n17% de ICMS;\n\ncompras de até US$ 50:\n\n60% de Imposto de Importação;\n17% de ICMS.\n\n\nCaso a compra internacional seja realizada em um site não certificado no Remessa Conforme, será aplicada a regra geral, cujas alíquotas são 60% de imposto de importação e 17% de ICMS. Os impostos são aplicados quando o produto chega no Brasil, antes de serem enviados à casa do comprador.\nÀ primeira vista, a aposta do governo Trump na imigração e nos empregos parece uma simples questão de matemática: se um grande número de trabalhadores for removido do país, os empregadores precisarão recorrer aos trabalhadores que ainda estão nos Estados Unidos para preencher essas vagas.\nNo entanto, não é isso que está acontecendo. Os trabalhadores americanos, cidadãos ou não, estão enfrentando um crescimento salarial mais lento, menos vagas de emprego e uma taxa de desemprego mais alta.\nAcontece que há muitos fatores complicados mantendo os americanos desempregados à margem. O principal deles é a menor demanda geral resultante da remoção de pessoas dos Estados Unidos e da interrupção da entrada de novos imigrantes.\n“No primeiro ano do presidente Trump no cargo, todo o crescimento do emprego foi para os trabalhadores nascidos nos Estados Unidos, enquanto o crescimento do emprego diminuiu para os trabalhadores nascidos no exterior”, disse a porta-voz da Casa Branca, Taylor Rogers, à CNN em um comunicado."
   },
   {
-    "objectID": "indice.html#últimas-notícias-de-macroeconomia",
-    "href": "indice.html#últimas-notícias-de-macroeconomia",
-    "title": "Índices",
-    "section": "Últimas Notícias de Macroeconomia",
-    "text": "Últimas Notícias de Macroeconomia\n\nCongresso pauta Orçamento de 2026\nResumo curto da notícia.\n\n\nInflação desacelera no último trimestre\nResumo curto da notícia."
+    "objectID": "indices/index.html",
+    "href": "indices/index.html",
+    "title": "Índices Econômicos",
+    "section": "",
+    "text": "IPCA · Mensal\n\n\n0,18%\n\n\nnov/2025\n\n\n\n\n\n\n\n\nINPC\n\n\n0,03%\n\n\nnov/2025\n\n\n\n\n\n\n\n\nAcumulado 4 trimestres\n\n\n2,7%\n\n\n3º tri/2025\n\n\n\n\n\n\n\n\nPNAD Contínua\n\n\n5,6%\n\n\n3º tri/2025"
+  },
+  {
+    "objectID": "indices/index.html#painel-de-indicadores",
+    "href": "indices/index.html#painel-de-indicadores",
+    "title": "Índices Econômicos",
+    "section": "",
+    "text": "IPCA · Mensal\n\n\n0,18%\n\n\nnov/2025\n\n\n\n\n\n\n\n\nINPC\n\n\n0,03%\n\n\nnov/2025\n\n\n\n\n\n\n\n\nAcumulado 4 trimestres\n\n\n2,7%\n\n\n3º tri/2025\n\n\n\n\n\n\n\n\nPNAD Contínua\n\n\n5,6%\n\n\n3º tri/2025"
   },
   {
     "objectID": "email.html",
@@ -56,34 +72,6 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "artigos/artigo1.html",
-    "href": "artigos/artigo1.html",
-    "title": "Título do Artigo 1",
-    "section": "",
-    "text": "Este é o texto completo do artigo. Aqui você desenvolve a ideia com mais profundidade, dados, gráficos e referências."
-  },
-  {
-    "objectID": "artigos/artigo1.html#introdução",
-    "href": "artigos/artigo1.html#introdução",
-    "title": "Título do Artigo 1",
-    "section": "",
-    "text": "Este é o texto completo do artigo. Aqui você desenvolve a ideia com mais profundidade, dados, gráficos e referências."
-  },
-  {
-    "objectID": "artigos/artigo1.html#desenvolvimento",
-    "href": "artigos/artigo1.html#desenvolvimento",
-    "title": "Título do Artigo 1",
-    "section": "Desenvolvimento",
-    "text": "Desenvolvimento\nTexto longo, análises, gráficos em R, tabelas, etc."
-  },
-  {
-    "objectID": "artigos/artigo1.html#conclusão",
-    "href": "artigos/artigo1.html#conclusão",
-    "title": "Título do Artigo 1",
-    "section": "Conclusão",
-    "text": "Conclusão\nSíntese dos resultados e implicações do estudo."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Início",
@@ -91,16 +79,31 @@
     "text": "Nome da Pessoa 1 Mini resumo sobre a pessoa 1, formação, área de atuação e vínculo com o projeto.\n\n\n Nome da Pessoa 2 Mini resumo sobre a pessoa 2, formação, área de atuação e vínculo com o projeto.\n\n\n\n\nTexto explicativo do projeto em si.\nO projeto nasce da necessidade de traduzir evidências, dados e análises econômicas em linguagem acessível, mantendo rigor técnico e compromisso público."
   },
   {
-    "objectID": "newsletter.html",
-    "href": "newsletter.html",
-    "title": "Newsletter",
+    "objectID": "index.html#sobre-o-projeto",
+    "href": "index.html#sobre-o-projeto",
+    "title": "Início",
     "section": "",
-    "text": "Aqui você encontra resumos dos artigos produzidos pelo projeto. Clique em um artigo para acessar o conteúdo completo.\nOutro exemplo para mostrar o resumo dos textos"
+    "text": "Texto explicativo do projeto em si.\nO projeto nasce da necessidade de traduzir evidências, dados e análises econômicas em linguagem acessível, mantendo rigor técnico e compromisso público."
   },
   {
-    "objectID": "newsletter.html#últimos-artigos",
-    "href": "newsletter.html#últimos-artigos",
+    "objectID": "Newsletter/Estilo1.html",
+    "href": "Newsletter/Estilo1.html",
+    "title": "Estilo 1",
+    "section": "",
+    "text": "Nesse estilo o texto não eh cortado para incluir imagens ou as caixinhas, elas serão sempre paralelas ao texto.\n\nSubtópico\nImagem ocupa o espaço todo.\n\n\n\n\n\nTexto continua normalmente após a imagem.\n\n\n\n\n\n\nCaixinha\n\n\n\nEsse é um destaque que ocupa toda a largura da página.\n\nPonto 1\nPonto 2\nPonto 3\n\n\n\nOutros exemplos de caixinha com cores diferentes.\n\n\n\n\n\n\nCaixinha\n\n\n\nPossibilidade de texto aqui\nTópicos:\n\nPonto 1\nPonto 2\nPonto 3\n\n\n\n\n\n\n\n\n\nCaixinha\n\n\n\n\nPonto 1\nPonto 2\nPonto 3\n\n\n\n\n\n\n\n\n\nCaixinha\n\n\n\n\nPonto 1\nPonto 2\nPonto 3\n\n\n\nColoquei como citação por ser o que me lembra, mas dá pra usar pra qualquer coisa como explicações ou fontes.\n\n“…”\n— Economista x"
+  },
+  {
+    "objectID": "Newsletter/Estilo3.html",
+    "href": "Newsletter/Estilo3.html",
+    "title": "Estilo 3",
+    "section": "",
+    "text": "Mesmos textos utilizados no estilo 2\n\nA China implementará o tratamento de tarifa zero para importações dos 53 países africanos com os quais mantém relações diplomáticas.\nA medida será implementada a partir de 1º de maio de 2026, de acordo a mídia estatal.\nSegundo reportagem da televisão estatal, a China também continuará a pressionar pela negociação e assinatura de pactos de parceria econômica conjunta e a expandir ainda mais o acesso das exportações africanas ao mercado chinês por meio de mecanismos aprimorados, como o seu “canal verde”.\n\nSubtópico\nA Receita Federal conseguiu reduzir em mais de 60% o volume de encomendas internacionais em desacordo com o programa Remessa Conforme, conhecido como “taxa das blusinhas”. No ano passado, o Fisco identificou 6,2 milhões de encomendas em desconformidade com a iniciativa, ante 15,7 milhões em 2024.\nNo período, também houve queda no volume de compras internacionais realizadas por brasileiros. Em 2025, a Receita Federal contabilizou 157,3 milhões de encomendas, redução de cerca de 8% em comparação ao ano anterior, quando 169,4 milhões foram registradas.\n\nApesar da queda nas encomendas, a arrecadação federal com a taxa das blusinhas duplicou. Subiu de R$ 2,88 bilhões em 2024 para R$ 5 bilhões no ano passado.\nO programa foi implementado em agosto de 2023 como parte de um esforço do governo para combater a sonegação de impostos em compras internacionais. No Remessa Conforme, há duas modalidades de tributação:\n\n\n\n\n\n\nCaixinha\n\n\n\ncompras de até US$ 50:\n\n20% de Imposto de Importação;\n17% de ICMS;\n\ncompras de até US$ 50:\n\n60% de Imposto de Importação;\n17% de ICMS.\n\n\n\nCaso a compra internacional seja realizada em um site não certificado no Remessa Conforme, será aplicada a regra geral, cujas alíquotas são 60% de imposto de importação e 17% de ICMS. Os impostos são aplicados quando o produto chega no Brasil, antes de serem enviados à casa do comprador.\nÀ primeira vista, a aposta do governo Trump na imigração e nos empregos parece uma simples questão de matemática: se um grande número de trabalhadores for removido do país, os empregadores precisarão recorrer aos trabalhadores que ainda estão nos Estados Unidos para preencher essas vagas.\nNo entanto, não é isso que está acontecendo. Os trabalhadores americanos, cidadãos ou não, estão enfrentando um crescimento salarial mais lento, menos vagas de emprego e uma taxa de desemprego mais alta.\nAcontece que há muitos fatores complicados mantendo os americanos desempregados à margem. O principal deles é a menor demanda geral resultante da remoção de pessoas dos Estados Unidos e da interrupção da entrada de novos imigrantes.\n“No primeiro ano do presidente Trump no cargo, todo o crescimento do emprego foi para os trabalhadores nascidos nos Estados Unidos, enquanto o crescimento do emprego diminuiu para os trabalhadores nascidos no exterior”, disse a porta-voz da Casa Branca, Taylor Rogers, à CNN em um comunicado.\n\n\n\n\n\n\nCaixinha\n\n\n\ncompras de até US$ 50:\n\n20% de Imposto de Importação;\n17% de ICMS;\n\ncompras de até US$ 50:\n\n60% de Imposto de Importação;\n17% de ICMS."
+  },
+  {
+    "objectID": "Newsletter/indexNe.html",
+    "href": "Newsletter/indexNe.html",
     "title": "Newsletter",
+<<<<<<< Updated upstream
     "section": "Últimos artigos",
     "text": "Últimos artigos\nAqui você encontra resumos dos artigos do projeto. Clique em um artigo para ler o texto completo.\n\n\n\n\n\n\n\nTítulo do artigo\n18 de setembro de 2025\nResumo do artigo. Aqui entra um texto curto descrevendo o conteúdo, os objetivos do texto e por que ele é relevante.\n\n\n\n\n\n\n\n\n\n\nTítulo do artigo\n18 de novembro de 2025\nResumo do artigo. Texto genérico para visualização.\n\n\n\n\nOutra opção\n\n\n\n\n\nTítulo do Artigo\n16 de fevereiro de 2016\nResumo do texto aqui…\n\n\n\n\noutro estilo\n\n\n\n\n\n\nTítulo do Artigo\nAqui entra o resumo do seu texto. Ele ocupa o centro e se ajusta automaticamente ao espaço disponível.\n\n\nSeu Nome\n27 de Dezembro, 2025"
   },
@@ -124,5 +127,9 @@
     "title": "Integrantes",
     "section": "Nossa equipe",
     "text": "Nossa equipe\n\n\nAnna Livya Queiroz\n\n\n\nBruna Agostini\n\n\n\nCaroline Lhais Oliveira\n\n\n\nGabriel\n\n\n\nGiuliana Sigilló\n\n\n\nGustavo Lima Moraes\n\n\n\nJoão Gabriel\n\n\n\nJonathan Cunha\n\n\n\nLeticia Brito\n\n\n\nManuela Marangoni Jampani\n\n\n\nMatheus de Souza Teixeira\n\n\n\nPaula Leandra\n\n\n\n:::::::::::::::"
+=======
+    "section": "",
+    "text": "Estilo 1\n\n\ndemonstração de todas as flexibilidades e organizações que conheço para o site\n\n\n\n\n\n30/12/2025\n\n\nJoão, Maria\n\n\n\n\n\n\n\n\n\n\n\n\nEstilo 2\n\n\ndemonstração de todas as flexibilidades e organizações que conheço para o site\n\n\n\n\n\n30/12/2025\n\n\nJoão, Maria\n\n\n\n\n\n\n\n\n\n\n\n\nEstilo 3\n\n\ndemonstração de todas as flexibilidades e organizações que conheço para o site\n\n\n\n\n\n30/12/2025\n\n\nJoão, Maria\n\n\n\n\n\n\n\n\n\n\n\n\nEstilo 4\n\n\ndemonstração de todas as flexibilidades e organizações que conheço para o site\n\n\n\n\n\n30/12/2025\n\n\nJoão, Maria\n\n\n\n\n\nSem itens correspondentes"
+>>>>>>> Stashed changes
   }
 ]

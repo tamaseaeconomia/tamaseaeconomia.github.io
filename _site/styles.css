@@ -2,9 +2,8 @@
   max-height: 40px;
 }
 
-
 .membro {
-  max-width: 220px;
+  max-width: 90vw;
   margin: 0 auto 40px auto;
   text-align: center;
 }
@@ -20,6 +19,27 @@
 .membro p {
   margin: 0;
 }
+
+.membro {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap; /*permite quebrar a linha */
+}
+
+@media (max-width: 768px) {
+  .membro {
+    flex-direction: column;
+    align-items: center;
+  }
+  .grid {
+    display: block;
+  }
+  .g-col-4{
+    width: 100%;
+  }
+}
+
 
 .newsletter-item {
   padding: 25px 0;
@@ -92,3 +112,176 @@
   color: #666;
   min-width: 150px;
 }
+
+
+/* Container geral */
+.newsletter-header {
+  padding: 2rem 0;
+  border-bottom: 1px solid #ddd;
+}
+
+/* Título */
+.newsletter-title {
+  font-size: 2.1rem;
+  font-weight: 600;
+  line-height: 1.2;
+  margin-bottom: 0.8rem;
+}
+
+/* Resumo */
+.newsletter-summary {
+  font-size: 1.05rem;
+  color: #444;
+  max-width: 90%;
+}
+
+/* Metadata */
+.newsletter-meta {
+  text-align: right;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+.newsletter-date {
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.newsletter-authors {
+  line-height: 1.4;
+}
+
+/* ======= */
+/* MOBILE */
+/* ======= */
+
+@media (max-width: 768px) {
+  .newsletter-title {
+    font-size: 1.6rem;
+  }
+
+  .newsletter-summary {
+    font-size: 1rem;
+    max-width: 100%;
+  }
+
+  .newsletter-meta {
+    text-align: left;
+    margin-top: 1.5rem;
+  }
+}
+
+/* Painel geral */
+.indicator-panel {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+/* Cada indicador */
+.indicator-item {
+  padding: 1.5rem 1rem;
+}
+
+/* Círculo do ícone */
+.indicator-circle {
+  width: 90px;
+  height: 90px;
+  margin: 0 auto 0.8rem;
+  background-color: #f2f2f2;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.indicator-circle img {
+  width: 45px;
+  height: auto;
+}
+
+/* Textos */
+.indicator-item h5 {
+  font-weight: 600;
+  margin-bottom: 0.2rem;
+}
+
+.indicator-sub {
+  font-size: 0.8rem;
+  color: #666;
+  margin-bottom: 0.3rem;
+}
+
+.indicator-value {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: #ff7a00;
+  margin-bottom: 0.1rem;
+}
+
+.indicator-date {
+  font-size: 0.75rem;
+  color: #777;
+}
+
+.indicator-item {
+  width: auto;        /* NUNCA 100% */
+  max-width: 100%;
+  display: block;     /* ok */
+}
+
+
+/* Responsivo */
+@media (max-width: 768px) {
+  .indicator-item {
+    margin-bottom: 1.5rem;
+  }
+}
+
+/*pagina inicial*/
+/* Container principal em Grid */
+.home-container {
+  display: grid;
+  grid-template-columns: 1fr 2fr; /* Coluna da esquerda menor que a da direita */
+  gap: 50px;                      /* Espaço entre as colunas */
+  margin-top: 30px;
+}
+
+/* Coluna das fundadoras */
+.left-column {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;                      /* Espaço entre a fundadora 1 e 2 */
+}
+
+.founder {
+  text-align: left;
+}
+
+/* Estilização das imagens */
+.founder-img {
+  width: 150px;                   /* Ajuste o tamanho conforme desejar */
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;             /* Deixa a imagem redonda */
+  margin-bottom: 10px;
+  display: block;
+}
+
+/* Coluna do texto */
+.right-column {
+  padding-left: 20px;
+  border-left: 1px solid #eee;    /* Opcional: uma linha fina separando */
+}
+
+/* Responsividade para celulares */
+@media (max-width: 768px) {
+  .home-container {
+    grid-template-columns: 1fr;   /* No celular, vira uma coluna só */
+  }
+  .right-column {
+    border-left: none;
+    padding-left: 0;
+  }
+}
+
+
