@@ -9,12 +9,13 @@ format:
     toc: false
     css: styles.css
 ---
+Aqui imagens e a caixinha ficam pequenos no canto, enquanto o texto se adapta a elas.
 
-### Textos retirado de noticias para demonstrar a estrutura do texto.
+#### Textos retirado de noticias para demonstrar a estrutura do texto.
 
 A China implementará o tratamento de tarifa zero para importações dos 53 países africanos com os quais mantém relações diplomáticas.
 
-A medida será implementada a partir de 1º de maio de 2026, de acordo a mídia estatal. 
+A medida será implementada a partir de 1º de maio de 2026, de acordo a mídia estatal.
 
 Segundo reportagem da televisão estatal, a China também continuará a pressionar pela negociação e assinatura de pactos de parceria econômica conjunta e a expandir ainda mais o acesso das exportações africanas ao mercado chinês por meio de mecanismos aprimorados, como o seu "canal verde".
 
@@ -24,22 +25,22 @@ A Receita Federal conseguiu reduzir em mais de 60% o volume de encomendas intern
 
 No período, também houve queda no volume de compras internacionais realizadas por brasileiros. Em 2025, a Receita Federal contabilizou 157,3 milhões de encomendas, redução de cerca de 8% em comparação ao ano anterior, quando 169,4 milhões foram registradas.
 
-Apesar da queda nas encomendas, a arrecadação federal com a taxa das blusinhas duplicou. Subiu de R$ 2,88 bilhões em 2024 para R$ 5 bilhões no ano passado.
+Apesar da queda nas encomendas, a arrecadação federal com a taxa das blusinhas duplicou. Subiu de R\$ 2,88 bilhões em 2024 para R\$ 5 bilhões no ano passado.
 
 O programa foi implementado em agosto de 2023 como parte de um esforço do governo para combater a sonegação de impostos em compras internacionais. No Remessa Conforme, há duas modalidades de tributação:
 
-::: {.caixinha-lateral}
+::: caixinha-lateral
 ### Caixinha
 
-compras de até US$ 50:
+compras de até US\$ 50:
 
-- 20% de Imposto de Importação;
-- 17% de ICMS;
+-   20% de Imposto de Importação;
+-   17% de ICMS;
 
-compras de até US$ 50:
+compras de até US\$ 50:
 
-- 60% de Imposto de Importação;
-- 17% de ICMS.
+-   60% de Imposto de Importação;
+-   17% de ICMS.
 :::
 
 Caso a compra internacional seja realizada em um site não certificado no Remessa Conforme, será aplicada a regra geral, cujas alíquotas são 60% de imposto de importação e 17% de ICMS. Os impostos são aplicados quando o produto chega no Brasil, antes de serem enviados à casa do comprador.
