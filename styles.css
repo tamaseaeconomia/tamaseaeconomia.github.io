@@ -284,4 +284,7 @@
   }
 }
 
-
+/* muda a cor do texto para amarelo ao passar o mouse */
+.navbar-nav .nav-link:hover {
+  color: #fcb54f !important; 
+}
