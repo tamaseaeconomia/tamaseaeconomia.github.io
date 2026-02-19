@@ -3,18 +3,16 @@ project:
 
 website:
   title: "Tá, mas e a economia?"
-  favicon: imagens/logo.png
+  favicon: imagens/logo_fav.ico
   navbar:
-    logo: imagens/logo.png
-    background: "#04147c"
+    logo: imagens/logo_aex.png
+    background: "#223a52"
     foreground: "white"
     right:
       - text: "Início"
         href: index.qmd
       - text: "Newsletter"
         file: Newsletter/indexNe.qmd
-      - text: "Índices"
-        file: indices/index.qmd
       - text: "Quem somos?"
         href: sobre.qmd
       - text: "Receba no email"
@@ -23,10 +21,10 @@ website:
         href: https://www.instagram.com/tamaseaeconomia
         aria-label: Instagram
   page-footer:
-    background: "#04147c"
+    background: "#223a52"
     left: |
       Site desenvolvido por 
-      <a href="HTTPS://LINK_DA_PAULA" style="color: white; text-decoration: none;">
+      <a href="https://www.linkedin.com/in/paula-oliveira-431271220/" style="color: white; text-decoration: none;">
         Paula Leandra <i class="bi bi-linkedin"></i>
       </a> 
        e 

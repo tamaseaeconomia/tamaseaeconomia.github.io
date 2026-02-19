@@ -13,11 +13,13 @@ format:
 
 ## Sobre o projeto
 
-Este projeto tem como objetivo analisar temas econômicos e sociais de forma acessível, utilizando dados públicos e ferramentas de análise estatística em R. A iniciativa é desenvolvida de forma colaborativa por estudantes interessados em macroeconomia, políticas públicas e divulgação científica.
+Conheça a equipe por trás das análises e publicações deste semestre. Nosso projeto faz parte das **Atividades Extensionistas Currículares (AEX)**, o que significa que nosso time é dinâmico e rotativo.
+
+A cada novo ciclo, novos estudantes assumem o desafio de levar o conhecimento acadêmico para a sociedade. Estes são os colaboradores que compõem o projeto no período atual:
 
 ------------------------------------------------------------------------
 
-## Nossa equipe
+### Nossa equipe 2025/2 e 2026/1
 
 ::::::::::::::: grid
 ::: {.g-col-12 .g-col-md-4}
