@@ -1,0 +1,42 @@
+
+.img-direita {
+  float: right;
+  width: 40%;
+  margin: 0 0 15px 20px;
+}
+
+.caixinha-lateral {
+  float: left;
+  width: 35%;
+  background-color: #f4f4f4;
+  padding: 15px;
+  margin: 10px 20px 10px 0;
+  border-left: 4px solid #8B0000;
+}
+
+
+
+.duas-colunas {
+  column-count: 2;
+  column-gap: 40px;
+  text-align: justify;
+  line-height: 1.7;
+}
+
+.duas-colunas img {
+  width: 100%;
+  margin: 15px 0;
+}
+
+
+.hero img {
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+}
+
+.lead {
+  font-size: 1.3em;
+  font-weight: 300;
+  max-width: 700px;
+}

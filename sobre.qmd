@@ -1,8 +1,10 @@
 ---
 title: "Integrantes"
+title-block-style: none
 toc: false
-title-block-banner: true
+title-block-banner: false
 toc-title: "Nesta página"
+sidebar: false
 toc-depth: 10
 format:
   html:
@@ -17,28 +19,66 @@ Este projeto tem como objetivo analisar temas econômicos e sociais de forma ace
 
 ## Nossa equipe
 
-::: grid
+::: {.grid}
 
 ::: {.g-col-12 .g-col-md-4}
-![](imagens/equipe/foto.png)
-::: 
-
-::: {.g-col-12 .g-col-md-8}
-##### **pessoa 1**
-
-Estudante de economia com foco em macroeconomia, finanças públicas e visualização de dados utilizando R.
+##### **Anna Livya Queiroz**
+![](images/clipboard-4042184240.jpeg){width="150"}
 :::
 
-:::{.g-col-12 .g-col-md-8}
-##### **pessoa 2**
-
-Estudante de economia com foco em macroeconomia, finanças públicas e visualização de dados utilizando R.
+::: {.g-col-12 .g-col-md-4}
+##### **Bruna Agostini**
+![](images/clipboard-2642606476.jpeg){width="150"}
 :::
 
-:::{.g-col-12 .g-col-md-8}
-##### **pessoa 3**
+::: {.g-col-12 .g-col-md-4}
+##### **Caroline Lhais Oliveira**
+![](images/clipboard-3508393542.jpeg){width="150"}
+:::
 
-Estudante de economia com foco em macroeconomia, finanças públicas e visualização de dados utilizando R.
+::: {.g-col-12 .g-col-md-4}
+##### **Gabriel**
+![](images/clipboard-335215217.jpeg){width="150"}
+:::
+
+::: {.g-col-12 .g-col-md-4}
+##### **Giuliana Sigilló**
+![](images/clipboard-370101971.jpeg){width="150"}
+:::
+
+::: {.g-col-12 .g-col-md-4}
+##### **Gustavo Lima Moraes**
+![](images/clipboard-1030265860.jpeg){width="150"}
+:::
+
+::: {.g-col-12 .g-col-md-4}
+##### **João Gabriel**
+![](images/clipboard-3759248711.jpeg){width="150"}
+:::
+
+::: {.g-col-12 .g-col-md-4}
+##### **Jonathan Cunha**
+![](images/clipboard-1002129704.jpeg){width="150"}
+:::
+
+::: {.g-col-12 .g-col-md-4}
+##### **Leticia Brito**
+![](images/clipboard-3442889573.jpeg){width="150"}
+:::
+
+::: {.g-col-12 .g-col-md-4}
+##### **Manuela Marangoni Jampani**
+![](images/clipboard-1268148681.jpeg){width="150"}
+:::
+
+::: {.g-col-12 .g-col-md-4}
+##### **Matheus de Souza Teixeira**
+![](images/clipboard-2197960862.jpeg){width="150"}
+:::
+
+::: {.g-col-12 .g-col-md-4}
+##### **Paula Leandra**
+![](images/clipboard-584421673.jpeg){width="150"}
 :::
 
 :::

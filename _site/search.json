@@ -2,23 +2,23 @@
   {
     "objectID": "sobre.html",
     "href": "sobre.html",
-    "title": "Tá, mas e a economia?",
+    "title": "Integrantes",
     "section": "",
-    "text": "Este projeto tem como objetivo analisar temas econômicos e sociais de forma acessível, utilizando dados públicos e ferramentas de análise estatística em R.\nA iniciativa é desenvolvida de forma colaborativa por estudantes interessados em macroeconomia, políticas públicas e divulgação científica."
+    "text": "Este projeto tem como objetivo analisar temas econômicos e sociais de forma acessível, utilizando dados públicos e ferramentas de análise estatística em R. A iniciativa é desenvolvida de forma colaborativa por estudantes interessados em macroeconomia, políticas públicas e divulgação científica."
   },
   {
     "objectID": "sobre.html#sobre-o-projeto",
     "href": "sobre.html#sobre-o-projeto",
-    "title": "Tá, mas e a economia?",
-    "section": "",
-    "text": "Este projeto tem como objetivo analisar temas econômicos e sociais de forma acessível, utilizando dados públicos e ferramentas de análise estatística em R.\nA iniciativa é desenvolvida de forma colaborativa por estudantes interessados em macroeconomia, políticas públicas e divulgação científica."
+    "title": "Integrantes",
+    "section": "Sobre o projeto",
+    "text": "Sobre o projeto\nEste projeto tem como objetivo analisar temas econômicos e sociais de forma acessível, utilizando dados públicos e ferramentas de análise estatística em R. A iniciativa é desenvolvida de forma colaborativa por estudantes interessados em macroeconomia, políticas públicas e divulgação científica."
   },
   {
     "objectID": "sobre.html#nossa-equipe",
     "href": "sobre.html#nossa-equipe",
-    "title": "Tá, mas e a economia?",
+    "title": "Integrantes",
     "section": "Nossa equipe",
-    "text": "Nossa equipe\n\n\n\n\n\nNome da Pessoa 1\nEconomista em formação, com interesse em políticas públicas, desigualdade social e análise de dados aplicados à economia brasileira.\n\n\n\n\n\n\nNome da Pessoa 2\nEstudante de economia com foco em macroeconomia, finanças públicas e visualização de dados utilizando R.\n\n\n\n\n\n\n\n\n\nNome da Pessoa 3\nEconomista em formação, com interesse em políticas públicas, desigualdade social e análise de dados aplicados à economia brasileira.\n\n\n\n\n\n\nNome da Pessoa 4\nEstudante de economia com foco em macroeconomia, finanças públicas e visualização de dados utilizando R."
+    "text": "Nossa equipe\n\n\nAnna Livya Queiroz\n\n\n\nBruna Agostini\n\n\n\nCaroline Lhais Oliveira\n\n\n\nGabriel\n\n\n\nGiuliana Sigilló\n\n\n\nGustavo Lima Moraes\n\n\n\nJoão Gabriel\n\n\n\nJonathan Cunha\n\n\n\nLeticia Brito\n\n\n\nManuela Marangoni Jampani\n\n\n\nMatheus de Souza Teixeira\n\n\n\nPaula Leandra"
   },
   {
     "objectID": "indice.html",
@@ -46,7 +46,7 @@
     "href": "email.html",
     "title": "Receba no E-mail",
     "section": "",
-    "text": "Carregando…"
+    "text": "&lt;p&gt;Carregando…&lt;/p&gt;"
   },
   {
     "objectID": "about.html",
@@ -86,9 +86,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Tá, mas e a economia?",
+    "title": "Início",
     "section": "",
-    "text": "texto sobre o que é o projeto"
+    "text": "Nome da Pessoa 1 Mini resumo sobre a pessoa 1, formação, área de atuação e vínculo com o projeto.\n\n\n Nome da Pessoa 2 Mini resumo sobre a pessoa 2, formação, área de atuação e vínculo com o projeto.\n\n\n\n\nTexto explicativo do projeto em si.\nO projeto nasce da necessidade de traduzir evidências, dados e análises econômicas em linguagem acessível, mantendo rigor técnico e compromisso público."
   },
   {
     "objectID": "newsletter.html",
@@ -103,5 +103,26 @@
     "title": "Newsletter",
     "section": "Últimos artigos",
     "text": "Últimos artigos\nAqui você encontra resumos dos artigos do projeto. Clique em um artigo para ler o texto completo.\n\n\n\n\n\n\n\nTítulo do artigo\n18 de setembro de 2025\nResumo do artigo. Aqui entra um texto curto descrevendo o conteúdo, os objetivos do texto e por que ele é relevante.\n\n\n\n\n\n\n\n\n\n\nTítulo do artigo\n18 de novembro de 2025\nResumo do artigo. Texto genérico para visualização.\n\n\n\n\nOutra opção\n\n\n\n\n\nTítulo do Artigo\n16 de fevereiro de 2016\nResumo do texto aqui…\n\n\n\n\noutro estilo\n\n\n\n\n\n\nTítulo do Artigo\nAqui entra o resumo do seu texto. Ele ocupa o centro e se ajusta automaticamente ao espaço disponível.\n\n\nSeu Nome\n27 de Dezembro, 2025"
+  },
+  {
+    "objectID": "index.html#sobre-o-projeto",
+    "href": "index.html#sobre-o-projeto",
+    "title": "Início",
+    "section": "",
+    "text": "Texto explicativo do projeto em si.\nO projeto nasce da necessidade de traduzir evidências, dados e análises econômicas em linguagem acessível, mantendo rigor técnico e compromisso público."
+  },
+  {
+    "objectID": "Newsletter/indexNe.html",
+    "href": "Newsletter/indexNe.html",
+    "title": "Newsletter",
+    "section": "",
+    "text": "Estilo 1\n\n\n\n\n\ndemonstração de todas as flexibilidades e organizações que conheço para o site\n\n\n\n\n\n30/12/2025\n\n\nJoão, Maria\n\n\n\n\n\n\n\n\n\n\n\n\nEstilo 2\n\n\n\n\n\ndemonstração de todas as flexibilidades e organizações que conheço para o site\n\n\n\n\n\n30/12/2025\n\n\nJoão, Maria\n\n\n\n\n\n\n\n\n\n\n\n\nEstilo 3\n\n\n\n\n\ndemonstração de todas as flexibilidades e organizações que conheço para o site\n\n\n\n\n\n30/12/2025\n\n\nJoão, Maria\n\n\n\n\n\n\n\n\n\n\n\n\nEstilo 4\n\n\n\n\n\ndemonstração de todas as flexibilidades e organizações que conheço para o site\n\n\n\n\n\n30/12/2025\n\n\nJoão, Maria\n\n\n\n\n\n\nSem itens correspondentes"
+  },
+  {
+    "objectID": "sobre.html#nossa-equipe-1",
+    "href": "sobre.html#nossa-equipe-1",
+    "title": "Integrantes",
+    "section": "Nossa equipe",
+    "text": "Nossa equipe\n\n\nAnna Livya Queiroz\n\n\n\nBruna Agostini\n\n\n\nCaroline Lhais Oliveira\n\n\n\nGabriel\n\n\n\nGiuliana Sigilló\n\n\n\nGustavo Lima Moraes\n\n\n\nJoão Gabriel\n\n\n\nJonathan Cunha\n\n\n\nLeticia Brito\n\n\n\nManuela Marangoni Jampani\n\n\n\nMatheus de Souza Teixeira\n\n\n\nPaula Leandra\n\n\n\n:::::::::::::::"
   }
 ]

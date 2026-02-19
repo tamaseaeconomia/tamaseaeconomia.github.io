@@ -3,5 +3,9 @@ title: "Receba no E-mail"
 ---
 
 ::: {style="display: flex; justify-content: center; width: 100%; margin: 30px 0;"}
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSepDFK1JVseUKW9MFiMY68qHY_jEB6Mh_0YNk1SmRuaZ4qwgw/viewform?embedded=true" width="640" height="853" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSepDFK1JVseUKW9MFiMY68qHY_jEB6Mh_0YNk1SmRuaZ4qwgw/viewform?embedded=true" width="640" height="853" frameborder="0" marginheight="0" marginwidth="0">
+
+Carregando…
+
+</iframe>
 :::

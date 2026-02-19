@@ -22,6 +22,18 @@ website:
       - icon: instagram
         href: https://www.instagram.com/tamaseaeconomia
         aria-label: Instagram
+  page-footer:
+    background: "#04147c"
+    left: |
+      Site desenvolvido por 
+      <a href="HTTPS://LINK_DA_PAULA" style="color: white; text-decoration: none;">
+        Paula Leandra <i class="bi bi-linkedin"></i>
+      </a> 
+       e 
+      <a href="https://www.linkedin.com/in/jonathan-cunha-78bb0b28b/" style="color: white; text-decoration: none;">
+        Jonathan Cunha <i class="bi bi-linkedin"></i>
+      </a>
+    right: "2026 Tá, mas e a economia?"
 
 format:
   html:
