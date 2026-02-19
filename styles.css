@@ -284,6 +284,12 @@
   }
 }
 
+
+/* MUDANDO A COR DA NAVBAR */
+.navbar-nav .nav-link:hover {
+  color: #fcb54f !important; 
+}
+
 /*muda a cor do item do menu da página que está aberta (ativa) */
 .navbar-nav .nav-link.active {
   color: #fcb54f !important;
