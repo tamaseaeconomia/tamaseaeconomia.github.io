@@ -304,3 +304,7 @@
 .navbar-nav .nav-link.active i {
   color: #fcb54f !important;
 }
+
+.navbar-brand img {
+  max-height: 56px;   /* aumente aqui */
+}
