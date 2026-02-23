@@ -2,10 +2,10 @@ project:
   type: website
 
 website:
-  title: "Tá, mas e a economia?"
+  title: " "
   favicon: imagens/logo_fav.ico
   navbar:
-    logo: imagens/logo_aex.png
+    logo: imagens/logo_aex_2.png
     background: "#223a52"
     foreground: "white"
     right:
