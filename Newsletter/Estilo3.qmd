@@ -1,72 +1,75 @@
 ---
-title: "Estilo 3"
+title: Taxação dos mais ricos e seu impacto econômico
 author:
-  - João, Maria
+  - Anna Livya & Caroline Lhaís
+  
 date: 2025-12-30
-description: demonstração de todas as flexibilidades e organizações que conheço para o site
+description: Entenda como a ampliação da isenção do Imposto Renda e a tributação mínima instaurada pelo Projeto de Lei 1.087/2025 impactam o seu cotidiano.
+
 format:
   html:
     toc: false
     css: styles.css
 ---
-Texto com duas colunas, caixinha e imagem ocupam o espaço total de uma coluna.
 
-### Texto retirado de noticias
+**O Projeto de Lei 1.087/2025**
 
-::::: duas-colunas
-A China implementará o tratamento de tarifa zero para importações dos 53 países africanos com os quais mantém relações diplomáticas.
+A taxação da população mais rica e a isenção do Imposto de Renda até certa faixa  é o grande tema dos últimos tempos, mas o que de fato é esse Projeto de Lei? O PL 1.087/2025 aprovado pelo Plenário, é um projeto que propõe alterações na legislação do Imposto de Renda da Pessoa Física a fim de ampliar a faixa de isenção para rendas mensais de até 5 mil reais por mês (60 mil reais anuais), bem como também instituir uma tributação mínima para pessoas físicas de renda superior a 600 mil reais anuais (50 mil reais mensais), além de estabelecer uma tributação na fonte de 10% sobre lucros ou dividendos da pessoa física.
 
-A medida será implementada a partir de 1º de maio de 2026, de acordo a mídia estatal.
+Para melhor compreensão, deve-se primeiramente entender que essas medidas formam um sistema de compensação fiscal, ou seja, apesar de diminuir a arrecadação de impostos de famílias de rendas mais baixas, isso será compensado com a taxação de quem ganha mais, vindo do Princípio da Capacidade Contributiva, da Economia.
 
-Segundo reportagem da televisão estatal, a China também continuará a pressionar pela negociação e assinatura de pactos de parceria econômica conjunta e a expandir ainda mais o acesso das exportações africanas ao mercado chinês por meio de mecanismos aprimorados, como o seu "canal verde".
+::: duas-colunas
+**Tá, mas e a economia?**
 
-#### Subtópico
+Princípio da Capacidade Contributiva descreve o subprincípio da Igualdade Tributária, ou seja, ela estabelece que os impostos devem ser aumentados de forma gradual conforme a capacidade econômica (renda) de cada indivíduo.
+:::
 
-A Receita Federal conseguiu reduzir em mais de 60% o volume de encomendas internacionais em desacordo com o programa Remessa Conforme, conhecido como “taxa das blusinhas”. No ano passado, o Fisco identificou 6,2 milhões de encomendas em desconformidade com a iniciativa, ante 15,7 milhões em 2024.
+**Como isso impacta o cotidiano**
 
-No período, também houve queda no volume de compras internacionais realizadas por brasileiros. Em 2025, a Receita Federal contabilizou 157,3 milhões de encomendas, redução de cerca de 8% em comparação ao ano anterior, quando 169,4 milhões foram registradas.
+A primeira medida, de ampliar a isenção do IR visa ampliar o poder de compra para as famílias, visto que esse dinheiro que “sobra”, será circulado na economia na forma de consumo.
 
-![](imagem.jpg){width="100%"}
+Essa medida gera estímulo à demanda agregada (em grande resumo, mede tudo que as pessoas, empresas e governo desejam comprar), que é a soma do consumo, investimentos (gastos das empresas em ativos - como por exemplo máquinas), gastos do Governo e as exportações líquidas, uma das equações básicas da Macroeconomia.
 
-Apesar da queda nas encomendas, a arrecadação federal com a taxa das blusinhas duplicou. Subiu de R\$ 2,88 bilhões em 2024 para R\$ 5 bilhões no ano passado.
-
-O programa foi implementado em agosto de 2023 como parte de um esforço do governo para combater a sonegação de impostos em compras internacionais. No Remessa Conforme, há duas modalidades de tributação:
+O principal impacto macroeconômico dessa primeira mudança reside na diferença entre as Propensões Marginais a Consumir (PMgC) de cada faixa de renda. Contribuintes que ganham menos tendem a gastar mais do dinheiro extra com o consumo imediato de bens e serviços. 
 
 ::: callout-note
-### Caixinha
+**Tá, mas e a economia?**
 
-compras de até US\$ 50:
-
--   20% de Imposto de Importação;
--   17% de ICMS;
-
-compras de até US\$ 50:
-
--   60% de Imposto de Importação;
--   17% de ICMS.
+Propensão Marginal: descreve a tendência de um aumento na renda disponível ser destinado parcialmente para consumo (PMgC) e poupança (PMgS). Por exemplo, o aumento de 100 reais para uma pessoa com 0,8 de Propensão Marginal a Consumir resulta em 80 reais gastos em consumo, e os 20 reais restantes para poupança.
 :::
 
-Caso a compra internacional seja realizada em um site não certificado no Remessa Conforme, será aplicada a regra geral, cujas alíquotas são 60% de imposto de importação e 17% de ICMS. Os impostos são aplicados quando o produto chega no Brasil, antes de serem enviados à casa do comprador.
+Em contrapartida, as camadas de alta renda possuem maior Propensão Marginal a Poupar (PMgS), o que significa que uma eventual redução em sua renda disponível, em decorrência do aumento da tributação, afeta predominantemente seu estoque de poupança ou o volume de investimentos financeiros, sem provocar mudanças significativas em seus padrões de consumo.
 
-À primeira vista, a aposta do governo Trump na imigração e nos empregos parece uma simples questão de matemática: se um grande número de trabalhadores for removido do país, os empregadores precisarão recorrer aos trabalhadores que ainda estão nos Estados Unidos para preencher essas vagas.
+Esse deslocamento da renda estimula a busca por bens e serviços no curto prazo, pois a isenção na base da pirâmide injeta recursos diretamente na economia real, beneficiando setores como varejo e serviços, convertendo assim parte do recurso que seria poupado pela parcela com ganhos mais altos da sociedade em atividade econômica circulante.
 
-No entanto, não é isso que está acontecendo. Os trabalhadores americanos, cidadãos ou não, estão enfrentando um crescimento salarial mais lento, menos vagas de emprego e uma taxa de desemprego mais alta.
+Além disso, ao redistribuir renda em favor das camadas de menor poder aquisitivo, a proposta tende a aumentar o bem-estar geral, já que o dinheiro adicional tem um efeito mais significativo na vida de quem ganha menos do que na de quem já possui renda elevada.
 
-Acontece que há muitos fatores complicados mantendo os americanos desempregados à margem. O principal deles é a menor demanda geral resultante da remoção de pessoas dos Estados Unidos e da interrupção da entrada de novos imigrantes.
+Quando o projeto amplia o poder de compra da base da pirâmide social, ele não contribui apenas para o crescimento da economia por meio do aumento do consumo, mas também para a redução da desigualdade. Essa diminuição das diferenças de renda está associada a melhores condições de vida, como avanços em saúde, educação e maior integração social. 
 
-“No primeiro ano do presidente Trump no cargo, todo o crescimento do emprego foi para os trabalhadores nascidos nos Estados Unidos, enquanto o crescimento do emprego diminuiu para os trabalhadores nascidos no exterior”, disse a porta-voz da Casa Branca, Taylor Rogers, à CNN em um comunicado.
+Dessa forma, a política tributária deixa de atuar apenas como um meio de arrecadação e passa a ser um instrumento ativo de promoção do bem-estar social e de correção de desigualdades históricas.
 
-::: callout-tip
-### Caixinha
+**Taxação dos mais ricos**
 
-compras de até US\$ 50:
+O projeto também propõe uma taxação mínima para quem ganha acima de R\$ 600 mil anuais para que não consiga escapar da tributação através de deduções, visto que, atualmente, os mais ricos pagam, de forma proporcional, menos imposto que muitas famílias de renda média, porque recebem boa parte da sua renda como lucros, que antes do PL 1.087/2025, não eram tributáveis no imposto de renda para pessoas físicas no Brasil. Desse modo, a proposta cria uma “trava” para que haja uma alíquota mínima que o topo da pirâmide da classe social contribua de forma justa. 
 
--   20% de Imposto de Importação;
--   17% de ICMS;
+Essa segunda medida, que seria a tributação na fonte de 10% dos lucros, basicamente, as empresas são como árvores e dão seus frutos (lucros), hoje, o Governo cobra uma taxa pelo fruto, mas cobra apenas da empresa e não do indivíduo que recebe o lucro das empresas (os donos por exemplo), mas com o novo projeto de lei, o Estado começa a cobrar 10% de cada fruto que chegará nessas pessoas para que seja convertido em investimento de infraestrutura para o país. 
 
-compras de até US\$ 50:
+Dessa forma, o projeto propõe que, mesmo tendo a tributação no CNPJ da empresa, quando esse lucro for distribuído para as pessoas, que são CPF, ele também será tributado com uma alíquota mínima.
 
--   60% de Imposto de Importação;
--   17% de ICMS.
+A partir dessa mudança, se encontra a principal forma de financiar o déficit fiscal causado pela isenção de impostos das famílias de baixa renda, trocando a fonte tributária do próprio Governo. Assim, o orçamento fiscal não é impactado negativamente, pois será possibilitada uma nova via compensatória através da tributação de altas rendas.
+
+Em suma, o Projeto de Lei 1.087/2025 promove uma reestruturação estratégica das receitas do Estado fundamentada na Teoria da Progressividade, princípio econômico que estabelece que a alíquota tributária deve crescer proporcionalmente à renda, garantindo que aqueles com maior capacidade contributiva arquem com uma parcela maior do financiamento público. O objetivo não é arrecadar mais, mas sim "trocar a fonte" de arrecadação, deixa-se de tributar quem ganha até R\$5 mil mensais para tributar os mais ricos.
+
+::: callout-note
+**ODS 10 - Redução das desigualdades**
+
+Através da ampliação da isenção do IR para rendas mais baixas e da maior tributação sobre altas rendas. O Projeto de Lei fortalece a progressividade tributária, garantindo que quem tem maior capacidade contributiva contribua mais.
 :::
-:::::
+
+***Para saber mais:***
+
+*BRASIL. Câmara dos Deputados, Consultoria de Orçamento e Fiscalização Financeira, Núcleo de Economia e Assuntos Fiscais. Disponível em:<https://www2.camara.leg.br/orcamento-da-uniao/estudos/2025/nt_05-2025>.*
+
+*GOBETTI, Sérgio Wulff. Progressividade tributária: diagnóstico para uma proposta de reforma. Disponível em:<https://www.ipea.gov.br/cartadeconjuntura/wp-content/uploads/2024/10/241029_cc_65_nota_8_progressividade_tributaria.pdf>*
+
+*A inteligência artificial foi usada para verificar a gramática e melhorar a compreensão de termos.*

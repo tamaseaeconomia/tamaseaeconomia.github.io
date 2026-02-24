@@ -1,54 +1,68 @@
 ---
-title: "Estilo 2"
+title: Independência do Banco Central: Técnica ou Política?
 author:
-  - João, Maria
+  - Jonathan e João Gabriel 
 date: 2025-12-30
-description: demonstração de todas as flexibilidades e organizações que conheço para o site
+description: Entenda a polêmica que gira em torno da autonomia dos Bancos Centrais tanto
+em Washington quanto em Brasília e como isso afeta a sua vida.
 format:
   html:
     toc: false
     css: styles.css
 ---
-Aqui imagens e a caixinha ficam pequenos no canto, enquanto o texto se adapta a elas.
 
-#### Textos retirado de noticias para demonstrar a estrutura do texto.
-
-A China implementará o tratamento de tarifa zero para importações dos 53 países africanos com os quais mantém relações diplomáticas.
-
-A medida será implementada a partir de 1º de maio de 2026, de acordo a mídia estatal.
-
-Segundo reportagem da televisão estatal, a China também continuará a pressionar pela negociação e assinatura de pactos de parceria econômica conjunta e a expandir ainda mais o acesso das exportações africanas ao mercado chinês por meio de mecanismos aprimorados, como o seu "canal verde".
-
-![](imagem.jpg){.img-direita}
-
-A Receita Federal conseguiu reduzir em mais de 60% o volume de encomendas internacionais em desacordo com o programa Remessa Conforme, conhecido como “taxa das blusinhas”. No ano passado, o Fisco identificou 6,2 milhões de encomendas em desconformidade com a iniciativa, ante 15,7 milhões em 2024.
-
-No período, também houve queda no volume de compras internacionais realizadas por brasileiros. Em 2025, a Receita Federal contabilizou 157,3 milhões de encomendas, redução de cerca de 8% em comparação ao ano anterior, quando 169,4 milhões foram registradas.
-
-Apesar da queda nas encomendas, a arrecadação federal com a taxa das blusinhas duplicou. Subiu de R\$ 2,88 bilhões em 2024 para R\$ 5 bilhões no ano passado.
-
-O programa foi implementado em agosto de 2023 como parte de um esforço do governo para combater a sonegação de impostos em compras internacionais. No Remessa Conforme, há duas modalidades de tributação:
+Após mudanças políticas e na conjuntura mundial recente é comum observar a taxa de juros cada vez mais centralizada no debate político. No Brasil, a polêmica entre o Presidente da República e os Presidentes do Banco Central do Brasil (BCB): Campos Neto e, posteriormente, Galípolo; evidencia choques entre a visão de uma política monetária independente de flutuações políticas e o desejo de liberdade de adotar a política monetária de acordo com o programa de governo. A polêmica se replica no caso dos EUA, em que a nação que conta com a maior economia do mundo debate a função do Federal Reserve, com funcionamento que difere do caso brasileiro. Dessa forma, a função e independência dos bancos centrais é posta em debate e, em meio a tantos termos complicados e manchetes tendenciosas, muito se perde na cacofonia de informação. Assim, nesta publicação nos propomos a analisar as polêmicas, os tipos de independência do BCB a fim de agregar ao recente debate sobre as taxas de juro.
 
 ::: caixinha-lateral
-### Caixinha
+### Tá, mas e a economia? : Independência do Banco Central
 
-compras de até US\$ 50:
+A independência do Banco Central é discutida sob diversas perspectivas:
 
--   20% de Imposto de Importação;
--   17% de ICMS;
+● Independência legal: O Banco Central é garantido por lei e possui regras definidas, sem dependência de manobras ou concessões de poderes políticos.
 
-compras de até US\$ 50:
+● Independência de objetivo (ou política): Se refere à possibilidade do Banco Central em definir os objetivos da política monetária, sem depender de influências de outros poderes.
 
--   60% de Imposto de Importação;
--   17% de ICMS.
+● Independência de instrumento: Se refere à possibilidade do Banco Central em utilizar seus instrumentos livremente em busca do objetivo de política monetária.
 :::
 
-Caso a compra internacional seja realizada em um site não certificado no Remessa Conforme, será aplicada a regra geral, cujas alíquotas são 60% de imposto de importação e 17% de ICMS. Os impostos são aplicados quando o produto chega no Brasil, antes de serem enviados à casa do comprador.
+A polêmica No Brasil. O presidente Luiz Inácio Lula da Silva reacendeu a discussão sobre a independência do BCB, questionando se a gestão estaria alinhada às necessidades de crescimento do país ou a compromissos de gestões anteriores. A crítica central era sobre o patamar da taxa Selic, argumentada pelo governo como impedimento para a geração de empregos e o desenvolvimento da economia real, sugerindo que o controle da inflação não deveria sufocar o crescimento. Simultaneamente, nos Estados Unidos, a tensão segue um roteiro similar protagonizado por Donald Trump em relação ao Federal Reserve (FED) e seu presidente, Jerome Powell. Lá, a discussão sobre a independência do Fed ganha força à medida que o Presidente sinaliza insatisfação com a gestão, buscando influenciar as decisões sobre as taxas de juros para estimular a economia. O debate nas duas nações levantou dúvidas sobre a independência absoluta. Seja em Brasília ou em Washington, líderes políticos desafiam a condução da política monetária revelando uma disputa de poder fundamental: até onde vai a decisão técnica quando ela colide com os interesses do governo eleito? Para se posicionar no debate, é preciso compreender a diferença de independência de instrumento e legal e sua influência na taxa de inflação e de juros de longo prazo.
 
-À primeira vista, a aposta do governo Trump na imigração e nos empregos parece uma simples questão de matemática: se um grande número de trabalhadores for removido do país, os empregadores precisarão recorrer aos trabalhadores que ainda estão nos Estados Unidos para preencher essas vagas.
+A autonomia do Banco Central do Brasil O Banco Central do Brasil (BCB) é a autoridade monetária do Brasil que tem por objetivos buscar as metas de inflação definidas pelo Conselho Monetário Nacional (CMN), garantir um sistema financeiro seguro, operar como administrador das reservas internacionais, garantir liquidez às instituições financeiras e emitir a moeda nacional.
 
-No entanto, não é isso que está acontecendo. Os trabalhadores americanos, cidadãos ou não, estão enfrentando um crescimento salarial mais lento, menos vagas de emprego e uma taxa de desemprego mais alta.
+::: callout-note
+**Tá, mas e a economia? : Metas de Inflação**
 
-Acontece que há muitos fatores complicados mantendo os americanos desempregados à margem. O principal deles é a menor demanda geral resultante da remoção de pessoas dos Estados Unidos e da interrupção da entrada de novos imigrantes.
+Um regime de metas de inflação que consiste em estabelecer metas para o índice de inflação e limites de tolerância para que a autoridade monetária (BCB) possa aplicar seus instrumentos de controle em busca da meta. Além disso, o regime prevê meios de transparência para a operação da autoridade monetária.
+:::
 
-“No primeiro ano do presidente Trump no cargo, todo o crescimento do emprego foi para os trabalhadores nascidos nos Estados Unidos, enquanto o crescimento do emprego diminuiu para os trabalhadores nascidos no exterior”, disse a porta-voz da Casa Branca, Taylor Rogers, à CNN em um comunicado.
+Esse funcionamento revela uma das características principais do BCB: a autonomia instrumental, mas não de meta. Ou seja, o Banco Central, como instituição, possui liberdade para utilizar seus instrumentos em busca da meta de inflação; mas as metas são definidas por um grupo composto por autoridades indicadas pelo presidente da república. Nesse contexto, ainda que o financiamento do banco dependa da aprovação do executivo e congresso nacional e que a meta a ser buscada não esteja sob o poder do banco, a independência legal se dá pela não subordinação direta ao poder executivo, sendo esse responsável apenas pelas indicações de presidentes e diretores do banco, enquanto a operação se dá sem maiores interferências políticas. Além disso, os mandatos para presidentes e diretores do banco são fixos em 4 anos que não coincidem com os mandatos do presidente da república, um desenho que objetiva minimizar as influências dos ciclos políticos na gestão da política monetária. Esse funcionamento é justificado pela corrente principal de teoria econômica, que indica, a partir de evidências de economias reais como no exemplo abaixo, que quão maior a autonomia do banco central ao longo do tempo, menores as taxas de inflação médias do período:
+
+![](images/WhatsApp Image 2026-02-24 at 18.46.40 (1).jpeg)
+
+*Dados de 1955 a 1988*
+
+*Fonte: Alesina, Alberto, and Lawrence H. Summers. "Central bank independence and macroeconomic performance: some comparative evidence." Journal of Money, credit and Banking 25.2 (1993): 151-162.*
+
+E no Brasil? O funcionamento do BCB é baseado na teoria econômica com mais evidências de sucesso. Os três canais principais pelos quais a taxa de juros resulta em uma menor inflação são: redução da demanda, valorização do Real e confiança no Banco Central. A independência de instrumento permite com que o Banco Central possa tomar decisões técnicas pensando na manutenção de uma inflação controlada de longo prazo e não em aspectos eleitorais de curto prazo, aumentando a credibilidade e tornando necessária uma taxa de juros menor para conter um aumento de preço. Além disso, a independência faz com que medidas que alterem o nível de desemprego possam ser realizadas apesar de pressões políticas. Assim, pressões geradas por um mercado de trabalho operando acima do pleno emprego não anulam a tomada de decisão técnica.
+
+::: callout-note
+**Pleno emprego e os Objetivos de Desenvolvimento Sustentável**
+
+Pleno emprego: O pleno emprego é a taxa de desemprego em nível mais baixo o possível antes que existam pressões sobre o nível de preços de uma economia. O pleno emprego se relaciona com o oitavo objetivo de desenvolvimento sustentável da ONU, o qual visa trabalho decente e crescimento econômico até o ano de 2030.
+:::
+
+Esse modelo de funcionamento da regra de metas de inflação se mostrou bem sucedido no Brasil, assim como foi eficaz em exemplos de outras economias. Como se pode observar no gráfico abaixo, a inflação historicamente alta do Brasil se tornou mais comportada após a instituição do regime de metas.
+
+![](images/WhatsApp Image 2026-02-24 at 18.50.22.jpeg)
+
+*Fonte: Gerado por Inteligência Artificial, com dados do sistema de gerenciamento de séries temporais do BCB*
+
+Essa estrutura é vital para que o sistema demonstre força institucional; ela garante que um diretor não seja demitido por tomar decisões tecnicamente necessárias, mas politicamente impopulares, evitando que a gestão da moeda seja sequestrada por ciclos eleitorais de curto prazo. Nos EUA, a importância da independência legal é evidenciada pela forma como o governo tenta pressionar Powell, buscando processá-lo diretamente no Departamento de Justiça. Evidências e a Superioridade das Regras
+
+A defesa de um Banco Central independente não se baseia em convicções ideológicas, mas em evidências empíricas de que regras são superiores à discricionariedade. Quando a condução econômica é puramente discricionária, ou seja, baseada nos desejos momentâneos do governo, surge o problema da "inconsistência temporal": a tentativa de gerar um crescimento artificial hoje invariavelmente resulta em inflação alta amanhã. O Regime de Metas de Inflação, sustentado pela autonomia técnica, é o modelo que apresenta os menores efeitos colaterais de longo prazo. Isso ocorre porque a credibilidade institucional ancora as expectativas: se o mercado confia que o Banco Central seguirá a regra independentemente da pressão política, a inflação tende a cair com menos sacrifício do PIB e do emprego. Por fim, a polêmica entre o Executivo e o Banco Central é conjuntural, mas a manutenção de uma autoridade monetária independente é um avanço estrutural que protege o poder de compra da sociedade contra soluções fáceis que custam caro no futuro.
+
+*Responsabilidade da autoria: \*A inteligência artificial foi usada pontualmente para verificar erros gramaticais, geração de gráficos e encontrar fontes complementares. Fontes:*
+
+[*https://agenciabrasil.ebc.com.br/politica/noticia/2023-05/banco-central-tem-autonomia-mas-*](https://agenciabrasil.ebc.com.br/politica/noticia/2023-05/banco-central-tem-autonomia-mas-) *nao-e-intocavel-diz-lula*
+
+[*http://edition.cnn.com/2025/01/30/business/trump-fed-powell-independence*](http://edition.cnn.com/2025/01/30/business/trump-fed-powell-independence)
