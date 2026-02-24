@@ -1,5 +1,5 @@
 ---
-title:A reforma tributária do consumo de 2026: o que esperar?
+title: "A reforma tributária do consumo de 2026: o que esperar?"
 
 author:
   - Gustavo e Manuela 
@@ -33,11 +33,13 @@ Adicionalmente, será implementado um novo mecanismo de arrecadação de tributo
 
 **Cronograma da Reforma**
 
-	Com previsão de início para 2026, a implementação do novo regime será concluída apenas no ano de 2033. No entanto, o processo contará com etapas graduais ao longo desse período de forma a assegurar uma melhor adaptação pelas empresas e consumidores brasileiros, conforme o cronograma:
+```         
+Com previsão de início para 2026, a implementação do novo regime será concluída apenas no ano de 2033. No entanto, o processo contará com etapas graduais ao longo desse período de forma a assegurar uma melhor adaptação pelas empresas e consumidores brasileiros, conforme o cronograma:
+```
 
 :::: callout-important
 ::: callout-warning
-![](images/WhatsApp Image 2026-02-24 at 14.32.32.jpeg)
+![](images/WhatsApp%20Image%202026-02-24%20at%2014.32.32.jpeg)
 
 Fonte: autoria própria com base no cronograma disponibilizado pela Receita Federal.
 :::
@@ -47,7 +49,9 @@ O ano de 2026 funcionará como um período de aprendizado monitorado pela Receit
 
 **Como fica o consumidor nessa história?**
 
-	As alterações propostas na reforma, ao buscar eliminar a cobrança em cascata dos impostos na cadeia de produção, promoverão em um contexto mais geral, o aumento da eficiência da economia. Isso ocorre, pois cada produto comercializado obedece à regra econômica fundamental da oferta e da demanda, a qual tem como finalidade determinar o preço de equilíbrio de mercado daquela mercadoria ou serviço, com base no quanto os indivíduos estão dispostos a pagar por ela e em sua capacidade estrutural de produção. No entanto, a cobrança de impostos, ao elevar o valor do produto, altera a escolha ótima dos consumidores e desloca a demanda para um nível inferior ao de equilíbrio - visto que as condições de oferta permanecem inalteradas - ocasionando uma perda de eficiência por desperdiçar um ganho de bem-estar em potencial deste produto. Assim, a eliminação por completo dos impostos em cascata diminuirá o caráter distorcivo inerente de toda tributação e proporcionará uma maior eficiência econômica.
+```         
+As alterações propostas na reforma, ao buscar eliminar a cobrança em cascata dos impostos na cadeia de produção, promoverão em um contexto mais geral, o aumento da eficiência da economia. Isso ocorre, pois cada produto comercializado obedece à regra econômica fundamental da oferta e da demanda, a qual tem como finalidade determinar o preço de equilíbrio de mercado daquela mercadoria ou serviço, com base no quanto os indivíduos estão dispostos a pagar por ela e em sua capacidade estrutural de produção. No entanto, a cobrança de impostos, ao elevar o valor do produto, altera a escolha ótima dos consumidores e desloca a demanda para um nível inferior ao de equilíbrio - visto que as condições de oferta permanecem inalteradas - ocasionando uma perda de eficiência por desperdiçar um ganho de bem-estar em potencial deste produto. Assim, a eliminação por completo dos impostos em cascata diminuirá o caráter distorcivo inerente de toda tributação e proporcionará uma maior eficiência econômica.
+```
 
 ::: callout-important
 ### “Tá, mas e a Economia? - Por dentro do conceito de eficiência econômica.”

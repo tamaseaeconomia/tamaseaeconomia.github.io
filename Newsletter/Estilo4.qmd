@@ -1,5 +1,5 @@
 ---
-title: Efeitos distributivos da Selic elevada. 
+title: "Efeitos distributivos da Selic elevada"
 author:
   - Paula Leandra e Matheus Teixeira
 date: 2026-02-24
@@ -37,14 +37,16 @@ O problema é que grande parte da população não possui esse tipo de ativo fin
 
 **Dívida pública**
 
-	Assim, as alterações na taxa de juros básica impactam diretamente a população e reforçam mecanismos de concentração de renda. No entanto, existem canais pelos quais o impacto dessa alteração é indireto, como é o caso da dívida pública.
+```         
+Assim, as alterações na taxa de juros básica impactam diretamente a população e reforçam mecanismos de concentração de renda. No entanto, existem canais pelos quais o impacto dessa alteração é indireto, como é o caso da dívida pública.
+```
 
 A dívida pública brasileira é composta por títulos emitidos pelo Tesouro Nacional. Esses títulos podem ser indexados de maneiras distintas, como atrelados 
 
 à Selic, ao IPCA ou prefixados. 
 
 ::: lead
-![](images/WhatsApp Image 2026-02-24 at 19.03.43.jpeg)
+![](images/WhatsApp%20Image%202026-02-24%20at%2019.03.43.jpeg)
 :::
 
 ::: callout-note

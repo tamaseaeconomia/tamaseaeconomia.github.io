@@ -1,5 +1,5 @@
 ---
-title: Independência do Banco Central: Técnica ou Política?
+title: "Independência do Banco Central: Técnica ou Política?"
 author:
   - Jonathan e João Gabriel 
 date: 2025-12-30
@@ -37,7 +37,7 @@ Um regime de metas de inflação que consiste em estabelecer metas para o índic
 
 Esse funcionamento revela uma das características principais do BCB: a autonomia instrumental, mas não de meta. Ou seja, o Banco Central, como instituição, possui liberdade para utilizar seus instrumentos em busca da meta de inflação; mas as metas são definidas por um grupo composto por autoridades indicadas pelo presidente da república. Nesse contexto, ainda que o financiamento do banco dependa da aprovação do executivo e congresso nacional e que a meta a ser buscada não esteja sob o poder do banco, a independência legal se dá pela não subordinação direta ao poder executivo, sendo esse responsável apenas pelas indicações de presidentes e diretores do banco, enquanto a operação se dá sem maiores interferências políticas. Além disso, os mandatos para presidentes e diretores do banco são fixos em 4 anos que não coincidem com os mandatos do presidente da república, um desenho que objetiva minimizar as influências dos ciclos políticos na gestão da política monetária. Esse funcionamento é justificado pela corrente principal de teoria econômica, que indica, a partir de evidências de economias reais como no exemplo abaixo, que quão maior a autonomia do banco central ao longo do tempo, menores as taxas de inflação médias do período:
 
-![](images/WhatsApp Image 2026-02-24 at 18.46.40 (1).jpeg)
+![](images/WhatsApp%20Image%202026-02-24%20at%2018.46.40%20(1).jpeg)
 
 *Dados de 1955 a 1988*
 
@@ -53,7 +53,7 @@ Pleno emprego: O pleno emprego é a taxa de desemprego em nível mais baixo o po
 
 Esse modelo de funcionamento da regra de metas de inflação se mostrou bem sucedido no Brasil, assim como foi eficaz em exemplos de outras economias. Como se pode observar no gráfico abaixo, a inflação historicamente alta do Brasil se tornou mais comportada após a instituição do regime de metas.
 
-![](images/WhatsApp Image 2026-02-24 at 18.50.22.jpeg)
+![](images/WhatsApp%20Image%202026-02-24%20at%2018.50.22.jpeg)
 
 *Fonte: Gerado por Inteligência Artificial, com dados do sistema de gerenciamento de séries temporais do BCB*
 

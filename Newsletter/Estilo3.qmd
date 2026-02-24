@@ -1,5 +1,5 @@
 ---
-title: Taxação dos mais ricos e seu impacto econômico
+title: "Taxação dos mais ricos e seu impacto econômico"
 author:
   - Anna Livya & Caroline Lhaís
   
