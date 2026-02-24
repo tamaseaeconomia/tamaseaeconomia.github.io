@@ -2,7 +2,7 @@
 title: "Efeitos distributivos da Selic elevada"
 author:
   - Paula Leandra e Matheus Teixeira
-date: 2026-02-24
+date: 2026-02-25
 description: "Juros altos reduzem a inflação, mas podem aumentar a desigualdade: quem vive de renda financeira ganha; quem depende de crédito e emprego sofre mais."
 format:
   html:
