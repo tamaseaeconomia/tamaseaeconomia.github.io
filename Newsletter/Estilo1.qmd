@@ -1,11 +1,9 @@
 ---
 title: "A reforma tributária do consumo de 2026: o que esperar?"
-
 author:
   - Gustavo e Manuela 
 date: 2026-02-25
-description: A Reforma Tributária do Consumo marca uma mudança estrutural no sistema brasileiro de impostos indiretos. Ela busca simplificar, modernizar e alinhar o modelo brasileiro às práticas internacionais. 
-
+description: "A Reforma Tributária do Consumo marca uma mudança estrutural no sistema brasileiro de impostos indiretos. Ela busca simplificar, modernizar e alinhar o modelo brasileiro às práticas internacionais."
 format:
   html:
     toc: false

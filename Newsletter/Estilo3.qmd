@@ -2,14 +2,11 @@
 title: "Taxação dos mais ricos e seu impacto econômico"
 author:
   - Anna Livya & Caroline Lhaís
-  
 date: 2025-12-30
-description: Entenda como a ampliação da isenção do Imposto Renda e a tributação mínima instaurada pelo Projeto de Lei 1.087/2025 impactam o seu cotidiano.
-
+description: "Entenda como a ampliação da isenção do Imposto Renda e a tributação mínima instaurada pelo Projeto de Lei 1.087/2025 impactam o seu cotidiano."
 format:
   html:
     toc: false
-    css: styles.css
 ---
 
 **O Projeto de Lei 1.087/2025**
