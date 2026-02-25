@@ -311,16 +311,22 @@
 
 /* Estilização DO VIDEO QUE FICA NA HOME */
 .video-centro {
-  height: 480px;      /* controla o tamanho real */
+  height: 520px;      /* controla o tamanho real */
   width: auto;        /* mantém proporção */
   display: block;
   margin: 2rem auto;
   border-radius: 16px;
   box-shadow: 0 10px 26px rgba(0,0,0,.18);
+  background: black;
+  padding: 6px;
 }
 
 @media (max-width: 768px) {
   .video-centro {
     width: 95%;
   }
+}
+
+.texto-centro {
+  text-align: center;
 }
