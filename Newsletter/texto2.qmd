@@ -3,8 +3,7 @@ title: "Independência do Banco Central: Técnica ou Política?"
 author:
   - Jonathan e João Gabriel 
 date: 2026-02-25
-description: "Entenda a polêmica que gira em torno da autonomia dos Bancos Centrais tanto
-em Washington quanto em Brasília e como isso afeta a sua vida."
+description: "Entenda a polêmica que gira em torno da autonomia dos Bancos Centrais tanto em Washington quanto em Brasília e como isso afeta a sua vida."
 format:
   html:
     toc: false

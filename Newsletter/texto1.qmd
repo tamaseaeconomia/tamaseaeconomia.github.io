@@ -1,7 +1,7 @@
 ---
 title: "Efeitos distributivos da Selic elevada"
 author:
-  - Paula Leandra e Matheus Teixeira
+  - Paula Leandra, 4° semestre Economia e Matheus Teixeira, 4° semestre Economia
 date: 2026-02-25
 description: "Juros altos reduzem a inflação, mas podem aumentar a desigualdade: quem vive de renda financeira ganha; quem depende de crédito e emprego sofre mais."
 format:
@@ -35,9 +35,7 @@ O problema é que grande parte da população não possui esse tipo de ativo fin
 
 **Dívida pública**
 
-```         
 Assim, as alterações na taxa de juros básica impactam diretamente a população e reforçam mecanismos de concentração de renda. No entanto, existem canais pelos quais o impacto dessa alteração é indireto, como é o caso da dívida pública.
-```
 
 A dívida pública brasileira é composta por títulos emitidos pelo Tesouro Nacional. Esses títulos podem ser indexados de maneiras distintas, como atrelados 
 
@@ -57,9 +55,7 @@ Uma parcela elevada do orçamento público é composta por despesas obrigatória
 
 Como visto no gráfico, cerca de 47% da dívida pública federal é composta por títulos indexados à taxa Selic. Sendo assim, um aumento da Selic faria com que o custo de manutenção da dívida aumentasse. Segundo Sérgio Goldenstein, ex-chefe do Departamento de Mercado Aberto do Banco Central, um aumento de 1 ponto percentual da Selic gera um impacto de R\$ 37,5 bilhões ao longo de 1 ano.
 
-::: callout-note
 ![](images/clipboard-2532812863.png)
-:::
 
 Como é possível ver a partir do gráfico acima, o valor dos ministérios somados, ainda teríamos um valor menor que o destinado para refinanciamento da dívida pública. Evidenciando que o governo brasileiro precisa abrir mão de uma parcela considerável do seu orçamento para destinar a serviços da dívida.
 
