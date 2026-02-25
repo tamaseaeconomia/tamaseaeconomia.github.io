@@ -1,5 +1,5 @@
 ---
-title: "Tá, mas e a economia?" - uma leitura acessível dos temas de interesse público, produzida por estudantes da FEA-RP/USP.
+title: "Tá, mas e a economia? - uma leitura acessível dos temas de interesse público, produzida por estudantes da FEA-RP/USP."
 format:
   html:
     page-layout: full
