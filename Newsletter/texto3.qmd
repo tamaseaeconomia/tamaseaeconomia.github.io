@@ -1,7 +1,7 @@
 ---
 title: "A reforma tributária do consumo de 2026: o que esperar?"
 author:
-  - Gustavo Moraes (6° semestre de economia) e Manuela 
+  - Gustavo Moraes (6° semestre de economia) e Manuela Marangoni (2° semestre de economia)
 date: 2026-02-25
 description: "A Reforma Tributária do Consumo marca uma mudança estrutural no sistema brasileiro de impostos indiretos. Ela busca simplificar, modernizar e alinhar o modelo brasileiro às práticas internacionais."
 format:
@@ -30,13 +30,12 @@ Em 1º de janeiro de 2026, o Brasil deu o primeiro passo prático ao iniciar a t
 Adicionalmente, será implementado um novo mecanismo de arrecadação de tributos denominado Split Payment (Pagamento dividido) que dividirá automaticamente o valor de uma transação entre o vendedor e as autoridades fiscais no momento do pagamento, direcionando os impostos diretamente ao governo, substituindo o recolhimento manual por parte do contribuinte. 
 
 **Cronograma da Reforma**
-        
+
 Com previsão de início para 2026, a implementação do novo regime será concluída apenas no ano de 2033. No entanto, o processo contará com etapas graduais ao longo desse período de forma a assegurar uma melhor adaptação pelas empresas e consumidores brasileiros, conforme o cronograma:
 
 ![](images/WhatsApp%20Image%202026-02-24%20at%2014.32.32.jpeg)
 
 > Fonte: autoria própria com base no cronograma disponibilizado pela Receita Federal.
-
 
 O ano de 2026 funcionará como um período de aprendizado monitorado pela Receita Federal e pelo Comitê Gestor do IBS. Durante todo esse ano, a apuração do IBS e da CBS terá um caráter estritamente informativo. Isso significa que as empresas precisarão calcular e registrar esses novos tributos em seus documentos fiscais para fins de teste, mas não haverá o recolhimento financeiro desses valores.
 
