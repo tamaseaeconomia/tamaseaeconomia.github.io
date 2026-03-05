@@ -4,6 +4,7 @@ project:
 website:
   title: " "
   favicon: imagens/logo_fav.ico
+  google-analytics: "G-VT21GYZ4R3"
   navbar:
     logo: imagens/logo_aex_2.png
     background: "#223a52"
