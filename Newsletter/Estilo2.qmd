@@ -17,15 +17,11 @@ Este texto amplia a análise dos efeitos distributivos da taxa Selic para além 
 
 No curto prazo, a política monetária conduzida pelo Banco Central do Brasil opera sob um trade-off entre inflação e desemprego: a elevação da Selic pode contribuir para a desaceleração dos preços, mas também tende a reduzir o nível de atividade econômica e a demanda por trabalho. Embora o controle inflacionário gere ganhos de bem-estar no longo prazo, ao preservar o poder de compra e reduzir incertezas, esses custos e benefícios recaem de maneira heterogênea sobre a população.
 
-:::: caixinha-lateral-esq
 ::: caixinha-lateral-esq
 **“Tá, mas e a economia?”**
 
 O trade-off entre inflação e desemprego é um conceito macroeconômico chamado Curvas de Phillips. O conceito explica que uma variação do desemprego tem um efeito inverso previsível sobre a inflação, que é válido somente no curto prazo, pois no longo prazo os agentes econômicos ajustam suas expectativas e anulam o efeito da política de expansão no emprego.
-
-Localização:depois do segundo parágrafo da introdução
 :::
-::::
 
 A hipótese central deste texto é de que a política monetária afeta os trabalhadores de forma desigual, principalmente trabalhadores cuja renda depende diretamente do nível de atividade econômica. Penalizando de maneira mais intensa determinados grupos no mercado de trabalho quando a taxa de juros é elevada.
 
@@ -40,22 +36,18 @@ Além disso, o aumento do desemprego e a perda de renda associados à desacelera
 ::: {.caixinha .lateral .esquerda}
 **“Tá, mas e a economia?”:**
 
-	A desigualdade funcional da renda é a distribuição da riqueza gerada entre os fatores de produção, analisando a porção que vai para o trabalho e o que vai pra o capital. Ou seja, mede se os trabalhadores ganham menos em relação aos proprietários de capital.
+A desigualdade funcional da renda é a distribuição da riqueza gerada entre os fatores de produção, analisando a porção que vai para o trabalho e o que vai pra o capital. Ou seja, mede se os trabalhadores ganham menos em relação aos proprietários de capital.
 :::
 
 **Composição do mercado de trabalho:**
 
-```         
 Para que se entenda como o aumento do desemprego causa elevação ou manutenção da desigualdade social, é necessário que se compreenda a composição do mercado de trabalho. No cenário em que a economia se desacelera, as empresas passam por um processo de decisão, no qual precisam cortar gastos e provavelmente diminuir o plantel de funcionários. Nesse caso, os primeiros funcionários a serem desligados são os mais vulneráveis, como: trabalhadores informais, cargos que não exigem alto grau de escolaridade e cargos de natureza não essencial.
 
 O trabalho informal nos últimos anos ganhou espaço nos debates econômicos e políticos, devido ao aumento de trabalhadores migrando do trabalho formal ao informal. No entanto, trabalhadores informais estão mais suscetíveis ao desemprego, devido à ausência de direitos, entre eles, o aviso prévio e o pagamento de multa rescisória, como é o caso do Fundo de Garantia do Tempo de Serviço - FGTS. Segundo dados disponibilizados, em 2019,  pelo Instituto Brasileiro de Geografia e Estatística - IBGE, 50,9% das pessoas sem deficiências trabalhadores estavam empregados em um regime formal, enquanto o mesmo indicador era de 34,9% entre aquelas pessoas com deficiência. Portanto, a retração do mercado de trabalho penaliza os informais, especialmente grupos historicamente vulnerabilizados, como pessoas com deficiência.
-```
 
 Em um estudo realizado pelo Instituto de Pesquisa Econômica Aplicada - IPEA, em 2019, a taxa de desemprego caiu para todos os grupos, exceto para os que estudaram somente até o ensino fundamental.  Além disso, o mesmo estudo afirma que o menor grau de escolaridade, além de dificultar a obtenção de um emprego, também aumenta as chances de ser dispensado. Logo, torna-se evidente: cargos que não exigem alto grau de escolaridade são mais vulneráveis, sofrendo maiores impactos em uma economia com elevado nível de desemprego.
 
-```         
-Além disso, segundo um estudo realizado, em 2019, pela Organização Internacional do Trabalho - OIT, no Brasil 92,4% das pessoas que atuam como trabalhadoras(es) domésticas(os) são mulheres, sendo 62% mulheres pretas ou pardas. Além disso, o estudo indica que na América Latina e no Caribe 77,5% delas estão na informalidade. Logo, em um cenário de desaceleração da economia, as empregas domésticas (serviço de natureza não essencial) tendem a sofrer com o desemprego, e como visto, o grupo social mais afetado seria as mulheres, especialmente afrodescendentes. 
-```
+Além disso, segundo um estudo realizado, em 2019, pela Organização Internacional do Trabalho - OIT, no Brasil 92,4% das pessoas que atuam como trabalhadoras(es) domésticas(os) são mulheres, sendo 62% mulheres pretas ou pardas. Além disso, o estudo indica que na América Latina e no Caribe 77,5% delas estão na informalidade. Logo, em um cenário de desaceleração da economia, as empregas domésticas (serviço de natureza não essencial) tendem a sofrer com o desemprego, e como visto, o grupo social mais afetado seria as mulheres, especialmente afrodescendentes. \`\`\`
 
 **Dados**
 
@@ -70,7 +62,7 @@ Como visto, a elevação da taxa de juros causa impacto direto no mercado de tra
 ::: {.caixinha .lateral .esquerda}
 **ODS:**
 
-	Esse texto conversa diretamente com os Objetivos de Desenvolvimento Sustentável (ODS) da Agenda 2030 da ONU, essencialmente a ODS 8 (Trabalho Digno e Crescimento Econômico), promovendo crescimento econômico inclusivo e sustentável somado a um trabalho digno para todos.
+Esse texto conversa diretamente com os Objetivos de Desenvolvimento Sustentável (ODS) da Agenda 2030 da ONU, essencialmente a ODS 8 (Trabalho Digno e Crescimento Econômico), promovendo crescimento econômico inclusivo e sustentável somado a um trabalho digno para todos.
 :::
 
 **Transparência em Uso de IA**
