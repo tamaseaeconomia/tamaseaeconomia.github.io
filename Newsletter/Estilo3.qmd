@@ -1,0 +1,57 @@
+---
+title: "Estilo 2"
+author:
+  - João, Maria
+date: 2025-12-30
+description: demonstração de todas as flexibilidades e organizações que conheço para o site
+format:
+  html:
+    toc: false
+    css: styles.css
+---
+
+### Textos retirado de noticias para demonstrar a estrutura do texto.
+
+A China implementará o tratamento de tarifa zero para importações dos 53 países africanos com os quais mantém relações diplomáticas.
+
+A medida será implementada a partir de 1º de maio de 2026, de acordo a mídia estatal.
+
+Segundo reportagem da televisão estatal, a China também continuará a pressionar pela negociação e assinatura de pactos de parceria econômica conjunta e a expandir ainda mais o acesso das exportações africanas ao mercado chinês por meio de mecanismos aprimorados, como o seu "canal verde".
+
+![](imagem.jpg){.img-direita}
+
+A Receita Federal conseguiu reduzir em mais de 60% o volume de encomendas internacionais em desacordo com o programa Remessa Conforme, conhecido como “taxa das blusinhas”. No ano passado, o Fisco identificou 6,2 milhões de encomendas em desconformidade com a iniciativa, ante 15,7 milhões em 2024.
+
+No período, também houve queda no volume de compras internacionais realizadas por brasileiros. Em 2025, a Receita Federal contabilizou 157,3 milhões de encomendas, redução de cerca de 8% em comparação ao ano anterior, quando 169,4 milhões foram registradas.
+
+Apesar da queda nas encomendas, a arrecadação federal com a taxa das blusinhas duplicou. Subiu de R\$ 2,88 bilhões em 2024 para R\$ 5 bilhões no ano passado.
+
+O programa foi implementado em agosto de 2023 como parte de um esforço do governo para combater a sonegação de impostos em compras internacionais. No Remessa Conforme, há duas modalidades de tributação:
+
+::: caixinha-lateral-esq
+### Caixinha
+
+caixinha na esquerda
+
+blablablablblablablaalbblablabla blablablablblablablaalbblablabla blablablablblablablaalbblablabla blablablablblablablaalbblablabla blablablablblablablaalbblablabla
+:::
+
+Caso a compra internacional seja realizada em um site não certificado no Remessa Conforme, será aplicada a regra geral, cujas alíquotas são 60% de imposto de importação e 17% de ICMS. Os impostos são aplicados quando o produto chega no Brasil, antes de serem enviados à casa do comprador.
+
+À primeira vista, a aposta do governo Trump na imigração e nos empregos parece uma simples questão de matemática: se um grande número de trabalhadores for removido do país, os empregadores precisarão recorrer aos trabalhadores que ainda estão nos Estados Unidos para preencher essas vagas.
+
+No entanto, não é isso que está acontecendo. Os trabalhadores americanos, cidadãos ou não, estão enfrentando um crescimento salarial mais lento, menos vagas de emprego e uma taxa de desemprego mais alta.
+
+Acontece que há muitos fatores complicados mantendo os americanos desempregados à margem. O principal deles é a menor demanda geral resultante da remoção de pessoas dos Estados Unidos e da interrupção da entrada de novos imigrantes.
+
+::: caixinha-lateral-dir
+### Caixinha
+
+caixinha na direita
+
+blablablablblablablaalbblablabla blablablablblablablaalbblablabla blablablablblablablaalbblablabla blablablablblablablaalbblablabla blablablablblablablaalbblablabla
+:::
+
+“No primeiro ano do presidente Trump no cargo, todo o crescimento do emprego foi para os trabalhadores nascidos nos Estados Unidos, enquanto o crescimento do emprego diminuiu para os trabalhadores nascidos no exterior”, disse a porta-voz da Casa Branca, Taylor Rogers, à CNN em um comunicado.
+
+![](imagem.jpg){.img-esquerda}
