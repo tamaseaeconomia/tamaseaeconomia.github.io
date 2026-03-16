@@ -81,10 +81,8 @@ TEIXEIRA, Marilane; SALIBA, Clara; OLIVEIRA, Caroline Lima de; ALSISI, Lilia Bom
 
 **Transparência em Uso De IA** Ferramenta: Gemini A finalidade do uso: auxílio no entendimento dos artigos, bem como também na redação da nota, com a finalidade de melhorias finais. As autoras humanas revisaram e são responsáveis pelo conteúdo final.
 
-::: {.botoes-fim-de-pagina}
-
+::: botoes-fim-de-pagina
 [Voltar para a Newsletter](indexNe.qmd){.btn-voltar}
 
 [Ler o próximo texto](Estilo2.qmd){.btn-proximo}
-
 :::
