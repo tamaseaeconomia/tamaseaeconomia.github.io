@@ -77,7 +77,7 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    const listingTargetEl = window.document.querySelector('#listing-segunda-edicao .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
@@ -90,7 +90,35 @@ ul.task-list li input[type="checkbox"] {
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+    window['quarto-listings']['listing-segunda-edicao'] = new List('listing-segunda-edicao', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-primeira-edicao .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-primeira-edicao'] = new List('listing-primeira-edicao', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -386,11 +414,121 @@ window.Quarto = {
 </header>
 
 
+<section id="segunda-edição" class="level2 edicao-container" style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; border-left: 5px solid #1a365d; margin-bottom: 50px;">
+<h2 class="anchored" data-anchor-id="segunda-edição">Segunda Edição</h2>
+<p><strong>Responsáveis pela editoração:</strong> Leticia Brito e Paula Leandra | <em>Publicado em Março de 2026</em></p>
+<hr>
+<div id="listing-segunda-edicao" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1773630000000" data-listing-file-modified-sort="1773688856749" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1668">
+<div class="thumbnail"><a href="../Newsletter/Estilo3.html" class="no-external">
 
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
 
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../Newsletter/Estilo3.html" class="no-external">Banco Master e o Risco Sitêmico</a>
+</h3>
+<div class="delink listing-description"><a href="../Newsletter/Estilo3.html" class="no-external">
+<p>Descubra como o colapso do Master expôs as fragilidades da supervisão bancária no Brasil e por que a conta dessa crise acaba sobrando para a sociedade.</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="../Newsletter/Estilo3.html" class="no-external">
+<div class="listing-date">
+16/03/2026
+</div>
+<div class="listing-author">
+Jonathan Sa Teles, 7° semestre de economia e João Gabriel Gomes, 7° semestre de economia.
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1773630000000" data-listing-file-modified-sort="1773688708248" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1169">
+<div class="thumbnail"><a href="../Newsletter/Estilo2.html" class="no-external">
 
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../Newsletter/Estilo2.html" class="no-external">Consequências socioeconômicas da Selic no mercado de trabalho.</a>
+</h3>
+<div class="delink listing-description"><a href="../Newsletter/Estilo2.html" class="no-external">
+<p>Uma investigação sobre os efeitos distributivos de taxas de juros elevadas no mercado de trabalho, com foco em como a política monetária pode impactar de maneira desigual o emprego e as oportunidades entre trabalhadores.</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="../Newsletter/Estilo2.html" class="no-external">
+<div class="listing-date">
+16/03/2026
+</div>
+<div class="listing-author">
+Paula Leandra, 5º semestre de economia, e Matheus Teixeira, 5º semestre de economia.
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1773630000000" data-listing-file-modified-sort="1773689157440" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1483">
+<div class="thumbnail"><a href="../Newsletter/Estilo4.html" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../Newsletter/Estilo4.html" class="no-external">Estamos vivenciando o fim da hegemonia do dólar?</a>
+</h3>
+<div class="delink listing-description"><a href="../Newsletter/Estilo4.html" class="no-external">
+<p>Nos últimos meses, o dólar tem sofrido ameaças por outros países em eliminar o seu uso como intermediária para trocas bilaterais. Mas quais as causas dessa mudança após 80 anos de hegemonia?</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="../Newsletter/Estilo4.html" class="no-external">
+<div class="listing-date">
+16/03/2026
+</div>
+<div class="listing-author">
+Manuela Marangoni Jampani, 3° semestre de economia e Gustavo Lima Moraes, 7° semestre de economia.
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1773630000000" data-listing-file-modified-sort="1773688617632" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1444">
+<div class="thumbnail"><a href="../Newsletter/Estilo1.html" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../Newsletter/Estilo1.html" class="no-external">O fim da escala 6x1 e a redução da jornada de trabalho.</a>
+</h3>
+<div class="delink listing-description"><a href="../Newsletter/Estilo1.html" class="no-external">
+<p>Entenda o que muda com o fim da escala 6x1 e como a redução da jornada impacta o bem-estar dos trabalhadores, a produtividade e pode influenciar o crescimento da economia brasileira.</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="../Newsletter/Estilo1.html" class="no-external">
+<div class="listing-date">
+16/03/2026
+</div>
+<div class="listing-author">
+Caroline Lhaís, 7° semestre de economia e Anna Livya Queiroz, 5º semestre de economia
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">Sem itens correspondentes</div>
+</div>
+</section>
+<section id="primeira-edição" class="level2 edicao-container" style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; border-left: 5px solid #1a365d; margin-bottom: 50px;">
+<h2 class="anchored" data-anchor-id="primeira-edição">Primeira Edição</h2>
+<p><strong>Organização e Créditos:</strong> Leticia Brito, Giuliana Sigilló e Paula Leandra | <em>Publicado em Fevereiro de 2026</em></p>
+<hr>
+<div id="listing-primeira-edicao" class="quarto-listing quarto-listing-container-default">
 <div class="list quarto-listing-default">
 <div class="quarto-post image-right" data-index="0" data-listing-date-sort="1771988400000" data-listing-file-modified-sort="1772730228241" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1383">
 <div class="thumbnail"><a href="../Newsletter/texto3.html" class="no-external">
@@ -417,57 +555,7 @@ Gustavo Moraes (6° semestre de economia) e Manuela Marangoni (2° semestre de e
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1773630000000" data-listing-file-modified-sort="1773688856749" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1668">
-<div class="thumbnail"><a href="../Newsletter/Estilo3.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../Newsletter/Estilo3.html" class="no-external">Banco Master e o Risco Sitêmico</a>
-</h3>
-<div class="delink listing-description"><a href="../Newsletter/Estilo3.html" class="no-external">
-<p>Descubra como o colapso do Master expôs as fragilidades da supervisão bancária no Brasil e por que a conta dessa crise acaba sobrando para a sociedade.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="../Newsletter/Estilo3.html" class="no-external">
-<div class="listing-date">
-16/03/2026
-</div>
-<div class="listing-author">
-Jonathan Sa Teles, 7° semestre de economia e João Gabriel Gomes, 7° semestre de economia.
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1773630000000" data-listing-file-modified-sort="1773688708248" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1169">
-<div class="thumbnail"><a href="../Newsletter/Estilo2.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../Newsletter/Estilo2.html" class="no-external">Consequências socioeconômicas da Selic no mercado de trabalho.</a>
-</h3>
-<div class="delink listing-description"><a href="../Newsletter/Estilo2.html" class="no-external">
-<p>Uma investigação sobre os efeitos distributivos de taxas de juros elevadas no mercado de trabalho, com foco em como a política monetária pode impactar de maneira desigual o emprego e as oportunidades entre trabalhadores.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="../Newsletter/Estilo2.html" class="no-external">
-<div class="listing-date">
-16/03/2026
-</div>
-<div class="listing-author">
-Paula Leandra, 5º semestre de economia, e Matheus Teixeira, 5º semestre de economia.
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1771988400000" data-listing-file-modified-sort="1771980800520" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1162">
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1771988400000" data-listing-file-modified-sort="1771980800520" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1162">
 <div class="thumbnail"><a href="../Newsletter/texto1.html" class="no-external">
 
 <p class="card-img-top"><img src="images\WhatsApp Image 2026-02-24 at 19.03.43.jpeg"  class="thumbnail-image card-img"/></p>
@@ -492,32 +580,7 @@ Paula Leandra, 4° semestre Economia e Matheus Teixeira, 4° semestre Economia
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-listing-date-sort="1773630000000" data-listing-file-modified-sort="1773688882188" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1483">
-<div class="thumbnail"><a href="../Newsletter/Estilo4.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../Newsletter/Estilo4.html" class="no-external">Estamos vivenciando o fim da hegemonia do dólar?</a>
-</h3>
-<div class="delink listing-description"><a href="../Newsletter/Estilo4.html" class="no-external">
-<p>Nos últimos meses, o dólar tem sofrido ameaças por outros países em eliminar o seu uso como intermediária para trocas bilaterais. Mas quais as causas dessa mudança após 80 anos de hegemonia?</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="../Newsletter/Estilo4.html" class="no-external">
-<div class="listing-date">
-16/03/2026
-</div>
-<div class="listing-author">
-Manuela Marangoni Jampani, 3° semestre de economia e Gustavo Lima Moraes, 7° semestre de economia.
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="5" data-listing-date-sort="1771988400000" data-listing-file-modified-sort="1771980712863" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1294">
+<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1771988400000" data-listing-file-modified-sort="1771980712863" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1294">
 <div class="thumbnail"><a href="../Newsletter/texto2.html" class="no-external">
 
 <p class="card-img-top"><img src="images\WhatsApp Image 2026-02-24 at 18.46.40 (1).jpeg"  class="thumbnail-image card-img"/></p>
@@ -542,32 +605,7 @@ Jonathan e João Gabriel
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="6" data-listing-date-sort="1773630000000" data-listing-file-modified-sort="1773688617632" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1444">
-<div class="thumbnail"><a href="../Newsletter/Estilo1.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../Newsletter/Estilo1.html" class="no-external">O fim da escala 6x1 e a redução da jornada de trabalho.</a>
-</h3>
-<div class="delink listing-description"><a href="../Newsletter/Estilo1.html" class="no-external">
-<p>Entenda o que muda com o fim da escala 6x1 e como a redução da jornada impacta o bem-estar dos trabalhadores, a produtividade e pode influenciar o crescimento da economia brasileira.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="../Newsletter/Estilo1.html" class="no-external">
-<div class="listing-date">
-16/03/2026
-</div>
-<div class="listing-author">
-Caroline Lhaís, 7° semestre de economia e Anna Livya Queiroz, 5º semestre de economia
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="7" data-listing-date-sort="1771988400000" data-listing-file-modified-sort="1771980844100" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1034">
+<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1771988400000" data-listing-file-modified-sort="1771980844100" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1034">
 <div class="thumbnail"><a href="../Newsletter/texto4.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -594,7 +632,13 @@ Anna Livya &amp; Caroline Lhaís
 </div>
 </div>
 <div class="listing-no-matching d-none">Sem itens correspondentes</div>
-</div></main> <!-- /main -->
+</div>
+</section>
+
+
+
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right
