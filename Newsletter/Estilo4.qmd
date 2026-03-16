@@ -38,7 +38,7 @@ O padrão-ouro foi um sistema monetário de lastro físico e câmbio fixo estrut
 
 Por fim,  o domínio do dólar se estabelece de fato na década de 1970, quando os EUA romperam o vínculo direto com o ouro, tornando a moeda puramente fiduciária. Para manter sua relevância global, os EUA firmaram acordos estratégicos para que o petróleo fosse comercializado exclusivamente em dólares, forçando os países a acumularem a moeda americana e criando uma demanda que permitiu aos EUA financiar sua própria economia com facilidade, dando início ao chamado padrão-dólar.
 
-::: caixinha-lateral-dir
+::: caixinha-lateral-esq
 “Tá, mas e a Economia? - Moeda Fiduciária
 
 Moeda fiduciária é o dinheiro emitido e regulado pelo governo que não possui valor intrínseco e não é lastreado por commodities físicas, como o ouro. Seu valor baseia-se na confiança do público na economia e na autoridade governamental.
@@ -48,7 +48,7 @@ Moeda fiduciária é o dinheiro emitido e regulado pelo governo que não possui 
 
 A “desdolarização” da economia global tem ganhado cada vez mais espaço nas discussões internacionais, sendo protagonizada pelos países componentes do BRICS. Alguns membros do bloco já negociam entre si sem o uso do dólar, como é o caso da China, Rússia e Brasil, e projetam a criação de uma moeda comum para transações comerciais entre eles.
 
-::: caixinha-lateral-dir
+::: {callout-tip}
 ODS 17 - Parcerias e meios de implementação
 
 Quando países como Brasil, Rússia e China passam a negociar suas transações comerciais em outras moedas, eles ajudam a aumentar a estabilidade econômica global porque fortalecem alianças regionais e diminuem a sensibilidade de suas economias em relação a políticas financeiras e sanções dos Estados Unidos.

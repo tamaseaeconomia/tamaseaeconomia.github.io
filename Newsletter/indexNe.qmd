@@ -1,9 +1,47 @@
 ---
 title: "Newsletter"
-subtitle: "Nesta seção, reunimos nossas publicações periódicas que traduzem a complexidade econômica para o dia a dia. Navegue pelas nossas edições e descubra como a produção acadêmica se conecta com o mundo real. "
-listing:
-  contents: "*.qmd"
+subtitle: "Nesta seção, reunimos nossas publicações periódicas que traduzem a complexidade econômica para o dia a dia. Navegue pelas nossas edições e descubra como a produção acadêmica se conecta com o mundo real."
 format:
   html:
     page-layout: full
+listing:
+    - id: segunda-edicao
+    contents:
+      - "Estilo1.qmd"
+      - "Estilo2.qmd"
+      - "Estilo3.qmd"
+      - "Estilo4.qmd"
+    type: default
+  - id: primeira-edicao
+    contents: 
+      - "texto1.qmd"
+      - "texto2.qmd"
+      - "texto3.qmd"
+      - "texto4.qmd"
+    type: default
+
 ---
+
+::: {.edicao-container style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; border-left: 5px solid #1a365d; margin-bottom: 50px;"}
+
+## Segunda Edição
+**Responsáveis pela editoração:** Leticia Brito e Paula Leandra | *Publicado em Março de 2026*
+
+---
+
+:::{#segunda-edicao}
+:::
+
+:::
+
+::: {.edicao-container style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; border-left: 5px solid #1a365d; margin-bottom: 50px;"}
+
+## Primeira Edição
+**Organização e Créditos:** Leticia Brito, Giuliana Sigilló e Paula Leandra | *Publicado em Fevereiro de 2026*
+
+---
+
+:::{#primeira-edicao}
+:::
+
+:::
