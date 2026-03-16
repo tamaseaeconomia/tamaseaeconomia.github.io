@@ -13,7 +13,7 @@ format:
 
 ### **Introdução**
 
-Este texto amplia a análise dos efeitos distributivos da taxa Selic para além da rentabilidade financeira e do endividamento, direcionando o foco para o mercado de trabalho. Partindo das discussões desenvolvidas anteriormente sobre os mecanismos da política monetária, o objetivo aqui é investigar como seus impactos se distribuem entre os trabalhadores.
+Este texto amplia a análise dos efeitos distributivos da taxa Selic para além da rentabilidade financeira e do endividamento, direcionando o foco para o mercado de trabalho. Partindo das discussões desenvolvidas anteriormente [(clique aqui para acessar)](texto1.qmd) sobre os mecanismos da política monetária, o objetivo aqui é investigar como seus impactos se distribuem entre os trabalhadores.
 
 No curto prazo, a política monetária conduzida pelo Banco Central do Brasil opera sob um trade-off entre inflação e desemprego: a elevação da Selic pode contribuir para a desaceleração dos preços, mas também tende a reduzir o nível de atividade econômica e a demanda por trabalho. Embora o controle inflacionário gere ganhos de bem-estar no longo prazo, ao preservar o poder de compra e reduzir incertezas, esses custos e benefícios recaem de maneira heterogênea sobre a população.
 
@@ -67,7 +67,9 @@ Esse texto conversa diretamente com os Objetivos de Desenvolvimento Sustentável
 
 **Transparência em Uso de IA**
 
-Durante o texto, a inteligência artificial ChatGPT-4 foi utilizada para correção de erros gramaticais, ampliação do vocabulário e encontrar fontes complementares. O texto foi revisado posteriormente e a dupla autora é responsável pelo conteúdo final.
+Ferramenta: ChatGPT-4
+A finalidade do uso: correção de erros gramaticais, ampliação do vocabulário e encontrar fontes complementares
+O texto foi revisado posteriormente e a dupla autora é responsável pelo conteúdo final.
 
 **Para saber mais**
 

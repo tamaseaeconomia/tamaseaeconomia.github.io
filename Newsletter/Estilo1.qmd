@@ -80,5 +80,6 @@ PATEO, Felipe Vella; MELO, Joana Simões de; CIRIACO, Juliane da Silva. **Mudan�
 TEIXEIRA, Marilane; SALIBA, Clara; OLIVEIRA, Caroline Lima de; ALSISI, Lilia Bombo. **O Brasil está pronto para trabalhar menos: a PEC da redução da jornada e o fim da escala 6x1**. Campinas: TRANSFORMA/UNICAMP, 2025. (Nota de Economia, n. 13). Disponível em: <https://transformaeconomia.org/wp-content/uploads/2025/04/NT13-PT.pdf>
 
 **Transparência em Uso De IA**
-
-O Gemini foi usado para auxílio no entendimento dos artigos, bem como também na redação da nota, com a finalidade de melhorias finais. As autoras humanas revisaram e são responsáveis pelo conteúdo final.
+Ferramenta: Gemini
+A finalidade do uso: auxílio no entendimento dos artigos, bem como também na redação da nota, com a finalidade de melhorias finais.
+As autoras humanas revisaram e são responsáveis pelo conteúdo final.

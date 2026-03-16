@@ -79,7 +79,5 @@ DE-DOLLARIZATION: IS THE US DOLLAR LOSING ITS DOMINANCE? J.P. Morgan. Jul. 2025.
 **Transparência em Uso de IA**
 
 Nome da ferramenta: Google Gemini Pro
-
 Finalidade do uso: correção de erros gramaticais e para garantir maior clareza e precisão na explicação de termos técnicos.
-
 O texto foi revisado pelos autores humanos que são responsáveis pelo conteúdo final.
