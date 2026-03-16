@@ -5,29 +5,29 @@
   margin: 0 0 15px 20px;
 }
 
-.caixinha-lateral {
+.img-esquerda {
+  float: left;
+  width: 40%;
+  margin: 0 0 15px 20px;
+}
+
+.caixinha-lateral-esq {
   float: left;
   width: 35%;
-  background-color: #f4f4f4;
+  background-color: #FF8c69;
   padding: 15px;
   margin: 10px 20px 10px 0;
   border-left: 4px solid #8B0000;
 }
 
-
-
-.duas-colunas {
-  column-count: 2;
-  column-gap: 40px;
-  text-align: justify;
-  line-height: 1.7;
+.caixinha-lateral-dir {
+  float: right;
+  width: 35%;
+  background-color: #f4f4f4;
+  padding: 15px;
+  margin: 10px 20px 10px 0;
+  border-left: 4px solid #00A9FF;
 }
-
-.duas-colunas img {
-  width: 100%;
-  margin: 15px 0;
-}
-
 
 .hero img {
   width: 100%;
