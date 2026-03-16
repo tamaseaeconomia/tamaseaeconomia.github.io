@@ -11,16 +11,14 @@ format:
 ---
 
 ::: caixinha-lateral-esq
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Tá, mas e a economia? : **Risco Sistêmico**                                                                                                                                                                                                                                                                                                                                                           |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| O risco sistêmico é a probabilidade de que a falha de uma única instituição (como o colapso de um banco) desencadeie um efeito dominó de contágio. A interconexão do mercado faz com que a quebra de um agente espalhe desconfiança, paralise o crédito e arraste outras instituições para o buraco, transformando um problema isolado em uma crise generalizada que atinge em cheio a economia real. |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+ Tá, mas e a economia? : **Risco Sistêmico**                                           
+
+  O risco sistêmico é a probabilidade de que a falha de uma única instituição (como o colapso de um banco) desencadeie um efeito dominó de contágio. A interconexão do mercado faz com que a quebra de um agente espalhe desconfiança, paralise o crédito e arraste outras instituições para o buraco, transformando um problema isolado em uma crise generalizada que atinge em cheio a economia real. 
 :::
 
 Se você acompanhou o noticiário, você viu o que aconteceu com o Banco Master. Estamos diante de uma das maiores fraudes bancárias da história do Brasil: um buraco que beira os R\$55 bilhões e que forçou o Banco Central a decretar a liquidação extrajudicial da instituição no final de 2025.
 
-A engenharia do desastre era simples, mas letal. O Master atraía rios de dinheiro do varejo oferecendo CDBs com taxas irreais, enquanto o investidor, anestesiado pela garantia de R\$250.000,00 do Fundo Garantidor de Créditos (FGC), fechava os olhos para o risco. Do outro lado, o banco maquiava seus balanços com carteiras de crédito fictícias. Quando a casa caiu e o BC puxou a tomada, o Master alegava ser um gigante, mas tinha meros R\$ 4 milhões em caixa. 
+A engenharia do desastre era simples, mas letal. O Master atraía rios de dinheiro do varejo oferecendo CDBs com taxas irreais, enquanto o investidor, anestesiado pela garantia de R\$250.000,00 do Fundo Garantidor de Créditos (FGC), fechava os olhos para o risco. Do outro lado, o banco maquiava seus balanços com carteiras de crédito fictícias. Quando a casa caiu e o BC puxou a tomada, o Master alegava ser um gigante, mas tinha meros R\$ 4 milhões em caixa.
 
 **A Campanha Contra o Banco Central**
 
@@ -31,17 +29,11 @@ Ao dissecar as reações ao caso, no entanto, nota-se um paradoxo revelador: esp
 Esse cenário afasta o debate da dicotomia superficial entre "mais regulação" versus "menos regulação" e o centraliza na criticidade da execução supervisora. Em um sistema financeiro altamente dinâmico, a assimetria de informação é um risco constante. O papel do Banco Central transcende a mera formulação de normas; ele exige capacidade de monitoramento ativo, inteligência de dados para furar maquiagens contábeis e coragem institucional para a intervenção cirúrgica.
 
 ::: caixinha-lateral-dir
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Tá, mas e a economia? : **Assimetria de informação**                                                                                                                                  |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| A assimetria de informação (quando uma das partes em uma transação tem mais informações do que a outra) é discutida sob três problemas principais:                                    |
-|                                                                                                                                                                                       |
-| -   **Seleção adversa:** Ocorre antes da transação, quando a falta de informação de uma das partes faz com que os piores produtos ou perfis dominem o mercado.                        |
-|                                                                                                                                                                                       |
-| -   **Risco moral:** Ocorre após a transação, quando uma das partes muda seu comportamento e assume mais riscos por saber que não pode ser perfeitamente monitorada pela outra.       |
-|                                                                                                                                                                                       |
-| -   **Problema de agência:** Ocorre numa delegação de tarefas, quando um contratado (agente) age em benefício próprio em vez de focar nos interesses de quem o contratou (principal). |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+ Tá, mas e a economia? : **Assimetria de informação**                                   
+ A assimetria de informação (quando uma das partes em uma transação tem mais informações do que a outra) é discutida sob três problemas principais:                               
+-   **Seleção adversa:** Ocorre antes da transação, quando a falta de informação de uma das partes faz com que os piores produtos ou perfis dominem o mercado.                  
+-   **Risco moral:** Ocorre após a transação, quando uma das partes muda seu comportamento e assume mais riscos por saber que não pode ser perfeitamente monitorada pela outra.      
+-   **Problema de agência:** Ocorre numa delegação de tarefas, quando um contratado (agente) age em benefício próprio em vez de focar nos interesses de quem o contratou (principal). 
 :::
 
 A crise do Master evidencia que a estabilidade do Sistema Financeiro Nacional depende intrinsecamente do rigor e do timing da supervisão. Quando há falha ou atraso na detecção tempestiva de anomalias, o custo do risco moral é invariavelmente socializado, como ilustra o dreno multibilionário imposto ao FGC, provando que o regulador é, em última instância, o pilar que sustenta ou compromete a confiança de todo o sistema.
@@ -52,15 +44,12 @@ Em relação à proteção do funcionamento do Sistema Financeiro Nacional, o pa
 
 O acontecido no caso do Banco Master acendeu o alerta e fomentou a discussão em torno do poder regulatório de agências como a CVM e o BCB, no tocante à reportada carência de servidores para realização do trabalho ostensivo de fiscalização. Assim, em meio a esse ambiente propício, é importante ter em mente a razão por trás da necessidade de agências eficazes na supervisão do mercado financeiro.
 
-\
+
 Nesse sentido, a justificativa para a supervisão se dá pela necessidade de garantir regras previsíveis e transparentes para os agentes de mercado. Como os próprios mercados financeiros atuam para reduzir as assimetrias de informação, o foco principal da regulação está em minimizar os efeitos de falhas de mercado, que levariam a uma drástica perda de eficiência do sistema. Assim, essa necessidade é atendida por agentes reguladores eficientes que, sob a perspectiva institucionalista, atuam como suporte de um sistema financeiro estável e confiável.
 
 ::: caixinha-lateral-dir
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Tá, mas e a economia? : **Falhas de Mercado**                                                                                                                                                                                        |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| As falhas de mercado são mecanismos que levam um mercado a operar de maneira não eficiente. Alguns casos que podem ser citados como falhas de mercado são a assimetria de informação, externalidades ou acúmulo de poder de mercado. |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+Tá, mas e a economia? : **Falhas de Mercado**                                                                                                                                   
+As falhas de mercado são mecanismos que levam um mercado a operar de maneira não eficiente. Alguns casos que podem ser citados como falhas de mercado são a assimetria de informação, externalidades ou acúmulo de poder de mercado. 
 :::
 
 Dessa forma, se vê que a atuação rígida da CVM e do Banco Central como agentes reguladores é imprescindível para fortalecer a confiabilidade dos investimentos. Com o cenário de percebida fraqueza na atividade, agentes de mercado passam a operar com maior incerteza sobre a tangibilidade de seus ativos, além do fato de que a falha ou erro no timing das intervenções aumentam os custos gerados pela falta de confiança dos investidores.
@@ -70,11 +59,8 @@ A vulnerabilidade institucional agrava-se frente à insegurança jurídica exper
 Por fim, a deslegitimidade atribuída aos agentes de regulação cobra claros custos macroeconômicos. A quebra de confiança institucional aciona um mecanismo chamado flight to quality, que drena a liquidez das instituições de médio porte ao estimular que o fluxo de capitais “fuja” para outras localidades mais seguras, como grandes bancos comerciais. Para compensar o encarecimento do capital, as instituições menores aumentam seus preços, restringindo a oferta de crédito ao consumidor. Assim, observa-se que os custos de uma operação de regulação truncada afetam não apenas os agentes reguladores ou os agentes regulados, mas também a sociedade.
 
 ::: caixinha-lateral-dir
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Tá, mas e a economia? : **ODS**                                                                                                                                                                                              |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| A regulação técnica fortalece a Agenda 2030 da ONU ao garantir instituições eficazes e transparentes (ODS 16). Ao mitigar o risco sistêmico, ela também protege a economia real e promove o crescimento sustentável (ODS 8). |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+ Tá, mas e a economia? : **ODS**                                                        
+A regulação técnica fortalece a Agenda 2030 da ONU ao garantir instituições eficazes e transparentes (ODS 16). Ao mitigar o risco sistêmico, ela também protege a economia real e promove o crescimento sustentável (ODS 8). 
 :::
 
 **A fraude em sua vida**
