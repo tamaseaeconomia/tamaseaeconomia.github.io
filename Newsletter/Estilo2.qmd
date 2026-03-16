@@ -67,10 +67,16 @@ Esse texto conversa diretamente com os Objetivos de Desenvolvimento Sustentável
 
 **Transparência em Uso de IA**
 
-Ferramenta: ChatGPT-4
-A finalidade do uso: correção de erros gramaticais, ampliação do vocabulário e encontrar fontes complementares
-O texto foi revisado posteriormente e a dupla autora é responsável pelo conteúdo final.
+Ferramenta: ChatGPT-4 A finalidade do uso: correção de erros gramaticais, ampliação do vocabulário e encontrar fontes complementares O texto foi revisado posteriormente e a dupla autora é responsável pelo conteúdo final.
 
 **Para saber mais**
 
 Link da pesquisa citada: https://madeusp.com.br/wp-content/uploads/2023/03/NPE_33_site.pdf
+
+::: {.botoes-fim-de-pagina}
+
+[Voltar para a Newsletter](indexNe.qmd){.btn-voltar}
+
+[Ler o próximo texto](Estilo3.qmd){.btn-proximo}
+
+:::

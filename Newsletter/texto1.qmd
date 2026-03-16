@@ -88,3 +88,9 @@ Ambas as alternativas podem gerar efeitos regressivos e tensionar os compromisso
 ***Responsabilidade da autoria***
 
 *A inteligência artificial foi usada pontualmente para verificar se o texto apresentava erros gramaticais e encontrar fontes complementares.*
+
+::: botoes-fim-de-pagina
+[Voltar para a Newsletter](indexNe.qmd){.btn-voltar}
+
+[Ler o próximo texto](texto2.qmd){.btn-proximo}
+:::

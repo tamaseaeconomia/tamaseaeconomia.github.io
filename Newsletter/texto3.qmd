@@ -74,3 +74,11 @@ Ao implementar o Imposto Seletivo, o Governo contribui para assegurar uma vida s
 > ***Foi usada IA nesse texto?***
 >
 > *A IA foi usada nesse texto para corrigir erros gramaticais e para garantir maior clareza e precisão na explicação de termos técnicos.*
+
+::: {.botoes-fim-de-pagina}
+
+[Voltar para a Newsletter](indexNe.qmd){.btn-voltar}
+
+[Ler o próximo texto](texto4.qmd){.btn-proximo}
+
+:::

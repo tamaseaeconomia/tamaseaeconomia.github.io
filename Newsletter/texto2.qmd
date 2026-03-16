@@ -64,3 +64,11 @@ A defesa de um Banco Central independente não se baseia em convicções ideoló
 [*https://agenciabrasil.ebc.com.br/politica/noticia/2023-05/banco-central-tem-autonomia-mas-*](https://agenciabrasil.ebc.com.br/politica/noticia/2023-05/banco-central-tem-autonomia-mas-) *nao-e-intocavel-diz-lula*
 
 [*http://edition.cnn.com/2025/01/30/business/trump-fed-powell-independence*](http://edition.cnn.com/2025/01/30/business/trump-fed-powell-independence)
+
+::: {.botoes-fim-de-pagina}
+
+[Voltar para a Newsletter](indexNe.qmd){.btn-voltar}
+
+[Ler o próximo texto](texto3.qmd){.btn-proximo}
+
+:::

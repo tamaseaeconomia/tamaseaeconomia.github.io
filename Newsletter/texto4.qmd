@@ -70,3 +70,11 @@ Através da ampliação da isenção do IR para rendas mais baixas e da maior tr
 *GOBETTI, Sérgio Wulff. Progressividade tributária: diagnóstico para uma proposta de reforma. Disponível em:<https://www.ipea.gov.br/cartadeconjuntura/wp-content/uploads/2024/10/241029_cc_65_nota_8_progressividade_tributaria.pdf>*
 
 *A inteligência artificial foi usada para verificar a gramática e melhorar a compreensão de termos.*
+
+::: {.botoes-fim-de-pagina}
+
+[Voltar para a Newsletter](indexNe.qmd){.btn-voltar}
+
+[Ler o próximo texto](Estilo1.qmd){.btn-proximo}
+
+:::
