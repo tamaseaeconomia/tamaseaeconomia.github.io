@@ -55,7 +55,7 @@ O acontecido no caso do Banco Master acendeu o alerta e fomentou a discussão em
 \
 Nesse sentido, a justificativa para a supervisão se dá pela necessidade de garantir regras previsíveis e transparentes para os agentes de mercado. Como os próprios mercados financeiros atuam para reduzir as assimetrias de informação, o foco principal da regulação está em minimizar os efeitos de falhas de mercado, que levariam a uma drástica perda de eficiência do sistema. Assim, essa necessidade é atendida por agentes reguladores eficientes que, sob a perspectiva institucionalista, atuam como suporte de um sistema financeiro estável e confiável.
 
-::: caixinha.lateral.dir
+::: caixinha-lateral-dir
 +--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Tá, mas e a economia? : **Falhas de Mercado**                                                                                                                                                                                        |
 +--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -69,7 +69,7 @@ A vulnerabilidade institucional agrava-se frente à insegurança jurídica exper
 
 Por fim, a deslegitimidade atribuída aos agentes de regulação cobra claros custos macroeconômicos. A quebra de confiança institucional aciona um mecanismo chamado flight to quality, que drena a liquidez das instituições de médio porte ao estimular que o fluxo de capitais “fuja” para outras localidades mais seguras, como grandes bancos comerciais. Para compensar o encarecimento do capital, as instituições menores aumentam seus preços, restringindo a oferta de crédito ao consumidor. Assim, observa-se que os custos de uma operação de regulação truncada afetam não apenas os agentes reguladores ou os agentes regulados, mas também a sociedade.
 
-::: caixinha.lateral.dir
+::: caixinha-lateral-dir
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Tá, mas e a economia? : **ODS**                                                                                                                                                                                              |
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+

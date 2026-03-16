@@ -17,21 +17,28 @@ A Proposta de Emenda à Constituição 8/2025, apresentada em fevereiro de 2025 
 
 Além disso, um pilar inegociável de toda a proposta é a garantia da irredutibilidade salarial, logo, apesar da diminuição das horas de trabalho, o salário permanece, fazendo com que o tempo livre não diminua o poder de compra do brasileiro.
 
-	Para entender melhor a PEC, é importante salientar a diferença entre a redução da jornada de trabalho e a escala de trabalho. A primeira se refere a quantidade de horas trabalhadas por cada trabalhador, ou seja, reduzir as 44 horas semanais para 40 horas semanais. Já a segunda, se refere a forma que essas horas semanais obrigatórias são distribuídas nos dias da semana.
+         
+Para entender melhor a PEC, é importante salientar a diferença entre a redução da jornada de trabalho e a escala de trabalho. A primeira se refere a quantidade de horas trabalhadas por cada trabalhador, ou seja, reduzir as 44 horas semanais para 40 horas semanais. Já a segunda, se refere a forma que essas horas semanais obrigatórias são distribuídas nos dias da semana.
+
 
  Vale lembrar que, na Constituição brasileira, não há leis que regem e limitam as escalas de trabalho em si, e justamente é isso que permite a predominância da escala 6x1. Assim, a PEC se torna inovadora, pela primeira vez, ao propor uma regulamentação sobre a organização dos dias de trabalho. 
 
-	E de forma mais quantitativa, vemos a clara necessidade da PEC através dos números alarmantes colhidos pelo PNADC (Pesquisa Nacional por Amostra de Domicílios Contínua - 4° trimestre 2024) (Instituto de Pesquisa Econômica Aplicada), - que foi exposto na Nota de Economia número 13 do Transform/UNICAMP Economia -, visto que, cerca de 20% (20,8 milhões) dos 103,8 milhões trabalhadores estão acima da jornada de 44h semanais, tendo um recorte demográfico nítido, em que cerca de 37% são homens pretos e 18% mulheres pretas, enquanto que a população branca equivale a aproximadamente 29% de homens e 13% mulheres.
+E de forma mais quantitativa, vemos a clara necessidade da PEC através dos números alarmantes colhidos pelo PNADC (Pesquisa Nacional por Amostra de Domicílios Contínua - 4° trimestre 2024) (Instituto de Pesquisa Econômica Aplicada), - que foi exposto na Nota de Economia número 13 do Transform/UNICAMP Economia -, visto que, cerca de 20% (20,8 milhões) dos 103,8 milhões trabalhadores estão acima da jornada de 44h semanais, tendo um recorte demográfico nítido, em que cerca de 37% são homens pretos e 18% mulheres pretas, enquanto que a população branca equivale a aproximadamente 29% de homens e 13% mulheres.
+
 
 **Impactos no bem-estar e na produtividade do trabalhador**
 
 Sob a perspectiva dos impactos da PEC, nota-se que, embora ela se aplique apenas ao regime CLT, ou seja, no mercado de trabalho formal, percebe-se que sua aprovação tende a gerar um “efeito farol” sob o mercado informal, que nada mais é que um reflexo do que acontece no regime formal para o informal, tal qual o salário mínimo, tendo em vista que essa norma social irá se refletir em todo mercado, já que a mão de obra é compartilhada nos dois setores.
 
-	Para além disso, há um impacto direto no bem-estar do trabalhador, uma vez que a manutenção de horas de trabalho extensas é um impulsor para crises de saúde, bem como está diretamente ligada ao aumento de acidentes de trabalho e ao colapso mental do funcionário. 
+        
+Para além disso, há um impacto direto no bem-estar do trabalhador, uma vez que a manutenção de horas de trabalho extensas é um impulsor para crises de saúde, bem como está diretamente ligada ao aumento de acidentes de trabalho e ao colapso mental do funcionário. 
+
 
 De acordo com o IPEA (Instituto de Pesquisa Econômica Aplicada), em 2024, houve mais de 470 mil afastamentos por transtornos mentais ligados ao excesso de horas trabalhadas. Também baseado em fundamentos econômicos, o adoecimento mental gera custos sociais que o Estado internaliza como perda de produtividade, que com a diminuição da jornada de trabalho, serão promovidas restrições benéficas, ou seja, pressões através de leis que obrigam as empresas a inovar nos processos para compensar o aumento do custo hora do trabalhador, a fim de garantir mais produtividade ao país.
 
-	Ademais, a escala 6x1 vai contra a própria Teoria do Capital Humano, na qual trabalhadores submetidos a jornadas que impedem o lazer ou estudo, tendem a sofrer com uma depreciação acelerada da sua capacidade física e mental, ou seja, apesar de darem tudo de si por horas no trabalho, isso não se converte em valor agregado no futuro, já que não há tempo para haver uma melhor qualificação do profissional, que gera mais contribuição para o produto do país.
+        
+Ademais, a escala 6x1 vai contra a própria Teoria do Capital Humano, na qual trabalhadores submetidos a jornadas que impedem o lazer ou estudo, tendem a sofrer com uma depreciação acelerada da sua capacidade física e mental, ou seja, apesar de darem tudo de si por horas no trabalho, isso não se converte em valor agregado no futuro, já que não há tempo para haver uma melhor qualificação do profissional, que gera mais contribuição para o produto do país.
+
 
 ::: caixinha-lateral-esq
 **"Tá, mas e a economia?":**

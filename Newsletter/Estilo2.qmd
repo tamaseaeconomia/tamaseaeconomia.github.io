@@ -33,7 +33,7 @@ Diante de custos financeiros mais elevados e maior incerteza quanto à demanda f
 
 Além disso, o aumento do desemprego e a perda de renda associados à desaceleração econômica reduzem o poder de barganha dos trabalhadores, pressionando salários para baixo e ampliando a desigualdade funcional da renda, entendida como a diferença entre a remuneração do trabalho e do capital. Enquanto os rendimentos financeiros se beneficiam diretamente da elevação da taxa de juros, a renda do trabalho tende a ser comprimida, aprofundando o desequilíbrio distributivo.
 
-::: {.caixinha .lateral .esquerda}
+::: caixinha-lateral-esq
 **“Tá, mas e a economia?”:**
 
 A desigualdade funcional da renda é a distribuição da riqueza gerada entre os fatores de produção, analisando a porção que vai para o trabalho e o que vai pra o capital. Ou seja, mede se os trabalhadores ganham menos em relação aos proprietários de capital.
@@ -59,7 +59,7 @@ Em um país marcado por desigualdades estruturais persistentes, como o Brasil, a
 
 Como visto, a elevação da taxa de juros causa impacto direto no mercado de trabalho, promovendo maior nível de desemprego. Como esse mercado é marcado por desigualdades sociais, especialmente nos cargos mais vulneráveis a demissões, os juros altos acabam por manter e aprofundar as disparidades existentes.
 
-::: {.caixinha .lateral .esquerda}
+::: caixinha-lateral-esq
 **ODS:**
 
 Esse texto conversa diretamente com os Objetivos de Desenvolvimento Sustentável (ODS) da Agenda 2030 da ONU, essencialmente a ODS 8 (Trabalho Digno e Crescimento Econômico), promovendo crescimento econômico inclusivo e sustentável somado a um trabalho digno para todos.
