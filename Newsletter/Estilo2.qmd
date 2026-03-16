@@ -1,57 +1,82 @@
 ---
-title: "Estilo 2"
+title: "Consequências socioeconômicas da Selic no mercado de trabalho."
 author:
-  - João, Maria
-date: 2025-12-30
-description: demonstração de todas as flexibilidades e organizações que conheço para o site
+  - Paula Leandra, 5º semestre de economia, e Matheus Teixeira, 5º semestre de economia.
+date: 2026-03-16
+description: Uma investigação sobre os efeitos distributivos de taxas de juros elevadas no mercado de trabalho, com foco em como a política monetária pode impactar de maneira desigual o emprego e as oportunidades entre trabalhadores.
+
 format:
   html:
     toc: false
     css: styles.css
 ---
 
-### Textos retirado de noticias para demonstrar a estrutura do texto.
+### **Introdução**
 
-A China implementará o tratamento de tarifa zero para importações dos 53 países africanos com os quais mantém relações diplomáticas.
+Este texto amplia a análise dos efeitos distributivos da taxa Selic para além da rentabilidade financeira e do endividamento, direcionando o foco para o mercado de trabalho. Partindo das discussões desenvolvidas anteriormente sobre os mecanismos da política monetária, o objetivo aqui é investigar como seus impactos se distribuem entre os trabalhadores.
 
-A medida será implementada a partir de 1º de maio de 2026, de acordo a mídia estatal.
+No curto prazo, a política monetária conduzida pelo Banco Central do Brasil opera sob um trade-off entre inflação e desemprego: a elevação da Selic pode contribuir para a desaceleração dos preços, mas também tende a reduzir o nível de atividade econômica e a demanda por trabalho. Embora o controle inflacionário gere ganhos de bem-estar no longo prazo, ao preservar o poder de compra e reduzir incertezas, esses custos e benefícios recaem de maneira heterogênea sobre a população.
 
-Segundo reportagem da televisão estatal, a China também continuará a pressionar pela negociação e assinatura de pactos de parceria econômica conjunta e a expandir ainda mais o acesso das exportações africanas ao mercado chinês por meio de mecanismos aprimorados, como o seu "canal verde".
-
-![](imagem.jpg){.img-direita}
-
-A Receita Federal conseguiu reduzir em mais de 60% o volume de encomendas internacionais em desacordo com o programa Remessa Conforme, conhecido como “taxa das blusinhas”. No ano passado, o Fisco identificou 6,2 milhões de encomendas em desconformidade com a iniciativa, ante 15,7 milhões em 2024.
-
-No período, também houve queda no volume de compras internacionais realizadas por brasileiros. Em 2025, a Receita Federal contabilizou 157,3 milhões de encomendas, redução de cerca de 8% em comparação ao ano anterior, quando 169,4 milhões foram registradas.
-
-Apesar da queda nas encomendas, a arrecadação federal com a taxa das blusinhas duplicou. Subiu de R\$ 2,88 bilhões em 2024 para R\$ 5 bilhões no ano passado.
-
-O programa foi implementado em agosto de 2023 como parte de um esforço do governo para combater a sonegação de impostos em compras internacionais. No Remessa Conforme, há duas modalidades de tributação:
-
+:::: caixinha-lateral-esq
 ::: caixinha-lateral-esq
-### Caixinha
+**“Tá, mas e a economia?”**
 
-caixinha na esquerda
+O trade-off entre inflação e desemprego é um conceito macroeconômico chamado Curvas de Phillips. O conceito explica que uma variação do desemprego tem um efeito inverso previsível sobre a inflação, que é válido somente no curto prazo, pois no longo prazo os agentes econômicos ajustam suas expectativas e anulam o efeito da política de expansão no emprego.
 
-blablablablblablablaalbblablabla blablablablblablablaalbblablabla blablablablblablablaalbblablabla blablablablblablablaalbblablabla blablablablblablablaalbblablabla
+Localização:depois do segundo parágrafo da introdução
+:::
+::::
+
+A hipótese central deste texto é de que a política monetária afeta os trabalhadores de forma desigual, principalmente trabalhadores cuja renda depende diretamente do nível de atividade econômica. Penalizando de maneira mais intensa determinados grupos no mercado de trabalho quando a taxa de juros é elevada.
+
+**Mecanismo**
+
+Explicando esse mecanismo: juros mais elevados encarecem o crédito, reduzem o consumo das famílias e desestimulam o investimento produtivo por parte das empresas, resultando em desaceleração da atividade econômica. Esse processo tende a se traduzir em menor geração de empregos e, em muitos casos, aumento do desemprego. 
+
+Diante de custos financeiros mais elevados e maior incerteza quanto à demanda futura, as empresas tendem a postergar investimentos e a conter contratações. Em economias caracterizadas por elevada informalidade e fragilidade do mercado de trabalho, os efeitos de uma política monetária contracionista recaem de forma mais intensa sobre trabalhadores de menor renda, que dispõem de menor proteção social e apresentam maior vulnerabilidade a choques econômicos.
+
+Além disso, o aumento do desemprego e a perda de renda associados à desaceleração econômica reduzem o poder de barganha dos trabalhadores, pressionando salários para baixo e ampliando a desigualdade funcional da renda, entendida como a diferença entre a remuneração do trabalho e do capital. Enquanto os rendimentos financeiros se beneficiam diretamente da elevação da taxa de juros, a renda do trabalho tende a ser comprimida, aprofundando o desequilíbrio distributivo.
+
+::: {.caixinha .lateral .esquerda}
+**“Tá, mas e a economia?”:**
+
+	A desigualdade funcional da renda é a distribuição da riqueza gerada entre os fatores de produção, analisando a porção que vai para o trabalho e o que vai pra o capital. Ou seja, mede se os trabalhadores ganham menos em relação aos proprietários de capital.
 :::
 
-Caso a compra internacional seja realizada em um site não certificado no Remessa Conforme, será aplicada a regra geral, cujas alíquotas são 60% de imposto de importação e 17% de ICMS. Os impostos são aplicados quando o produto chega no Brasil, antes de serem enviados à casa do comprador.
+**Composição do mercado de trabalho:**
 
-À primeira vista, a aposta do governo Trump na imigração e nos empregos parece uma simples questão de matemática: se um grande número de trabalhadores for removido do país, os empregadores precisarão recorrer aos trabalhadores que ainda estão nos Estados Unidos para preencher essas vagas.
+```         
+Para que se entenda como o aumento do desemprego causa elevação ou manutenção da desigualdade social, é necessário que se compreenda a composição do mercado de trabalho. No cenário em que a economia se desacelera, as empresas passam por um processo de decisão, no qual precisam cortar gastos e provavelmente diminuir o plantel de funcionários. Nesse caso, os primeiros funcionários a serem desligados são os mais vulneráveis, como: trabalhadores informais, cargos que não exigem alto grau de escolaridade e cargos de natureza não essencial.
 
-No entanto, não é isso que está acontecendo. Os trabalhadores americanos, cidadãos ou não, estão enfrentando um crescimento salarial mais lento, menos vagas de emprego e uma taxa de desemprego mais alta.
+O trabalho informal nos últimos anos ganhou espaço nos debates econômicos e políticos, devido ao aumento de trabalhadores migrando do trabalho formal ao informal. No entanto, trabalhadores informais estão mais suscetíveis ao desemprego, devido à ausência de direitos, entre eles, o aviso prévio e o pagamento de multa rescisória, como é o caso do Fundo de Garantia do Tempo de Serviço - FGTS. Segundo dados disponibilizados, em 2019,  pelo Instituto Brasileiro de Geografia e Estatística - IBGE, 50,9% das pessoas sem deficiências trabalhadores estavam empregados em um regime formal, enquanto o mesmo indicador era de 34,9% entre aquelas pessoas com deficiência. Portanto, a retração do mercado de trabalho penaliza os informais, especialmente grupos historicamente vulnerabilizados, como pessoas com deficiência.
+```
 
-Acontece que há muitos fatores complicados mantendo os americanos desempregados à margem. O principal deles é a menor demanda geral resultante da remoção de pessoas dos Estados Unidos e da interrupção da entrada de novos imigrantes.
+Em um estudo realizado pelo Instituto de Pesquisa Econômica Aplicada - IPEA, em 2019, a taxa de desemprego caiu para todos os grupos, exceto para os que estudaram somente até o ensino fundamental.  Além disso, o mesmo estudo afirma que o menor grau de escolaridade, além de dificultar a obtenção de um emprego, também aumenta as chances de ser dispensado. Logo, torna-se evidente: cargos que não exigem alto grau de escolaridade são mais vulneráveis, sofrendo maiores impactos em uma economia com elevado nível de desemprego.
 
-::: caixinha-lateral-dir
-### Caixinha
+```         
+Além disso, segundo um estudo realizado, em 2019, pela Organização Internacional do Trabalho - OIT, no Brasil 92,4% das pessoas que atuam como trabalhadoras(es) domésticas(os) são mulheres, sendo 62% mulheres pretas ou pardas. Além disso, o estudo indica que na América Latina e no Caribe 77,5% delas estão na informalidade. Logo, em um cenário de desaceleração da economia, as empregas domésticas (serviço de natureza não essencial) tendem a sofrer com o desemprego, e como visto, o grupo social mais afetado seria as mulheres, especialmente afrodescendentes. 
+```
 
-caixinha na direita
+**Dados**
 
-blablablablblablablaalbblablabla blablablablblablablaalbblablabla blablablablblablablaalbblablabla blablablablblablablaalbblablabla blablablablblablablaalbblablabla
+Evidências empíricas indicam que esses efeitos não se distribuem de maneira homogênea entre os diferentes grupos sociais. Resultados obtidos por pesquisadoras da USP mostram que um aumento de 1 ponto percentual na taxa Selic real está associado a um acréscimo de 1,22 ponto percentual no desemprego de homens negros em relação ao de homens brancos. Esse resultado persiste mesmo após o controle por composição setorial e nível educacional, sugerindo que os impactos negativos de uma política monetária contracionista incidem de forma mais intensa sobre esse grupo específico. 
+
+A hipótese levantada pelas pesquisadoras para explicar esse padrão está relacionada à estrutura do mercado de trabalho brasileiro. O aumento da taxa de juros afeta de maneira mais acentuada setores como a indústria e a construção civil, que, segundo dados do IBGE, concentram uma parcela significativa do emprego de homens negros. Em contraste, grande parte das mulheres negras encontra-se ocupada em setores menos sensíveis às variações da taxa de juros, o que atenua o impacto direto da política monetária sobre seus níveis de emprego.
+
+Em um país marcado por desigualdades estruturais persistentes, como o Brasil, a elevação recorrente da taxa Selic tende a reforçar mecanismos de concentração de renda, ao mesmo tempo, em que intensifica a vulnerabilidade de grupos sociais já historicamente desfavorecidos.
+
+Como visto, a elevação da taxa de juros causa impacto direto no mercado de trabalho, promovendo maior nível de desemprego. Como esse mercado é marcado por desigualdades sociais, especialmente nos cargos mais vulneráveis a demissões, os juros altos acabam por manter e aprofundar as disparidades existentes.
+
+::: {.caixinha .lateral .esquerda}
+**ODS:**
+
+	Esse texto conversa diretamente com os Objetivos de Desenvolvimento Sustentável (ODS) da Agenda 2030 da ONU, essencialmente a ODS 8 (Trabalho Digno e Crescimento Econômico), promovendo crescimento econômico inclusivo e sustentável somado a um trabalho digno para todos.
 :::
 
-“No primeiro ano do presidente Trump no cargo, todo o crescimento do emprego foi para os trabalhadores nascidos nos Estados Unidos, enquanto o crescimento do emprego diminuiu para os trabalhadores nascidos no exterior”, disse a porta-voz da Casa Branca, Taylor Rogers, à CNN em um comunicado.
+**Transparência em Uso de IA**
 
-![](imagem.jpg){.img-esquerda}
+Durante o texto, a inteligência artificial ChatGPT-4 foi utilizada para correção de erros gramaticais, ampliação do vocabulário e encontrar fontes complementares. O texto foi revisado posteriormente e a dupla autora é responsável pelo conteúdo final.
+
+**Para saber mais**
+
+Link da pesquisa citada: https://madeusp.com.br/wp-content/uploads/2023/03/NPE_33_site.pdf

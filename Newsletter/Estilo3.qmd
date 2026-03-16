@@ -1,57 +1,85 @@
 ---
-title: "Estilo 2"
+title: "Banco Master e o Risco Sitêmico"
 author:
-  - João, Maria
-date: 2025-12-30
-description: demonstração de todas as flexibilidades e organizações que conheço para o site
+  - Jonathan Sa Teles, 7° semestre de economia e João Gabriel Gomes, 7° semestre de economia. 
+date: 2026-03-16
+description: Descubra como o colapso do Master expôs as fragilidades da supervisão bancária no Brasil e por que a conta dessa crise acaba sobrando para a sociedade.
 format:
   html:
     toc: false
     css: styles.css
 ---
 
-### Textos retirado de noticias para demonstrar a estrutura do texto.
-
-A China implementará o tratamento de tarifa zero para importações dos 53 países africanos com os quais mantém relações diplomáticas.
-
-A medida será implementada a partir de 1º de maio de 2026, de acordo a mídia estatal.
-
-Segundo reportagem da televisão estatal, a China também continuará a pressionar pela negociação e assinatura de pactos de parceria econômica conjunta e a expandir ainda mais o acesso das exportações africanas ao mercado chinês por meio de mecanismos aprimorados, como o seu "canal verde".
-
-![](imagem.jpg){.img-direita}
-
-A Receita Federal conseguiu reduzir em mais de 60% o volume de encomendas internacionais em desacordo com o programa Remessa Conforme, conhecido como “taxa das blusinhas”. No ano passado, o Fisco identificou 6,2 milhões de encomendas em desconformidade com a iniciativa, ante 15,7 milhões em 2024.
-
-No período, também houve queda no volume de compras internacionais realizadas por brasileiros. Em 2025, a Receita Federal contabilizou 157,3 milhões de encomendas, redução de cerca de 8% em comparação ao ano anterior, quando 169,4 milhões foram registradas.
-
-Apesar da queda nas encomendas, a arrecadação federal com a taxa das blusinhas duplicou. Subiu de R\$ 2,88 bilhões em 2024 para R\$ 5 bilhões no ano passado.
-
-O programa foi implementado em agosto de 2023 como parte de um esforço do governo para combater a sonegação de impostos em compras internacionais. No Remessa Conforme, há duas modalidades de tributação:
-
 ::: caixinha-lateral-esq
-### Caixinha
-
-caixinha na esquerda
-
-blablablablblablablaalbblablabla blablablablblablablaalbblablabla blablablablblablablaalbblablabla blablablablblablablaalbblablabla blablablablblablablaalbblablabla
+|  |
+|----|
+| Tá, mas e a economia? : **Risco Sistêmico** |
+| O risco sistêmico é a probabilidade de que a falha de uma única instituição (como o colapso de um banco) desencadeie um efeito dominó de contágio. A interconexão do mercado faz com que a quebra de um agente espalhe desconfiança, paralise o crédito e arraste outras instituições para o buraco, transformando um problema isolado em uma crise generalizada que atinge em cheio a economia real. |
 :::
 
-Caso a compra internacional seja realizada em um site não certificado no Remessa Conforme, será aplicada a regra geral, cujas alíquotas são 60% de imposto de importação e 17% de ICMS. Os impostos são aplicados quando o produto chega no Brasil, antes de serem enviados à casa do comprador.
+Se você acompanhou o noticiário, você viu o que aconteceu com o Banco Master. Estamos diante de uma das maiores fraudes bancárias da história do Brasil: um buraco que beira os R\$55 bilhões e que forçou o Banco Central a decretar a liquidação extrajudicial da instituição no final de 2025.
 
-À primeira vista, a aposta do governo Trump na imigração e nos empregos parece uma simples questão de matemática: se um grande número de trabalhadores for removido do país, os empregadores precisarão recorrer aos trabalhadores que ainda estão nos Estados Unidos para preencher essas vagas.
+A engenharia do desastre era simples, mas letal. O Master atraía rios de dinheiro do varejo oferecendo CDBs com taxas irreais, enquanto o investidor, anestesiado pela garantia de R\$250.000,00 do Fundo Garantidor de Créditos (FGC), fechava os olhos para o risco. Do outro lado, o banco maquiava seus balanços com carteiras de crédito fictícias. Quando a casa caiu e o BC puxou a tomada, o Master alegava ser um gigante, mas tinha meros R\$ 4 milhões em caixa. 
 
-No entanto, não é isso que está acontecendo. Os trabalhadores americanos, cidadãos ou não, estão enfrentando um crescimento salarial mais lento, menos vagas de emprego e uma taxa de desemprego mais alta.
+**A Campanha Contra o Banco Central**
 
-Acontece que há muitos fatores complicados mantendo os americanos desempregados à margem. O principal deles é a menor demanda geral resultante da remoção de pessoas dos Estados Unidos e da interrupção da entrada de novos imigrantes.
+A decretação da liquidação extrajudicial do Banco Master desencadeou uma reação atípica. Imediatamente após a intervenção, observou-se a mobilização de diversos influenciadores digitais. O objetivo central dessa campanha foi disseminar a narrativa de que o Banco Central (BC) teria agido de forma precipitada, asfixiando uma instituição que, segundo essa tese, ainda seria viável uma solução de mercado ou estaria em vias de reestruturação.
+
+Ao dissecar as reações ao caso, no entanto, nota-se um paradoxo revelador: espectros opostos do debate convergem exatamente para o mesmo ponto, questionando a eficácia do papel supervisor do BC. Se, por um lado, a narrativa patrocinada acusa a autoridade monetária de uma intervenção abrupta e prematura, por outro, agentes de mercado, especialistas e auditores apontam para o extremo oposto, que o BC demorou para agir. A crítica técnica recai sobre a morosidade do regulador, questionando como uma escalada de alavancagem irreal e distorções contábeis pôde prosperar por quase seis anos sem acionar de forma definitiva os mecanismos de alerta prudencial.
+
+Esse cenário afasta o debate da dicotomia superficial entre "mais regulação" versus "menos regulação" e o centraliza na criticidade da execução supervisora. Em um sistema financeiro altamente dinâmico, a assimetria de informação é um risco constante. O papel do Banco Central transcende a mera formulação de normas; ele exige capacidade de monitoramento ativo, inteligência de dados para furar maquiagens contábeis e coragem institucional para a intervenção cirúrgica.
 
 ::: caixinha-lateral-dir
-### Caixinha
-
-caixinha na direita
-
-blablablablblablablaalbblablabla blablablablblablablaalbblablabla blablablablblablablaalbblablabla blablablablblablablaalbblablabla blablablablblablablaalbblablabla
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Tá, mas e a economia? : **Assimetria de informação**                                                                                                                                  |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| A assimetria de informação (quando uma das partes em uma transação tem mais informações do que a outra) é discutida sob três problemas principais:                                    |
+|                                                                                                                                                                                       |
+| -   **Seleção adversa:** Ocorre antes da transação, quando a falta de informação de uma das partes faz com que os piores produtos ou perfis dominem o mercado.                        |
+|                                                                                                                                                                                       |
+| -   **Risco moral:** Ocorre após a transação, quando uma das partes muda seu comportamento e assume mais riscos por saber que não pode ser perfeitamente monitorada pela outra.       |
+|                                                                                                                                                                                       |
+| -   **Problema de agência:** Ocorre numa delegação de tarefas, quando um contratado (agente) age em benefício próprio em vez de focar nos interesses de quem o contratou (principal). |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 :::
 
-“No primeiro ano do presidente Trump no cargo, todo o crescimento do emprego foi para os trabalhadores nascidos nos Estados Unidos, enquanto o crescimento do emprego diminuiu para os trabalhadores nascidos no exterior”, disse a porta-voz da Casa Branca, Taylor Rogers, à CNN em um comunicado.
+A crise do Master evidencia que a estabilidade do Sistema Financeiro Nacional depende intrinsecamente do rigor e do timing da supervisão. Quando há falha ou atraso na detecção tempestiva de anomalias, o custo do risco moral é invariavelmente socializado, como ilustra o dreno multibilionário imposto ao FGC, provando que o regulador é, em última instância, o pilar que sustenta ou compromete a confiança de todo o sistema.
 
-![](imagem.jpg){.img-esquerda}
+**O papel da fiscalização**
+
+Em relação à proteção do funcionamento do Sistema Financeiro Nacional, o papel de fiscalização dos instrumentos financeiros emitidos pelos bancos é exercido pela Comissão de Valores Mobiliários (CVM). No entanto, o agente responsável por garantir a estabilidade do sistema financeiro é o Banco Central do Brasil (BCB), que atua na supervisão bancária, ou seja, da manutenção da solvência e liquidez do sistema financeiro como um todo. No caso do Banco Master, o BCB atuou na decisão de liquidação extrajudicial da instituição. De acordo com o BCB, a decisão de liquidação foi motivada por conta do comprometimento da situação financeira, grave crise de liquidez e violações às normas do Sistema Financeiro Nacional.
+
+O acontecido no caso do Banco Master acendeu o alerta e fomentou a discussão em torno do poder regulatório de agências como a CVM e o BCB, no tocante à reportada carência de servidores para realização do trabalho ostensivo de fiscalização. Assim, em meio a esse ambiente propício, é importante ter em mente a razão por trás da necessidade de agências eficazes na supervisão do mercado financeiro.
+
+\
+Nesse sentido, a justificativa para a supervisão se dá pela necessidade de garantir regras previsíveis e transparentes para os agentes de mercado. Como os próprios mercados financeiros atuam para reduzir as assimetrias de informação, o foco principal da regulação está em minimizar os efeitos de falhas de mercado, que levariam a uma drástica perda de eficiência do sistema. Assim, essa necessidade é atendida por agentes reguladores eficientes que, sob a perspectiva institucionalista, atuam como suporte de um sistema financeiro estável e confiável.
+
+::: caixinha.lateral.dir
+|  |
+|----|
+| Tá, mas e a economia? : **Falhas de Mercado** |
+| As falhas de mercado são mecanismos que levam um mercado a operar de maneira não eficiente. Alguns casos que podem ser citados como falhas de mercado são a assimetria de informação, externalidades ou acúmulo de poder de mercado. |
+:::
+
+Dessa forma, se vê que a atuação rígida da CVM e do Banco Central como agentes reguladores é imprescindível para fortalecer a confiabilidade dos investimentos. Com o cenário de percebida fraqueza na atividade, agentes de mercado passam a operar com maior incerteza sobre a tangibilidade de seus ativos, além do fato de que a falha ou erro no timing das intervenções aumentam os custos gerados pela falta de confiança dos investidores.
+
+A vulnerabilidade institucional agrava-se frente à insegurança jurídica experimentada por agências de regulação brasileiras. Enquanto na crise global de 2008 o Federal Reserve e o FDIC liquidaram dezenas de bancos protegidos por uma arquitetura legal que blindava seus agentes, no Brasil observam-se movimentos contrários à supervisão, com críticas e ações que visam limitar a operação de agentes que atuam na regulação e supervisão econômica. Essa disparidade, exemplificada na dificuldade em liquidar o Banco Master, pune quem fiscaliza e fomenta atitudes difusas entre os servidores, bem como premia a fraude financeira ao aumentar o custo da intervenção reguladora do Estado.
+
+Por fim, a deslegitimidade atribuída aos agentes de regulação cobra claros custos macroeconômicos. A quebra de confiança institucional aciona um mecanismo chamado flight to quality, que drena a liquidez das instituições de médio porte ao estimular que o fluxo de capitais “fuja” para outras localidades mais seguras, como grandes bancos comerciais. Para compensar o encarecimento do capital, as instituições menores aumentam seus preços, restringindo a oferta de crédito ao consumidor. Assim, observa-se que os custos de uma operação de regulação truncada afetam não apenas os agentes reguladores ou os agentes regulados, mas também a sociedade.
+
+::: caixinha.lateral.dir
+|  |
+|----|
+| Tá, mas e a economia? : **ODS** |
+| A regulação técnica fortalece a Agenda 2030 da ONU ao garantir instituições eficazes e transparentes (ODS 16). Ao mitigar o risco sistêmico, ela também protege a economia real e promove o crescimento sustentável (ODS 8). |
+:::
+
+**A fraude em sua vida**
+
+O colapso do Banco Master é, acima de tudo, um teste de estresse da arquitetura regulatória brasileira. O episódio mostra que o mercado não se sustenta apenas com regras no papel; ele exige uma supervisão técnica, eficaz e estável.
+
+Nesse contexto, criminalizar a atuação do Banco Central é um atalho perigoso para o risco sistêmico. Quando a insegurança jurídica fomenta atuações ruins e paralisa os mercados regulados, a fraude é premiada e o mercado sofre com a fuga de liquidez. A proteção institucional do regulador não é um privilégio burocrático, mas a defesa fundamental da economia real.
+
+**Nota de IA**
+
+Responsabilidade da autoria: A inteligência artificial foi usada pontualmente para verificar erros gramaticais.

@@ -1,57 +1,86 @@
 ---
-title: "Estilo 2"
+title: "O fim da escala 6x1 e a redução da jornada de trabalho."
 author:
-  - João, Maria
-date: 2025-12-30
-description: demonstração de todas as flexibilidades e organizações que conheço para o site
+  - Caroline Lhaís, 7° semestre de economia e Anna Livya Queiroz, 5º semestre de economia
+
+date: 2026-03-16
+description: Entenda o que muda com o fim da escala 6x1 e como a redução da jornada impacta o bem-estar dos trabalhadores, a produtividade e pode influenciar o crescimento da economia brasileira.
 format:
   html:
     toc: false
     css: styles.css
 ---
 
-### Textos retirado de noticias para demonstrar a estrutura do texto.
+**O que é a Proposta de Emenda à Constituição (PEC) da redução da jornada de trabalho e o fim da escala 6x1?**
 
-A China implementará o tratamento de tarifa zero para importações dos 53 países africanos com os quais mantém relações diplomáticas.
+A Proposta de Emenda à Constituição 8/2025, apresentada em fevereiro de 2025 pela Deputada Federal Érika Hilton, surge como um marco histórico na vida dos trabalhadores. Isso porque, ela propõe que haja uma redução na jornada de trabalho. Atualmente, o que ainda está em vigor é a jornada de 44 horas de trabalho por semana e a PEC propõe inicialmente que se torne 36 horas semanais, sendo 8 horas trabalhadas diárias, cumprindo uma escala de trabalho 4x3, isso é, trabalha 4 dias e se tem 3 dias de descanso. Porém, com o andar da proposta, o que se aproximou mais da realidade, seria uma jornada de 40 horas semanais com a escala 5x2.
 
-A medida será implementada a partir de 1º de maio de 2026, de acordo a mídia estatal.
+Além disso, um pilar inegociável de toda a proposta é a garantia da irredutibilidade salarial, logo, apesar da diminuição das horas de trabalho, o salário permanece, fazendo com que o tempo livre não diminua o poder de compra do brasileiro.
 
-Segundo reportagem da televisão estatal, a China também continuará a pressionar pela negociação e assinatura de pactos de parceria econômica conjunta e a expandir ainda mais o acesso das exportações africanas ao mercado chinês por meio de mecanismos aprimorados, como o seu "canal verde".
+	Para entender melhor a PEC, é importante salientar a diferença entre a redução da jornada de trabalho e a escala de trabalho. A primeira se refere a quantidade de horas trabalhadas por cada trabalhador, ou seja, reduzir as 44 horas semanais para 40 horas semanais. Já a segunda, se refere a forma que essas horas semanais obrigatórias são distribuídas nos dias da semana.
 
-![](imagem.jpg){.img-direita}
+ Vale lembrar que, na Constituição brasileira, não há leis que regem e limitam as escalas de trabalho em si, e justamente é isso que permite a predominância da escala 6x1. Assim, a PEC se torna inovadora, pela primeira vez, ao propor uma regulamentação sobre a organização dos dias de trabalho. 
 
-A Receita Federal conseguiu reduzir em mais de 60% o volume de encomendas internacionais em desacordo com o programa Remessa Conforme, conhecido como “taxa das blusinhas”. No ano passado, o Fisco identificou 6,2 milhões de encomendas em desconformidade com a iniciativa, ante 15,7 milhões em 2024.
+	E de forma mais quantitativa, vemos a clara necessidade da PEC através dos números alarmantes colhidos pelo PNADC (Pesquisa Nacional por Amostra de Domicílios Contínua - 4° trimestre 2024) (Instituto de Pesquisa Econômica Aplicada), - que foi exposto na Nota de Economia número 13 do Transform/UNICAMP Economia -, visto que, cerca de 20% (20,8 milhões) dos 103,8 milhões trabalhadores estão acima da jornada de 44h semanais, tendo um recorte demográfico nítido, em que cerca de 37% são homens pretos e 18% mulheres pretas, enquanto que a população branca equivale a aproximadamente 29% de homens e 13% mulheres.
 
-No período, também houve queda no volume de compras internacionais realizadas por brasileiros. Em 2025, a Receita Federal contabilizou 157,3 milhões de encomendas, redução de cerca de 8% em comparação ao ano anterior, quando 169,4 milhões foram registradas.
+**Impactos no bem-estar e na produtividade do trabalhador**
 
-Apesar da queda nas encomendas, a arrecadação federal com a taxa das blusinhas duplicou. Subiu de R\$ 2,88 bilhões em 2024 para R\$ 5 bilhões no ano passado.
+Sob a perspectiva dos impactos da PEC, nota-se que, embora ela se aplique apenas ao regime CLT, ou seja, no mercado de trabalho formal, percebe-se que sua aprovação tende a gerar um “efeito farol” sob o mercado informal, que nada mais é que um reflexo do que acontece no regime formal para o informal, tal qual o salário mínimo, tendo em vista que essa norma social irá se refletir em todo mercado, já que a mão de obra é compartilhada nos dois setores.
 
-O programa foi implementado em agosto de 2023 como parte de um esforço do governo para combater a sonegação de impostos em compras internacionais. No Remessa Conforme, há duas modalidades de tributação:
+	Para além disso, há um impacto direto no bem-estar do trabalhador, uma vez que a manutenção de horas de trabalho extensas é um impulsor para crises de saúde, bem como está diretamente ligada ao aumento de acidentes de trabalho e ao colapso mental do funcionário. 
 
+De acordo com o IPEA (Instituto de Pesquisa Econômica Aplicada), em 2024, houve mais de 470 mil afastamentos por transtornos mentais ligados ao excesso de horas trabalhadas. Também baseado em fundamentos econômicos, o adoecimento mental gera custos sociais que o Estado internaliza como perda de produtividade, que com a diminuição da jornada de trabalho, serão promovidas restrições benéficas, ou seja, pressões através de leis que obrigam as empresas a inovar nos processos para compensar o aumento do custo hora do trabalhador, a fim de garantir mais produtividade ao país.
+
+	Ademais, a escala 6x1 vai contra a própria Teoria do Capital Humano, na qual trabalhadores submetidos a jornadas que impedem o lazer ou estudo, tendem a sofrer com uma depreciação acelerada da sua capacidade física e mental, ou seja, apesar de darem tudo de si por horas no trabalho, isso não se converte em valor agregado no futuro, já que não há tempo para haver uma melhor qualificação do profissional, que gera mais contribuição para o produto do país.
+
+:::: caixinha-lateral-esq
 ::: caixinha-lateral-esq
-### Caixinha
+**"Tá, mas e a economia?":**
 
-caixinha na esquerda
-
-blablablablblablablaalbblablabla blablablablblablablaalbblablabla blablablablblablablaalbblablabla blablablablblablablaalbblablabla blablablablblablablaalbblablabla
+A Teoria do Capital Humano propõe que as habilidades, o conhecimento e a saúde de um trabalhador não são apenas características pessoais, mas um tipo de capital (recurso que você utiliza/investe para produzir mais frutos no futuro - no caso, investir no ser humano) que pode ser acumulado e gerar retorno financeiro.
 :::
+::::
 
-Caso a compra internacional seja realizada em um site não certificado no Remessa Conforme, será aplicada a regra geral, cujas alíquotas são 60% de imposto de importação e 17% de ICMS. Os impostos são aplicados quando o produto chega no Brasil, antes de serem enviados à casa do comprador.
+**Efeitos na atividade econômica**
 
-À primeira vista, a aposta do governo Trump na imigração e nos empregos parece uma simples questão de matemática: se um grande número de trabalhadores for removido do país, os empregadores precisarão recorrer aos trabalhadores que ainda estão nos Estados Unidos para preencher essas vagas.
-
-No entanto, não é isso que está acontecendo. Os trabalhadores americanos, cidadãos ou não, estão enfrentando um crescimento salarial mais lento, menos vagas de emprego e uma taxa de desemprego mais alta.
-
-Acontece que há muitos fatores complicados mantendo os americanos desempregados à margem. O principal deles é a menor demanda geral resultante da remoção de pessoas dos Estados Unidos e da interrupção da entrada de novos imigrantes.
+No cenário econômico do país, os efeitos da medida serão observados a partir do Produto Interno Bruto (PIB). Com a redução da jornada, o total de horas trabalhadas por trabalhador irá diminuir e, para que o nível de produção seja preservado, será necessário um aumento da produtividade por trabalhador ou a ampliação do número de pessoas empregadas. É nesse ponto que surge o impacto econômico mais relevante da PEC 8/2025, a redução da jornada pode estimular novas contratações, ampliando o total de salários pagos na economia. Esse aumento da renda disponível fortalece a demanda agregada.  
 
 ::: caixinha-lateral-dir
-### Caixinha
+**"Tá, mas e a economia?"**
 
-caixinha na direita
-
-blablablablblablablaalbblablabla blablablablblablablaalbblablabla blablablablblablablaalbblablabla blablablablblablablaalbblablabla blablablablblablablaalbblablabla
+Demanda agregada é a relação entre o mercado de bens e serviços (o lado real da economia), as condições monetárias (taxa de juros), e cambiais (taxa de câmbio). Esses fatores, juntos, explicam o gasto desejado em consumo, investimento e exportações líquidas pelas famílias, empresas e Governo. Esse gasto, ao interagir com as condições de produção da economia, determina o nível de produto da economia (PIB) e a taxa de inflação de uma economia aberta.
 :::
 
-“No primeiro ano do presidente Trump no cargo, todo o crescimento do emprego foi para os trabalhadores nascidos nos Estados Unidos, enquanto o crescimento do emprego diminuiu para os trabalhadores nascidos no exterior”, disse a porta-voz da Casa Branca, Taylor Rogers, à CNN em um comunicado.
+Como os trabalhadores tendem a destinar uma parcela significativa da renda adicional ao consumo, o aumento do total de salários rapidamente se converte em maior procura por bens e serviços, resultando no chamado efeito multiplicador,  quando uma ampliação inicial da renda gera um impacto maior na economia. 
 
-![](imagem.jpg){.img-esquerda}
+::: caixinha-lateral-dir
+**Tá, mas e a economia?**
+
+O efeito multiplicador ocorre quando a circulação de dinheiro na economia tem seu impacto multiplicado por meio dos agentes, pois o gasto de um se transforma em renda para outro, que passa a consumir parte desse valor. Esse processo ocorre várias vezes entre famílias, empresas e governo, ampliando a atividade econômica.
+:::
+
+O aumento do consumo leva as empresas a ampliar a produção, o que pode estimular novos investimentos e contratações, no longo prazo, impulsionando um ciclo de expansão da atividade econômica. Assim, os salários deixam de ser vistos apenas como custo e passam a ser compreendidos também como motor do mercado interno.
+
+Além disso, a medida pode alterar a distribuição da renda no país, ampliando a participação dos salários em relação aos lucros. Isso favorece um modelo de crescimento baseado na valorização do trabalho, no qual a expansão econômica é sustentada pelo aumento do poder de compra das famílias.
+
+Portanto, a redução da jornada não deve ser interpretada apenas como um choque de custos no curto prazo, mas como uma possível reconfiguração estrutural no longo prazo. Seus efeitos dependem da capacidade de adaptação das empresas e da coordenação institucional, mas apontam para a construção de uma dinâmica econômica mais equilibrada, com potencial de gerar empregos, fortalecer a renda e estimular o crescimento através do  mercado interno. 
+
+Em suma, a redução da jornada de trabalho nada mais é que, devolver a dignidade ao trabalhador que tanto sustenta a economia há décadas, tratando-se de uma distribuição de tempo mais justa, permitindo que ele exerça o direito de escolha sobre sua própria vida, lazer, descanso e família.
+
+::: caixinha-lateral-dir
+**ODS 8 - Trabalho decente e Crescimento Econômico**
+
+A PEC 8/2025 ao propor a redução da jornada de trabalho como forma de limitar jornadas exaustivas, promove condições laborais mais dignas, alinhadas ao conceito de trabalho decente. Além disso, ao combinar geração de empregos, aumento da renda do trabalho e potencial elevação da produtividade por hora, a medida se conecta a um modelo de crescimento mais sustentável baseado na valorização do trabalho.
+:::
+
+**Para saber mais:**
+
+BRASIL. Congresso. Câmara dos Deputados. **Proposta de Emenda à Constituição n° 8, de 2025**. Dá nova redação ao inciso XIII, do artigo 7° da Constituição Federal para dispor sobre a redução da jornada de trabalho para quatro dias por semana no Brasil. Brasília: Câmara dos Deputados, 2025. Disponível em: <https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2860664&filename=PEC%208/2025>
+
+PATEO, Felipe Vella; MELO, Joana Simões de; CIRIACO, Juliane da Silva. **Mudanças na jornada e na escala de trabalho: elementos empíricos para o debate**. Brasília: Ipea, 2026. (Nota Técnica, n. 123) . Disponível em:[ ](https://www.ipea.gov.br)<https://repositorio.ipea.gov.br/server/api/core/bitstreams/7083c3f2-81ee-48e6-a525-c9fe4b56d5e7/content>
+
+TEIXEIRA, Marilane; SALIBA, Clara; OLIVEIRA, Caroline Lima de; ALSISI, Lilia Bombo. **O Brasil está pronto para trabalhar menos: a PEC da redução da jornada e o fim da escala 6x1**. Campinas: TRANSFORMA/UNICAMP, 2025. (Nota de Economia, n. 13). Disponível em: <https://transformaeconomia.org/wp-content/uploads/2025/04/NT13-PT.pdf>
+
+**Transparência em Uso De IA**
+
+O Gemini foi usado para auxílio no entendimento dos artigos, bem como também na redação da nota, com a finalidade de melhorias finais. As autoras humanas revisaram e são responsáveis pelo conteúdo final.
