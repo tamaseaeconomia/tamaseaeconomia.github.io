@@ -47,3 +47,59 @@
   }
 }
 
+/* personalizando botoes de voltar para pagina inicial e de ler a proxima news */
+
+.botoes-fim-de-pagina {
+  display: flex;
+  justify-content: space-between; 
+  align-items: center;
+  margin-top: 60px;
+  padding-top: 20px;
+  border-top: 1px solid #ddd; 
+}
+
+/*style */
+.btn-voltar, .btn-proximo {
+  padding: 12px 24px;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: bold;
+  transition: all 0.3s ease; 
+}
+
+/* botão de Voltar (mais discreto) */
+.btn-voltar {
+  background-color: #f4f4f4;
+  color: #223a52;
+  border: 2px solid #223a52;
+}
+
+.btn-voltar:hover {
+  background-color: #e2e2e2;
+}
+
+/* botão de Próximo */
+.btn-proximo {
+  background-color: #223a52;
+  color: #ffffff;
+  border: 2px solid #223a52;
+}
+
+.btn-proximo:hover {
+  background-color: #152536;
+  color: #ffffff;
+}
+
+/* Responsividade para celular: empilha os botões */
+@media (max-width: 768px) {
+  .botoes-fim-de-pagina {
+    flex-direction: column; /* Coloca um em cima do outro */
+    gap: 15px; /* Espaço entre os botões */
+  }
+  
+  .btn-voltar, .btn-proximo {
+    width: 100%; /* Faz os botões ocuparem a tela toda no celular */
+    text-align: center;
+    box-sizing: border-box;
+  }
+}
