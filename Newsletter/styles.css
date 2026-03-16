@@ -18,6 +18,15 @@
   padding: 15px;
   margin: 10px 20px 10px 0;
   border-left: 4px solid #223a52;
+  box-sizing: border-box;
+}
+
+@media (max-width: 768px) {
+  .caixinha-lateral-esq {
+    float: none;    
+    width: 100%;    
+    margin: 20px 0;
+  }
 }
 
 .caixinha-lateral-dir {
@@ -27,16 +36,14 @@
   padding: 15px;
   margin: 10px 20px 10px 0;
   border-left: 4px solid #223a52;
+  box-sizing: border-box;
 }
 
-.hero img {
-  width: 100%;
-  height: 400px;
-  object-fit: cover;
+@media (max-width: 768px) {
+  .caixinha-lateral-dir {
+    float: none;    
+    width: 100%;    
+    margin: 20px 0;
+  }
 }
 
-.lead {
-  font-size: 1.3em;
-  font-weight: 300;
-  max-width: 700px;
-}
