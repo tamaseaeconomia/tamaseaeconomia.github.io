@@ -7,6 +7,7 @@ description: "Entenda como a ampliação da isenção do Imposto Renda e a tribu
 format:
   html:
     toc: false
+    css: styles.css
 ---
 
 **O Projeto de Lei 1.087/2025**
@@ -71,10 +72,8 @@ Através da ampliação da isenção do IR para rendas mais baixas e da maior tr
 
 *A inteligência artificial foi usada para verificar a gramática e melhorar a compreensão de termos.*
 
-::: {.botoes-fim-de-pagina}
-
+::: botoes-fim-de-pagina
 [Voltar para a Newsletter](indexNe.qmd){.btn-voltar}
 
 [Ler o próximo texto](Estilo1.qmd){.btn-proximo}
-
 :::

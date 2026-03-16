@@ -7,6 +7,7 @@ description: "Juros altos reduzem a inflação, mas podem aumentar a desigualdad
 format:
   html:
     toc: false
+    css: styles.css
 ---
 
 No Brasil, a condução da política monetária é responsabilidade do Banco Central, que utiliza a taxa Selic como principal instrumento operacional dentro do regime de metas de inflação. A meta e suas bandas de tolerância são definidas pelo Conselho Monetário Nacional, enquanto o Comitê de Política Monetária (Copom) decide o nível da taxa básica com o objetivo de conduzir a inflação em direção ao valor estabelecido e ancorar as expectativas dos agentes econômicos. Esse regime funciona como âncora nominal da economia e é central para a credibilidade da política econômica.

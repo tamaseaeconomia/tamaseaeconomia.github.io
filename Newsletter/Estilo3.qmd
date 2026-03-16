@@ -72,11 +72,8 @@ Nesse contexto, criminalizar a atuação do Banco Central é um atalho perigoso 
 
 Responsabilidade da autoria: A inteligência artificial foi usada pontualmente para verificar erros gramaticais.
 
-
-::: {.botoes-fim-de-pagina}
-
+::: botoes-fim-de-pagina
 [Voltar para a Newsletter](indexNe.qmd){.btn-voltar}
 
 [Ler o próximo texto](Estilo4.qmd){.btn-proximo}
-
 :::

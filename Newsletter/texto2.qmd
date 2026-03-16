@@ -7,6 +7,7 @@ description: "Entenda a polêmica que gira em torno da autonomia dos Bancos Cent
 format:
   html:
     toc: false
+    css: styles.css
 ---
 
 Após mudanças políticas e na conjuntura mundial recente é comum observar a taxa de juros cada vez mais centralizada no debate político. No Brasil, a polêmica entre o Presidente da República e os Presidentes do Banco Central do Brasil (BCB): Campos Neto e, posteriormente, Galípolo; evidencia choques entre a visão de uma política monetária independente de flutuações políticas e o desejo de liberdade de adotar a política monetária de acordo com o programa de governo. A polêmica se replica no caso dos EUA, em que a nação que conta com a maior economia do mundo debate a função do Federal Reserve, com funcionamento que difere do caso brasileiro. Dessa forma, a função e independência dos bancos centrais é posta em debate e, em meio a tantos termos complicados e manchetes tendenciosas, muito se perde na cacofonia de informação. Assim, nesta publicação nos propomos a analisar as polêmicas, os tipos de independência do BCB a fim de agregar ao recente debate sobre as taxas de juro.
@@ -65,10 +66,8 @@ A defesa de um Banco Central independente não se baseia em convicções ideoló
 
 [*http://edition.cnn.com/2025/01/30/business/trump-fed-powell-independence*](http://edition.cnn.com/2025/01/30/business/trump-fed-powell-independence)
 
-::: {.botoes-fim-de-pagina}
-
+::: botoes-fim-de-pagina
 [Voltar para a Newsletter](indexNe.qmd){.btn-voltar}
 
 [Ler o próximo texto](texto3.qmd){.btn-proximo}
-
 :::

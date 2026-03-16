@@ -82,4 +82,6 @@ Nome da ferramenta: Google Gemini Pro Finalidade do uso: correção de erros gra
 
 ::: botoes-fim-de-pagina
 [Voltar para a Newsletter](indexNe.qmd){.btn-voltar}
+
+[Ler o próximo texto](Estilo1.qmd){.btn-proximo}
 :::
