@@ -59,16 +59,16 @@ Em um país marcado por desigualdades estruturais persistentes, como o Brasil, a
 
 Como visto, a elevação da taxa de juros causa impacto direto no mercado de trabalho, promovendo maior nível de desemprego. Como esse mercado é marcado por desigualdades sociais, especialmente nos cargos mais vulneráveis a demissões, os juros altos acabam por manter e aprofundar as disparidades existentes.
 
-::: caixinha-lateral-esq
-**ODS:**
+::: callout-tip
+#### ODS 8 - Trabalho decente e Crescimento Econômico
 
 Esse texto conversa diretamente com os Objetivos de Desenvolvimento Sustentável (ODS) da Agenda 2030 da ONU, essencialmente a ODS 8 (Trabalho Digno e Crescimento Econômico), promovendo crescimento econômico inclusivo e sustentável somado a um trabalho digno para todos.
 :::
 
 **Transparência em Uso de IA**
 
-Ferramenta: ChatGPT-4; 
-A finalidade do uso: correção de erros gramaticais, ampliação do vocabulário e encontrar fontes complementares; 
+Ferramenta: ChatGPT-4.
+A finalidade do uso: correção de erros gramaticais, ampliação do vocabulário e encontrar fontes complementares.
 O texto foi revisado posteriormente e a dupla autora é responsável pelo conteúdo final.
 
 **Para saber mais**

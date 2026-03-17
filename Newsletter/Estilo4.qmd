@@ -48,7 +48,7 @@ Moeda fiduciária é o dinheiro emitido e regulado pelo governo que não possui 
 
 A “desdolarização” da economia global tem ganhado cada vez mais espaço nas discussões internacionais, sendo protagonizada pelos países componentes do BRICS. Alguns membros do bloco já negociam entre si sem o uso do dólar, como é o caso da China, Rússia e Brasil, e projetam a criação de uma moeda comum para transações comerciais entre eles.
 
-::: {callout-tip}
+::: callout-tip
 ODS 17 - Parcerias e meios de implementação
 
 Quando países como Brasil, Rússia e China passam a negociar suas transações comerciais em outras moedas, eles ajudam a aumentar a estabilidade econômica global porque fortalecem alianças regionais e diminuem a sensibilidade de suas economias em relação a políticas financeiras e sanções dos Estados Unidos.

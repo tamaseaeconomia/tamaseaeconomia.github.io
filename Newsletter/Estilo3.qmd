@@ -57,7 +57,7 @@ A vulnerabilidade institucional agrava-se frente à insegurança jurídica exper
 
 Por fim, a deslegitimidade atribuída aos agentes de regulação cobra claros custos macroeconômicos. A quebra de confiança institucional aciona um mecanismo chamado flight to quality, que drena a liquidez das instituições de médio porte ao estimular que o fluxo de capitais “fuja” para outras localidades mais seguras, como grandes bancos comerciais. Para compensar o encarecimento do capital, as instituições menores aumentam seus preços, restringindo a oferta de crédito ao consumidor. Assim, observa-se que os custos de uma operação de regulação truncada afetam não apenas os agentes reguladores ou os agentes regulados, mas também a sociedade.
 
-::: caixinha-lateral-dir
+::: callout-tip
 Tá, mas e a economia? : **ODS**\
 A regulação técnica fortalece a Agenda 2030 da ONU ao garantir instituições eficazes e transparentes (ODS 16). Ao mitigar o risco sistêmico, ela também protege a economia real e promove o crescimento sustentável (ODS 8).
 :::
@@ -68,9 +68,16 @@ O colapso do Banco Master é, acima de tudo, um teste de estresse da arquitetura
 
 Nesse contexto, criminalizar a atuação do Banco Central é um atalho perigoso para o risco sistêmico. Quando a insegurança jurídica fomenta atuações ruins e paralisa os mercados regulados, a fraude é premiada e o mercado sofre com a fuga de liquidez. A proteção institucional do regulador não é um privilégio burocrático, mas a defesa fundamental da economia real.
 
-**Nota de IA**
+**Para saber mais:**
 
-Responsabilidade da autoria: A inteligência artificial foi usada pontualmente para verificar erros gramaticais.
+https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/03/06/daniel-vorcaro-chega-a-aeroporto-no-interior-de-sp-para-pegar-voo-a-brasilia.ghtml
+
+https://g1.globo.com/politica/blog/andreia-sadi/post/2026/01/23/vorcaro-admite-a-pf-que-master-tinha-problemas-de-liquidez-e-usava-fgc-como-modelo-de-negocio.ghtml
+
+
+**Transparência em Uso de IA**
+
+A inteligência artificial Google Gemini foi utilizada pontualmente para redação e revisão de estilo, com revisão e responsabilidade da autoria pelos autores do texto
 
 ::: botoes-fim-de-pagina
 [Voltar para a Newsletter](indexNe.qmd){.btn-voltar}
