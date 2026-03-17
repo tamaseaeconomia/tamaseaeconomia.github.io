@@ -29,7 +29,7 @@ Ao dissecar as reações ao caso, no entanto, nota-se um paradoxo revelador: esp
 Esse cenário afasta o debate da dicotomia superficial entre "mais regulação" versus "menos regulação" e o centraliza na criticidade da execução supervisora. Em um sistema financeiro altamente dinâmico, a assimetria de informação é um risco constante. O papel do Banco Central transcende a mera formulação de normas; ele exige capacidade de monitoramento ativo, inteligência de dados para furar maquiagens contábeis e coragem institucional para a intervenção cirúrgica.
 
 ::: caixinha-lateral-dir
-Tá, mas e a economia? : **Assimetria de informação**\
+**Tá, mas e a economia? : Assimetria de informação**\
 A assimetria de informação (quando uma das partes em uma transação tem mais informações do que a outra) é discutida sob três problemas principais:\
 - **Seleção adversa:** Ocorre antes da transação, quando a falta de informação de uma das partes faz com que os piores produtos ou perfis dominem o mercado.\
 - **Risco moral:** Ocorre após a transação, quando uma das partes muda seu comportamento e assume mais riscos por saber que não pode ser perfeitamente monitorada pela outra.\
@@ -57,16 +57,16 @@ A vulnerabilidade institucional agrava-se frente à insegurança jurídica exper
 
 Por fim, a deslegitimidade atribuída aos agentes de regulação cobra claros custos macroeconômicos. A quebra de confiança institucional aciona um mecanismo chamado flight to quality, que drena a liquidez das instituições de médio porte ao estimular que o fluxo de capitais “fuja” para outras localidades mais seguras, como grandes bancos comerciais. Para compensar o encarecimento do capital, as instituições menores aumentam seus preços, restringindo a oferta de crédito ao consumidor. Assim, observa-se que os custos de uma operação de regulação truncada afetam não apenas os agentes reguladores ou os agentes regulados, mas também a sociedade.
 
-::: callout-tip
-Tá, mas e a economia? : **ODS**\
-A regulação técnica fortalece a Agenda 2030 da ONU ao garantir instituições eficazes e transparentes (ODS 16). Ao mitigar o risco sistêmico, ela também protege a economia real e promove o crescimento sustentável (ODS 8).
-:::
-
 **A fraude em sua vida**
 
 O colapso do Banco Master é, acima de tudo, um teste de estresse da arquitetura regulatória brasileira. O episódio mostra que o mercado não se sustenta apenas com regras no papel; ele exige uma supervisão técnica, eficaz e estável.
 
 Nesse contexto, criminalizar a atuação do Banco Central é um atalho perigoso para o risco sistêmico. Quando a insegurança jurídica fomenta atuações ruins e paralisa os mercados regulados, a fraude é premiada e o mercado sofre com a fuga de liquidez. A proteção institucional do regulador não é um privilégio burocrático, mas a defesa fundamental da economia real.
+
+::: callout-tip
+Tá, mas e a economia? : **ODS**\
+A regulação técnica fortalece a Agenda 2030 da ONU ao garantir instituições eficazes e transparentes (ODS 16). Ao mitigar o risco sistêmico, ela também protege a economia real e promove o crescimento sustentável (ODS 8).
+:::
 
 **Para saber mais:**
 

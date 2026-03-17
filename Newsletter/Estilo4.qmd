@@ -73,7 +73,9 @@ Quando países como Brasil, Rússia e China passam a negociar suas transações 
 
 **Transparência em Uso de IA**
 
-Nome da ferramenta: Google Gemini Pro Finalidade do uso: correção de erros gramaticais e para garantir maior clareza e precisão na explicação de termos técnicos. O texto foi revisado pelos autores humanos que são responsáveis pelo conteúdo final.
+Nome da ferramenta: Google Gemini Pro. 
+Finalidade do uso: correção de erros gramaticais e para garantir maior clareza e precisão na explicação de termos técnicos. 
+O texto foi revisado pelos autores humanos que são responsáveis pelo conteúdo final.
 
 **Para saber mais:**
 
