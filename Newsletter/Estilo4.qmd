@@ -48,11 +48,6 @@ Moeda fiduciária é o dinheiro emitido e regulado pelo governo que não possui 
 
 A “desdolarização” da economia global tem ganhado cada vez mais espaço nas discussões internacionais, sendo protagonizada pelos países componentes do BRICS. Alguns membros do bloco já negociam entre si sem o uso do dólar, como é o caso da China, Rússia e Brasil, e projetam a criação de uma moeda comum para transações comerciais entre eles.
 
-::: callout-tip
-ODS 17 - Parcerias e meios de implementação
-
-Quando países como Brasil, Rússia e China passam a negociar suas transações comerciais em outras moedas, eles ajudam a aumentar a estabilidade econômica global porque fortalecem alianças regionais e diminuem a sensibilidade de suas economias em relação a políticas financeiras e sanções dos Estados Unidos.
-:::
 
 Além disso, em um estudo publicado pelo banco norte-americano JP Morgan, a participação do dólar nas reservas cambiais dos bancos centrais atingiu o menor patamar das últimas duas décadas em paralelo com a influência macroeconômica da economia americana com base na participação do PIB e das exportações do país no montante global.
 
@@ -70,15 +65,23 @@ Fundamentalmente, a desdolarização poderia alterar o equilíbrio de poder entr
 
 Sendo assim, o fenômeno histórico é um marco simbólico da ruptura da ordem mundial unipolar americana conhecida nas últimas décadas, e o início de um novo sistema político e financeiro que fragmenta, segundo o olhar de alguns especialistas, os países em grandes zonas de influência. Segundo Faria (2026), com a ascensão de uma organização mundial multipolarizada, o Brasil pode exercer um papel importante neste cenário ao ser indiscutivelmente a principal economia do hemisfério sul. No entanto, esse protagonismo irá depender sobretudo pelo sucesso em liderar regionalmente a América Latina e na criação de um desejo de fortalecimento da sua autonomia, garantindo ao país a transição de economia periférica para um patamar de influência global.
 
+::: callout-tip
+ODS 17 - Parcerias e meios de implementação
+
+Quando países como Brasil, Rússia e China passam a negociar suas transações comerciais em outras moedas, eles ajudam a aumentar a estabilidade econômica global porque fortalecem alianças regionais e diminuem a sensibilidade de suas economias em relação a políticas financeiras e sanções dos Estados Unidos.
+:::
+
+**Transparência em Uso de IA**
+
+Nome da ferramenta: Google Gemini Pro Finalidade do uso: correção de erros gramaticais e para garantir maior clareza e precisão na explicação de termos técnicos. O texto foi revisado pelos autores humanos que são responsáveis pelo conteúdo final.
+
 **Para saber mais:**
 
 FARIA, L. CHANGING PLACE: THE NEW INTERNATIONAL ORDER AND BRAZIL. Brazilian Journal of Strategy & International Relations e-ISSN 2238-6912 \| v.14, n.28, Jul./Dec. 2025 \| p.47-65
 
 DE-DOLLARIZATION: IS THE US DOLLAR LOSING ITS DOMINANCE? J.P. Morgan. Jul. 2025. Disponível em: www.jpmorgan.com/insights/global-research/currencies/de-dollarization
 
-**Transparência em Uso de IA**
 
-Nome da ferramenta: Google Gemini Pro Finalidade do uso: correção de erros gramaticais e para garantir maior clareza e precisão na explicação de termos técnicos. O texto foi revisado pelos autores humanos que são responsáveis pelo conteúdo final.
 
 ::: botoes-fim-de-pagina
 [Voltar para a Newsletter](indexNe.qmd){.btn-voltar}
