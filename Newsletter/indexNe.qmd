@@ -5,6 +5,13 @@ format:
   html:
     page-layout: full
 listing:
+  - id: terceira-edicao
+    contents:
+      - "Estilo5.qmd"
+      - "Estilo6.qmd"
+      - "Estilo7.qmd"
+      - "Estilo8.qmd"
+    type: default
   - id: segunda-edicao
     contents:
       - "Estilo1.qmd"
@@ -13,7 +20,7 @@ listing:
       - "Estilo4.qmd"
     type: default
   - id: primeira-edicao
-    contents: 
+    contents:
       - "texto1.qmd"
       - "texto2.qmd"
       - "texto3.qmd"
@@ -21,6 +28,18 @@ listing:
     type: default
 
 ---
+
+::: {.edicao-container style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; border-left: 5px solid #1a365d; margin-bottom: 50px;"}
+
+## Terceira Edição
+**Responsáveis pela editoração:** Isabela Gargano, Ryan Tarasco, Samuel Rubens e Thaís Ferreira | *Publicado em Abril de 2026*
+
+---
+
+:::{#terceira-edicao}
+:::
+
+:::
 
 ::: {.edicao-container style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; border-left: 5px solid #1a365d; margin-bottom: 50px;"}
 
