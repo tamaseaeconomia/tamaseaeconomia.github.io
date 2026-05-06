@@ -8,7 +8,7 @@ description: Uma investigação sobre os efeitos distributivos de taxas de juros
 format:
   html:
     toc: false
-    css: styles.css
+    css: news-custom.css
 ---
 
 ### **Introdução**

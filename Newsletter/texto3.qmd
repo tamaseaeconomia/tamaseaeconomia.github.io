@@ -7,7 +7,7 @@ description: "A Reforma Tributária do Consumo marca uma mudança estrutural no 
 format:
   html:
     toc: false
-    css: styles.css
+    css: news-custom.css
 ---
 
 **Por dentro da reforma tributária do consumo**

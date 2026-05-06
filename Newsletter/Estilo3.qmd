@@ -7,7 +7,7 @@ description: Descubra como o colapso do Master expôs as fragilidades da supervi
 format:
   html:
     toc: false
-    css: styles.css
+    css: news-custom.css
 ---
 
 ::: caixinha-lateral-esq

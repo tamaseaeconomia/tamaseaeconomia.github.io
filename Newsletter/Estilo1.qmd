@@ -8,7 +8,7 @@ description: Entenda o que muda com o fim da escala 6x1 e como a redução da jo
 format:
   html:
     toc: false
-    css: styles.css
+    css: news-custom.css
 ---
 
 **O que é a Proposta de Emenda à Constituição (PEC) da redução da jornada de trabalho e o fim da escala 6x1?**

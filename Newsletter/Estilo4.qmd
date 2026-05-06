@@ -7,7 +7,7 @@ description: Nos últimos meses, o dólar tem sofrido ameaças por outros paíse
 format:
   html:
     toc: false
-    css: styles.css
+    css: news-custom.css
 ---
 
 O funcionamento da economia da forma que conhecemos se fundamenta a partir de um princípio que muitas vezes passa despercebido para a maioria das pessoas: a confiança sobre o valor da moeda utilizada como meio de troca. Para manter essa confiabilidade garantida nas trocas internacionais, as instituições financeiras do século XIX estabeleceram a conversibilidade da moeda em ouro, visto que é atribuído ao minério um valor intrínseco pelos indivíduos. Ao longo do século seguinte, alguns episódios históricos produziram mudanças nessa característica da moeda, fazendo com que ela se transformasse em moeda fiduciária.

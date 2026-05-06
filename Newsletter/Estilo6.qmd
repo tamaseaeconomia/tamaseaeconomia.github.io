@@ -7,7 +7,7 @@ description: Diante dos recentes conflitos globais, ainda há perspectiva de cor
 format:
   html:
     toc: false
-    css: styles.css
+    css: news-custom.css
 ---
 
 Diante dos recentes conflitos globais, ainda há perspectiva de cortes robustos na taxa básica? Entenda como essas decisões são tomadas.

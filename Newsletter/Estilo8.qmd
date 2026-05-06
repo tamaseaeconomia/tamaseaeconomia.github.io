@@ -7,7 +7,7 @@ description: O avanço da guerra no Irã elevou o preço do petróleo e desencad
 format:
   html:
     toc: false
-    css: styles.css
+    css: news-custom.css
 ---
 
 O avanço da guerra no Irã elevou o preço do petróleo e desencadeou um efeito em cadeia que pressiona custos, alimenta a inflação e afeta diversos setores da economia brasileira.

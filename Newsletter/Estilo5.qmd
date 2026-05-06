@@ -7,7 +7,7 @@ description: Com 81,7 milhões de brasileiros negativados em fevereiro de 2026, 
 format:
   html:
     toc: false
-    css: styles.css
+    css: news-custom.css
 ---
 
 Com 81,7 milhões de brasileiros negativados em fevereiro de 2026, o país bateu novo recorde. Para que possamos entender por que isso acontece, é necessário compreender como os mecanismos do crédito, os juros compostos e a estrutura do sistema financeiro constroem uma armadilha que aprisiona famílias e empresas.

@@ -7,7 +7,7 @@ description: O número de idosos cresce rapidamente, mas a economia ainda não s
 format:
   html:
     toc: false
-    css: styles.css
+    css: news-custom.css
 ---
 
 O número de idosos cresce rapidamente, mas a economia ainda não se reorganizou para essa nova realidade. O que está em jogo nessa transição vai além da demografia e já redesenha as bases do crescimento do país.
