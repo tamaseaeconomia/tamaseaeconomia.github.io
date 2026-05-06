@@ -94,3 +94,123 @@ A cada novo ciclo, novos estudantes assumem o desafio de levar o conhecimento ac
 ![](images/clipboard-584421673.jpeg){width="150"}
 :::
 :::::::::::::::
+
+------------------------------------------------------------------------
+
+### Nossa equipe 2026/2
+
+#### Professora Responsável
+
+::::::::::::::: grid
+::: {.g-col-12 .g-col-md-4}
+##### **Roseli Basso-Silva**
+
+![](images/Roseli-2%202021.jpeg){width="150"}
+
+Professora de economia, economista de formação, propôs esta Atividade de Extensão "AEX- Tá, mas e a economia?" a partir da iniciativa da estudante Carol Lhais para, juntas e juntos, contribuirmos para o debate econômico no país, para além dos muros da USP.
+:::
+:::::::::::::::
+
+#### Equipe Produção
+
+::::::::::::::: grid
+::: {.g-col-12 .g-col-md-4}
+##### **Sofia de Almeida Rodrigues**
+
+![](images/Sofia.jpeg){width="150"}
+
+Estudante de economia na FEARP-USP, com interesse em macroeconomia e finanças corporativas, e afinidade com análises que articulam dados e impactos sociais, integrando a equipe de produção da Newsletter.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+##### **Giovana Alves Paiva**
+
+![](images/Giovana.jpg){width="150"}
+
+Estudante de economia na FEARP-USP, com interesse na dimensão social da economia e em políticas públicas. Se interessa por temas ligados à desigualdade e ao acesso a oportunidades, e integra a equipe de produção da Newsletter.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+##### **Luiz Henrique Braga Scorzafave**
+
+![](images/Luiz.jpeg){width="150"}
+
+Estudante de economia na FEARP-USP, com interesse na área da economia política e políticas públicas, e integra a equipe de produção da Newsletter.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+##### **Pedro Konstantino Freire Voltezou**
+
+![](images/pedro_konstantino.jpg){width="150"}
+
+Estudante de economia na FEARP-USP, com interesse nas áreas de macroeconomia, história econômica, economia política e finanças. Integra a equipe de produção da Newsletter.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+##### **Arthur Coelho Oliveira**
+
+![](images/Arthur.jpeg){width="150"}
+
+Estudante de economia na FEARP-USP, com interesse nas áreas de macroeconomia, economia política e finanças corporativas, e integra a equipe de produção da Newsletter.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+##### **Maria Carolina Dias Lobato**
+
+![](images/Maria%20Lobato.jpeg){width="150"}
+
+Estudante de economia na FEA-RP, com interesse nas áreas de macroeconomia, políticas públicas e economia internacional, e integra a equipe de produção da Newsletter.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+##### **Beatriz Poncio**
+
+![](images/BeatrizPoncio.jpg){width="150"}
+
+Estudante de economia na FEA-RP, com interesse nas áreas de macroeconomia, economia política e economia internacional, e integra a equipe de produção da newsletter.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+##### **Rafael Sanches**
+
+![](images/Rafael%20Sanches.jpg){width="150"}
+
+Estudante de Finanças e negócios na FEA-RP, com interesse nas áreas de governança corporativa, macroeconomia e finanças, e integra a equipe de produção da newsletter.
+:::
+:::::::::::::::
+
+#### Equipe Comunicação e Edição
+
+::::::::::::::: grid
+::: {.g-col-12 .g-col-md-4}
+##### **Isabella Gargano**
+
+![](images/Isabella.jpg){width="150"}
+
+Estudante de jornalismo na Escola de Comunicação e Artes da USP, com afinidade com jornalismo econômico e político internacional, faz parte da equipe de comunicação e edição da Newsletter.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+##### **Thaís Ferreira Cruz**
+
+![](images/Thais_.jpg){width="150"}
+
+Estudante de química com habilitação em forense na Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto - USP, com afinidade na área de toxicologia bioquímica e integra a equipe de comunicação e edição da Newsletter.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+##### **Samuel Rubens**
+
+![](images/samuel_rubens.png){width="150"}
+
+Estudante de Ciência da Computação na USP-ICMC, atuou como engenheiro de software por 5 anos e atualmente está empreendendo com a Rubrion.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+##### **Ryan**
+
+![](images/Ryan.jpg){width="150"}
+
+Estudante de administração na FEARP-USP, com interesse na área de marketing. Atua como estagiário na Assessoria de Comunicação da faculdade e integra a equipe de comunicação e edição da Newsletter.
+:::
+:::::::::::::::

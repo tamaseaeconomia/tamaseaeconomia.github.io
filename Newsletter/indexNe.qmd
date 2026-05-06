@@ -7,10 +7,10 @@ format:
 listing:
   - id: terceira-edicao
     contents:
+      - "Estilo8.qmd"
       - "Estilo5.qmd"
       - "Estilo6.qmd"
       - "Estilo7.qmd"
-      - "Estilo8.qmd"
     type: default
   - id: segunda-edicao
     contents:
