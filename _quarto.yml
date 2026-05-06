@@ -1,5 +1,9 @@
 project:
   type: website
+  resources:
+    - "imagens/"
+    - "images/"
+    - "Newsletter/"
 
 website:
   title: " "
@@ -46,4 +50,3 @@ format:
       published: Publicado em
 
 editor: visual
-
