@@ -12,6 +12,7 @@ listing:
       - "Estilo6.qmd"
       - "Estilo7.qmd"
     type: default
+    sort: false
   - id: segunda-edicao
     contents:
       - "Estilo1.qmd"
