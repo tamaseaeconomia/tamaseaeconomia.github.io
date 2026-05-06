@@ -19,7 +19,7 @@ A cada novo ciclo, novos estudantes assumem o desafio de levar o conhecimento ac
 
 ------------------------------------------------------------------------
 
-### Nossa equipe 2025/2 e 2026/1
+### Turma 1 - Segundo Semestre 2025
 
 ::::::::::::::: grid
 ::: {.g-col-12 .g-col-md-4}
@@ -97,7 +97,7 @@ A cada novo ciclo, novos estudantes assumem o desafio de levar o conhecimento ac
 
 ------------------------------------------------------------------------
 
-### Nossa equipe 2026/2
+### Turma 2 - Primeiro Semestre 2026
 
 #### Professora Responsável
 
