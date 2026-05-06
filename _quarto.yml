@@ -4,6 +4,7 @@ project:
     - "imagens/"
     - "images/"
     - "Newsletter/"
+    - "imagens/video_introducao.mp4"
 
 website:
   title: " "
