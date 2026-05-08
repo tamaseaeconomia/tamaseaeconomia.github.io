@@ -1,7 +1,7 @@
 ---
 title: "A armadilha da dívida: Brasil em recorde"
 author:
-  - Rafael e Beatriz
+  - Rafael Sanches e Beatriz Poncio
 date: 2026-04-30
 description: Com 81,7 milhões de brasileiros negativados em fevereiro de 2026, o país bateu novo recorde. Entenda como os mecanismos do crédito, os juros compostos e a estrutura do sistema financeiro constroem uma armadilha que aprisiona famílias e empresas.
 format:
@@ -9,8 +9,6 @@ format:
     toc: false
     css: news-custom.css
 ---
-
-Com 81,7 milhões de brasileiros negativados em fevereiro de 2026, o país bateu novo recorde. Para que possamos entender por que isso acontece, é necessário compreender como os mecanismos do crédito, os juros compostos e a estrutura do sistema financeiro constroem uma armadilha que aprisiona famílias e empresas.
 
 ## O que é inadimplência e por que ela cresce
 

@@ -10,8 +10,6 @@ format:
     css: news-custom.css
 ---
 
-Diante dos recentes conflitos globais, ainda há perspectiva de cortes robustos na taxa básica? Entenda como essas decisões são tomadas.
-
 ## Do porquê da variação da taxa básica
 
 Para compreender a necessidade constante de ajustes na taxa básica de juros (Selic) observada na realidade brasileira, é necessário primeiro compreender a função do Banco Central do Brasil (BCB) e da própria Selic.

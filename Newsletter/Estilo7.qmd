@@ -10,8 +10,6 @@ format:
     css: news-custom.css
 ---
 
-O número de idosos cresce rapidamente, mas a economia ainda não se reorganizou para essa nova realidade. O que está em jogo nessa transição vai além da demografia e já redesenha as bases do crescimento do país.
-
 ## Um país que está ficando mais velho
 
 A tradicional imagem do Brasil como uma nação de estrutura majoritariamente jovem já ficou no passado. A pirâmide populacional brasileira, que historicamente possuía uma base larga, vem encolhendo rapidamente. Essa transição demográfica é o resultado direto de dois fatores: as famílias diminuíram (a fecundidade caiu de 6,2 filhos por mulher em 1950 para 1,5 em 2022, segundo o IBGE) e a expectativa de vida aumentou, saltando de 54 para 76 anos, de acordo com o Banco Mundial.
