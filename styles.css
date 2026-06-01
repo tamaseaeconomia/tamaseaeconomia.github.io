@@ -355,6 +355,14 @@
   font-size: 1.02rem;
 }
 
+.hero-title {
+  color: #ffffff !important;
+  font-size: 2rem;
+  font-weight: 700;
+  text-align: center;
+  margin: 0 0 1.5rem 0;
+}
+
 .hero-banner-inner p,
 .hero-banner-inner span,
 .hero-banner-inner li,
