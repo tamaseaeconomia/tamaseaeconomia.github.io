@@ -1,3 +1,92 @@
+/* ===================================== */
+/* BRAND PALETTE (Light Mode)            */
+/* ===================================== */
+:root {
+  --brand-blue: #1a2b3f;
+  --brand-bg: #ffffff;
+  --brand-text: #000000;
+  --brand-muted: rgba(26, 43, 63, 0.6);
+  --brand-border: #eef2f6;
+}
+
+body {
+  background-color: var(--brand-bg);
+  color: var(--brand-text);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--brand-blue);
+}
+
+p, span, li {
+  color: var(--brand-text);
+}
+
+.text-muted, .quarto-title-meta, .listing-description, small {
+  color: var(--brand-muted) !important;
+}
+
+code, pre {
+  background-color: var(--brand-border);
+  border: 1px solid var(--brand-border);
+}
+
+hr, table, th, td {
+  border-color: var(--brand-border);
+}
+
+.navbar {
+  background-color: var(--brand-blue) !important;
+}
+
+.navbar,
+.navbar *,
+.navbar .navbar-brand,
+.navbar .navbar-title,
+.navbar .nav-link,
+.navbar .nav-link i,
+.navbar .navbar-toggler,
+.navbar .navbar-toggler-icon,
+.navbar .dropdown-toggle,
+.navbar .quarto-navbar-tools .nav-link {
+  color: #ffffff !important;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link.active,
+.navbar .nav-link.active:hover,
+.navbar .nav-link.active i {
+  color: #fcb54f !important;
+}
+
+.title-block-banner,
+.quarto-title-banner {
+  background-color: var(--brand-blue) !important;
+  color: #ffffff !important;
+}
+
+.title-block-banner h1,
+.title-block-banner h2,
+.title-block-banner .quarto-title,
+.title-block-banner .subtitle,
+.quarto-title-banner h1,
+.quarto-title-banner h2,
+.quarto-title-banner .quarto-title,
+.quarto-title-banner .subtitle {
+  color: #ffffff !important;
+}
+
+.page-footer,
+.nav-footer {
+  background-color: var(--brand-blue) !important;
+  color: #ffffff !important;
+}
+
+.page-footer a,
+.nav-footer a {
+  color: #ffffff !important;
+}
+
 .navbar-brand img {
   max-height: 40px;
 }
@@ -329,4 +418,143 @@
 
 .texto-centro {
   text-align: center;
+}
+
+/* ===================================== */
+/* HOMEPAGE — HERO BANNER                */
+/* ===================================== */
+.hero-banner {
+  background-color: var(--brand-blue);
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  margin-top: -2rem;
+  margin-bottom: 3rem;
+  padding: 5rem 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 280px;
+}
+
+.hero-banner-inner {
+  color: #ffffff;
+  font-size: 1.6rem;
+  font-weight: 500;
+  text-align: center;
+  max-width: 900px;
+  line-height: 1.4;
+}
+
+@media (max-width: 768px) {
+  .hero-banner {
+    padding: 3rem 1.5rem;
+    min-height: 200px;
+  }
+  .hero-banner-inner {
+    font-size: 1.2rem;
+  }
+}
+
+/* ===================================== */
+/* HOMEPAGE — NEWSLETTER CARDS           */
+/* ===================================== */
+.cards-section {
+  max-width: 1100px;
+  margin: 0 auto 3rem auto;
+  padding: 0 1rem;
+}
+
+.cards-section .grid {
+  gap: 1.5rem;
+}
+
+.news-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--brand-border);
+  border: 1px solid var(--brand-border);
+  border-radius: 14px;
+  padding: 2.5rem 1.5rem;
+  text-align: center;
+  text-decoration: none !important;
+  color: var(--brand-blue) !important;
+  min-height: 140px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
+  cursor: pointer;
+}
+
+.news-card:hover {
+  transform: translateY(-4px) scale(1.02);
+  box-shadow: 0 10px 24px rgba(26, 43, 63, 0.15);
+  background-color: #ffffff;
+}
+
+.news-card-text {
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: var(--brand-blue);
+}
+
+/* ===================================== */
+/* HOMEPAGE — INDICATORS TABLE           */
+/* ===================================== */
+.indicators-section {
+  max-width: 800px;
+  margin: 0 auto 4rem auto;
+  padding: 0 1rem;
+}
+
+.indicators-table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: var(--brand-bg);
+}
+
+.indicators-table th,
+.indicators-table td {
+  padding: 1rem 1.25rem;
+  text-align: left;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  border-bottom: 1px solid var(--brand-border);
+}
+
+.indicators-table th {
+  color: var(--brand-blue);
+  font-weight: 700;
+  font-size: 0.95rem;
+  border-bottom: 2px solid var(--brand-border);
+}
+
+.indicators-table td {
+  color: var(--brand-text);
+  font-size: 1rem;
+}
+
+.indicators-table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.indicators-table .var-up {
+  color: #16a34a;
+  font-weight: 700;
+}
+
+.indicators-table .var-down {
+  color: #dc2626;
+  font-weight: 700;
+}
+
+@media (max-width: 768px) {
+  .indicators-table th,
+  .indicators-table td {
+    padding: 0.75rem 0.75rem;
+    font-size: 0.9rem;
+  }
 }
