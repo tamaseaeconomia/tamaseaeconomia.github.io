@@ -39,8 +39,6 @@ hr, table, th, td {
   background-color: var(--brand-blue) !important;
 }
 
-.navbar,
-.navbar *,
 .navbar .navbar-brand,
 .navbar .navbar-title,
 .navbar .nav-link,
@@ -53,6 +51,7 @@ hr, table, th, td {
 }
 
 .navbar .nav-link:hover,
+.navbar .nav-link:hover i,
 .navbar .nav-link.active,
 .navbar .nav-link.active:hover,
 .navbar .nav-link.active i {
@@ -442,11 +441,38 @@ hr, table, th, td {
 
 .hero-banner-inner {
   color: #ffffff;
-  font-size: 1.6rem;
-  font-weight: 500;
+  font-size: 1.05rem;
+  font-weight: 400;
   text-align: center;
   max-width: 900px;
-  line-height: 1.4;
+  line-height: 1.6;
+}
+
+.hero-banner-inner,
+.hero-banner-inner p,
+.hero-banner-inner span,
+.hero-banner-inner li,
+.hero-banner-inner a,
+.hero-banner-inner .texto-centro,
+.hero-banner-inner h1,
+.hero-banner-inner h2,
+.hero-banner-inner h3,
+.hero-banner-inner h4,
+.hero-banner-inner h5,
+.hero-banner-inner h6 {
+  color: #ffffff !important;
+}
+
+.hero-banner-inner a {
+  text-decoration: underline;
+}
+
+.hero-banner-inner a:hover {
+  color: #fcb54f !important;
+}
+
+.hero-banner-inner .video-centro {
+  margin: 2rem auto;
 }
 
 @media (max-width: 768px) {
