@@ -16,7 +16,7 @@ Após o ataque israelense e estadunidense ao Irã, em 28 de fevereiro de 2026, o
 
 Fenômenos dessa natureza não são inéditos. Situações semelhantes ocorreram nos choques do petróleo de 1973 e 1979, quando elevações abruptas no preço do petróleo provocaram impactos significativos na economia global, combinando inflação elevada com desaceleração da atividade econômica e, em muitos casos, resultando em recessões. Esses episódios históricos ajudam a entender por que novos choques no mercado de petróleo geram tanta preocupação entre governos, empresas e famílias.
 
-::: callout-note
+::: caixinha-lateral-esq
 "Tá, mas e a Economia? - Como funciona o mercado internacional de petróleo
 
 O mercado internacional do petróleo cru, como o Brent, funciona basicamente como um mercado global de compra e venda de uma commodity padronizada, cujo preço é determinado pela interação entre oferta e demanda mundial. O Brent é uma referência mundial para o preço do petróleo. Quando ele sobe, indica que os combustíveis ficam mais caros.
@@ -30,7 +30,7 @@ Quando a confeiteira vai ao mercado comprar os ingredientes e percebe esse aumen
 
 Em mercados com muitos vendedores e produtos semelhantes, como em situações próximas à concorrência perfeita, aumentar preços pode significar perder clientes. Já em mercados com menos concorrentes ou produtos diferenciados, como em monopólios ou oligopólios, há mais espaço para reajustes.
 
-::: callout-note
+::: caixinha-lateral-dir
 "Tá, mas e a Economia? - Elasticidade e repasse de custos
 
 O repasse de custos aos preços depende da elasticidade-preço da demanda, ou seja, de quanto os consumidores reagem a aumentos de preço. Quando a demanda é elástica, aumentos de preço reduzem significativamente a quantidade demandada, dificultando o repasse. Já quando a demanda é inelástica, o consumo varia pouco, o que facilita o repasse.
@@ -38,7 +38,7 @@ O repasse de custos aos preços depende da elasticidade-preço da demanda, ou se
 
 Ou seja, o aumento no valor do bolo representa a **inflação de custos**: quando produzir e transportar mercadorias fica mais caro, esse encarecimento pode se espalhar pela cadeia produtiva até chegar ao consumidor final, dependendo da capacidade de repasse das empresas.
 
-::: callout-note
+::: caixinha-lateral-esq
 "Tá, mas e a Economia? - Inflação
 
 Inflação é o aumento médio no nível de preços de determinada cesta de produtos e serviços. O índice de inflação mais comum no Brasil é o IPCA, que hoje está por volta de 3,8% nos últimos 12 meses.
@@ -52,7 +52,7 @@ De forma geral, os choques podem ser classificados de acordo com a maneira como 
 
 Dependendo da intensidade, esses efeitos podem se ampliar e gerar consequências mais sérias, como queda na produção e até uma recessão. Retomando o exemplo da confeitaria, em que houve aumento de custos e dificuldade na produção, conseguimos conectar esse cenário diretamente aos efeitos do conflito recente — levando a analisar um tipo específico: o choque de oferta.
 
-::: callout-note
+::: caixinha-lateral-dir
 "Tá, mas e a Economia? - Choque na Economia
 
 Um choque de oferta ocorre quando há mudanças na capacidade de produção da economia. Ele pode ser temporário ou permanente. No curto prazo, choques temporários afetam principalmente os custos de produção, como no caso da alta do petróleo, que encarece transporte e insumos. Já no longo prazo, choques permanentes alteram a própria capacidade produtiva, como ocorre em guerras, desastres naturais ou destruição de infraestrutura, que reduzem estoques de capital e comprometem a produção futura.
