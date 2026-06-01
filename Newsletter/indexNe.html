@@ -42,7 +42,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-5f949a5bea45d94d62fc36e208ebafcc.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-188cada25348a83bcb48924065a66ed0.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -71,6 +71,34 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-terceira-edicao .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-terceira-edicao'] = new List('listing-terceira-edicao', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
     const listingTargetEl = window.document.querySelector('#listing-segunda-edicao .list');
@@ -211,6 +239,11 @@ window.Quarto = {
 </i> 
 <span class="menu-text"></span></a>
   </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://www.linkedin.com/in/t%C3%A1-mas-e-a-economia-aex-fearp-0a6837394/"> <i class="bi bi-linkedin" role="img" aria-label="LinkedIn">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -246,13 +279,123 @@ window.Quarto = {
 </header>
 
 
+<section id="terceira-edição" class="level2 edicao-container" style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; border-left: 5px solid #1a365d; margin-bottom: 50px;">
+<h2 class="anchored" data-anchor-id="terceira-edição">Terceira Edição</h2>
+<p><strong>Responsáveis pela editoração:</strong> Isabela Gargano, Ryan Tarasco, Samuel Rubens e Thaís Ferreira | <em>Publicado em Abril de 2026</em></p>
+<hr>
+<div id="listing-terceira-edicao" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1777518000000" data-listing-file-modified-sort="1780275311904" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1268">
+<div class="thumbnail"><a href="../Newsletter/Estilo8.html" class="no-external">
+
+<p class="card-img-top"><img src="images/petroleo-brent.png"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../Newsletter/Estilo8.html" class="no-external">Um Novo Choque do Petróleo e suas consequências</a>
+</h3>
+<div class="delink listing-description"><a href="../Newsletter/Estilo8.html" class="no-external">
+<p>O avanço da guerra no Irã elevou o preço do petróleo e desencadeou um efeito em cadeia que pressiona custos, alimenta a inflação e afeta diversos setores da economia brasileira.</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="../Newsletter/Estilo8.html" class="no-external">
+<div class="listing-date">
+30/04/2026
+</div>
+<div class="listing-author">
+Luiz Scorzafave e Maria Carolina Lobato, 5° semestre de Ciências Econômicas — FEARP
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1777518000000" data-listing-file-modified-sort="1780275311904" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1523">
+<div class="thumbnail"><a href="../Newsletter/Estilo5.html" class="no-external">
+
+<p class="card-img-top"><img src="images/divida-credito.png"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../Newsletter/Estilo5.html" class="no-external">A armadilha da dívida: Brasil em recorde</a>
+</h3>
+<div class="delink listing-description"><a href="../Newsletter/Estilo5.html" class="no-external">
+<p>Com 81,7 milhões de brasileiros negativados em fevereiro de 2026, o país bateu novo recorde. Entenda como os mecanismos do crédito, os juros compostos e a estrutura do sistema financeiro constroem uma armadilha que aprisiona famílias e empresas.</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="../Newsletter/Estilo5.html" class="no-external">
+<div class="listing-date">
+30/04/2026
+</div>
+<div class="listing-author">
+Rafael Sanches e Beatriz Poncio
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1777518000000" data-listing-file-modified-sort="1780275311904" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1422">
+<div class="thumbnail"><a href="../Newsletter/Estilo6.html" class="no-external">
+
+<p class="card-img-top"><img src="images/selic-ciclos.png"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../Newsletter/Estilo6.html" class="no-external">Ciclo de cortes? O novo ajuste da Selic</a>
+</h3>
+<div class="delink listing-description"><a href="../Newsletter/Estilo6.html" class="no-external">
+<p>Diante dos recentes conflitos globais, ainda há perspectiva de cortes robustos na taxa básica? Entenda como essas decisões são tomadas e quais os impactos na economia brasileira.</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="../Newsletter/Estilo6.html" class="no-external">
+<div class="listing-date">
+30/04/2026
+</div>
+<div class="listing-author">
+Arthur Coelho Oliveira, 7° semestre, e Pedro Konstantino Freire Voltezou, 3° semestre
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1777518000000" data-listing-file-modified-sort="1780275311904" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1453">
+<div class="thumbnail"><a href="../Newsletter/Estilo7.html" class="no-external">
+
+<p class="card-img-top"><img src="images/envelhecimento-piramide.jpg"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../Newsletter/Estilo7.html" class="no-external">O Brasil está envelhecendo: estamos preparados?</a>
+</h3>
+<div class="delink listing-description"><a href="../Newsletter/Estilo7.html" class="no-external">
+<p>O número de idosos cresce rapidamente, mas a economia ainda não se reorganizou para essa nova realidade. O que está em jogo nessa transição vai além da demografia e já redesenha as bases do crescimento do país.</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="../Newsletter/Estilo7.html" class="no-external">
+<div class="listing-date">
+30/04/2026
+</div>
+<div class="listing-author">
+Giovana Alves Paiva, 5° semestre, e Sofia de Almeida Rodrigues, 5° semestre
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">Sem itens correspondentes</div>
+</div>
+</section>
 <section id="segunda-edição" class="level2 edicao-container" style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; border-left: 5px solid #1a365d; margin-bottom: 50px;">
 <h2 class="anchored" data-anchor-id="segunda-edição">Segunda Edição</h2>
 <p><strong>Responsáveis pela editoração:</strong> Leticia Brito e Paula Leandra | <em>Publicado em Março de 2026</em></p>
 <hr>
 <div id="listing-segunda-edicao" class="quarto-listing quarto-listing-container-default">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1773630000000" data-listing-file-modified-sort="1773784367340" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1354">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1773630000000" data-listing-file-modified-sort="1780275311904" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1354">
 <div class="thumbnail"><a href="../Newsletter/Estilo3.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -277,7 +420,7 @@ Jonathan Sa Teles, 7° semestre de economia e João Gabriel Gomes, 7° semestre 
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1773630000000" data-listing-file-modified-sort="1773783585583" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1181">
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1773630000000" data-listing-file-modified-sort="1780275311904" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1181">
 <div class="thumbnail"><a href="../Newsletter/Estilo2.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -302,7 +445,7 @@ Paula Leandra, 5º semestre de economia, e Matheus Teixeira, 5º semestre de eco
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1773630000000" data-listing-file-modified-sort="1773784397843" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1491">
+<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1773630000000" data-listing-file-modified-sort="1780275311904" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1491">
 <div class="thumbnail"><a href="../Newsletter/Estilo4.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -327,7 +470,7 @@ Manuela Marangoni Jampani, 3° semestre de economia e Gustavo Lima Moraes, 7° s
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1773630000000" data-listing-file-modified-sort="1773783571089" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1453">
+<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1773630000000" data-listing-file-modified-sort="1780275311904" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1453">
 <div class="thumbnail"><a href="../Newsletter/Estilo1.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -362,10 +505,10 @@ Caroline Lhaís, 7° semestre de economia e Anna Livya Queiroz, 5º semestre de 
 <hr>
 <div id="listing-primeira-edicao" class="quarto-listing quarto-listing-container-default">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1771988400000" data-listing-file-modified-sort="1773694914483" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1390">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1771988400000" data-listing-file-modified-sort="1780275311907" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1390">
 <div class="thumbnail"><a href="../Newsletter/texto3.html" class="no-external">
 
-<p class="card-img-top"><img src="images\WhatsApp Image 2026-02-24 at 14.32.32.jpeg"  class="thumbnail-image card-img"/></p>
+<p class="card-img-top"><img src="images/WhatsApp Image 2026-02-24 at 14.32.32.jpeg"  class="thumbnail-image card-img"/></p>
 
 </a></div>
 <div class="body">
@@ -387,10 +530,10 @@ Gustavo Moraes (6° semestre de economia) e Manuela Marangoni (2° semestre de e
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1771988400000" data-listing-file-modified-sort="1773694913505" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1169">
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1771988400000" data-listing-file-modified-sort="1780275311907" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1169">
 <div class="thumbnail"><a href="../Newsletter/texto1.html" class="no-external">
 
-<p class="card-img-top"><img src="images\WhatsApp Image 2026-02-24 at 19.03.43.jpeg"  class="thumbnail-image card-img"/></p>
+<p class="card-img-top"><img src="images/WhatsApp Image 2026-02-24 at 19.03.43.jpeg"  class="thumbnail-image card-img"/></p>
 
 </a></div>
 <div class="body">
@@ -412,10 +555,10 @@ Paula Leandra, 4° semestre Economia e Matheus Teixeira, 4° semestre Economia
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1771988400000" data-listing-file-modified-sort="1773694920415" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1301">
+<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1771988400000" data-listing-file-modified-sort="1780275311907" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1301">
 <div class="thumbnail"><a href="../Newsletter/texto2.html" class="no-external">
 
-<p class="card-img-top"><img src="images\WhatsApp Image 2026-02-24 at 18.46.40 (1).jpeg"  class="thumbnail-image card-img"/></p>
+<p class="card-img-top"><img src="images/WhatsApp Image 2026-02-24 at 18.46.40 (1).jpeg"  class="thumbnail-image card-img"/></p>
 
 </a></div>
 <div class="body">
@@ -437,7 +580,7 @@ Jonathan e João Gabriel
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1771988400000" data-listing-file-modified-sort="1773694932795" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1041">
+<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1771988400000" data-listing-file-modified-sort="1780275311907" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1041">
 <div class="thumbnail"><a href="../Newsletter/texto4.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
