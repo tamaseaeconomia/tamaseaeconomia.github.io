@@ -12,7 +12,7 @@ website:
   google-analytics: "G-VT21GYZ4R3"
   navbar:
     logo: imagens/logo_aex_2.png
-    background: "#223a52"
+    background: "#1a2b3f"
     foreground: "white"
     right:
       - text: "Início"
@@ -30,7 +30,7 @@ website:
         href: https://www.linkedin.com/in/t%C3%A1-mas-e-a-economia-aex-fearp-0a6837394/
         aria-label: LinkedIn
   page-footer:
-    background: "#223a52"
+    background: "#1a2b3f"
     left: |
       Site desenvolvido por 
       <a href="https://www.linkedin.com/in/paula-oliveira-431271220/" style="color: white; text-decoration: none;">

@@ -330,3 +330,182 @@
 .texto-centro {
   text-align: center;
 }
+
+/* ===================================== */
+/* HOMEPAGE — HERO BANNER (scoped)       */
+/* ===================================== */
+.hero-banner {
+  background-color: #1a2b3f;
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  margin-top: 2rem;
+  margin-bottom: 0;
+  padding: 4rem 2rem;
+}
+
+.hero-banner-inner {
+  max-width: 1000px;
+  margin: 0 auto;
+  color: #ffffff;
+  line-height: 1.6;
+  font-size: 1.02rem;
+}
+
+.hero-title {
+  color: #ffffff !important;
+  font-size: 2rem;
+  font-weight: 700;
+  text-align: center;
+  margin: 0 0 1.5rem 0;
+}
+
+.hero-banner-inner p,
+.hero-banner-inner span,
+.hero-banner-inner li,
+.hero-banner-inner h1,
+.hero-banner-inner h2,
+.hero-banner-inner h3,
+.hero-banner-inner h4,
+.hero-banner-inner h5,
+.hero-banner-inner h6,
+.hero-banner-inner .texto-centro {
+  color: #ffffff;
+}
+
+.hero-banner-inner a {
+  color: #fcb54f;
+  text-decoration: underline;
+}
+
+.hero-banner-inner a:hover {
+  color: #ffffff;
+}
+
+@media (max-width: 768px) {
+  .hero-banner {
+    padding: 2.5rem 1.25rem;
+  }
+  .hero-banner-inner {
+    font-size: 0.95rem;
+  }
+}
+
+/* ===================================== */
+/* HOMEPAGE — NEWSLETTER CARDS           */
+/* ===================================== */
+.cards-section {
+  max-width: 1100px;
+  margin: 3rem auto 3rem auto;
+  padding: 0 1rem;
+}
+
+.cards-title {
+  color: #1a2b3f;
+  font-size: 1.6rem;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.cards-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+}
+
+@media (max-width: 768px) {
+  .cards-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.news-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #1a2b3f;
+  border: 1px solid #1a2b3f;
+  border-radius: 14px;
+  padding: 2.5rem 1.5rem;
+  text-align: center;
+  text-decoration: none !important;
+  color: #ffffff !important;
+  min-height: 140px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
+  cursor: pointer;
+}
+
+.news-card:hover {
+  transform: translateY(-4px) scale(1.02);
+  box-shadow: 0 12px 28px rgba(26, 43, 63, 0.35);
+  background-color: #243a55;
+}
+
+.news-card-text {
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: #ffffff;
+}
+
+/* ===================================== */
+/* HOMEPAGE — INDICATORS TABLE           */
+/* ===================================== */
+.indicators-section {
+  max-width: 800px;
+  margin: 3rem auto 4rem auto;
+  padding: 0 1rem;
+}
+
+.indicators-table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #ffffff;
+}
+
+.indicators-table th,
+.indicators-table td {
+  padding: 1rem 1.25rem;
+  text-align: left;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  border-bottom: 1px solid #eef2f6;
+}
+
+.indicators-table th {
+  color: #1a2b3f;
+  font-weight: 700;
+  font-size: 0.95rem;
+  border-bottom: 2px solid #eef2f6;
+}
+
+.indicators-table td {
+  color: #000000;
+  font-size: 1rem;
+}
+
+.indicators-table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.indicators-table .var-up {
+  color: #16a34a;
+  font-weight: 700;
+}
+
+.indicators-table .var-down {
+  color: #dc2626;
+  font-weight: 700;
+}
+
+@media (max-width: 768px) {
+  .indicators-table th,
+  .indicators-table td {
+    padding: 0.75rem 0.75rem;
+    font-size: 0.9rem;
+  }
+}

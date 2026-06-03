@@ -5,6 +5,14 @@ format:
   html:
     page-layout: full
 listing:
+  - id: quarta-edicao
+    contents:
+      - "Estilo11.qmd"
+      - "Estilo12.qmd"
+      - "Estilo10.qmd"
+      - "Estilo9.qmd"
+    type: default
+    sort: false
   - id: terceira-edicao
     contents:
       - "Estilo8.qmd"
@@ -29,6 +37,18 @@ listing:
     type: default
 
 ---
+
+::: {.edicao-container style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; border-left: 5px solid #1a365d; margin-bottom: 50px;"}
+
+## Quarta Edição
+**Responsáveis pela editoração:** Isabela Gargano, Ryan Tarasco, Samuel Rubens e Thaís Ferreira | *Publicado em Maio de 2026*
+
+---
+
+:::{#quarta-edicao}
+:::
+
+:::
 
 ::: {.edicao-container style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; border-left: 5px solid #1a365d; margin-bottom: 50px;"}
 

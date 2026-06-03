@@ -11,6 +11,16 @@
   margin: 0 0 15px 20px;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  clear: both;
+}
+
+main img,
+main figure,
+main p:has(> img:only-child) {
+  clear: both;
+}
+
 .caixinha-lateral-esq {
   float: left;
   width: 35%;
