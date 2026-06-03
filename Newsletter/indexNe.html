@@ -73,6 +73,34 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-quarta-edicao .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-quarta-edicao'] = new List('listing-quarta-edicao', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
     const listingTargetEl = window.document.querySelector('#listing-terceira-edicao .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
@@ -279,6 +307,116 @@ window.Quarto = {
 </header>
 
 
+<section id="quarta-edição" class="level2 edicao-container" style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; border-left: 5px solid #1a365d; margin-bottom: 50px;">
+<h2 class="anchored" data-anchor-id="quarta-edição">Quarta Edição</h2>
+<p><strong>Responsáveis pela editoração:</strong> Isabela Gargano, Ryan Tarasco, Samuel Rubens e Thaís Ferreira | <em>Publicado em Maio de 2026</em></p>
+<hr>
+<div id="listing-quarta-edicao" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1780196400000" data-listing-file-modified-sort="1780493874269" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1796">
+<div class="thumbnail"><a href="../Newsletter/Estilo11.html" class="no-external">
+
+<p class="card-img-top"><img src="images/trabalho-infantil.png"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../Newsletter/Estilo11.html" class="no-external">Infâncias interrompidas: o impacto econômico e social do trabalho infantil</a>
+</h3>
+<div class="delink listing-description"><a href="../Newsletter/Estilo11.html" class="no-external">
+<p>Embora muitas famílias enxerguem o trabalho infantil como necessidade imediata, seus efeitos reduzem escolaridade, produtividade e mobilidade social no longo prazo.</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="../Newsletter/Estilo11.html" class="no-external">
+<div class="listing-date">
+31/05/2026
+</div>
+<div class="listing-author">
+Sofia de Almeida Rodrigues, 5° semestre, e Giovana Alves Paiva, 5° semestre
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1780196400000" data-listing-file-modified-sort="1780494011164" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1515">
+<div class="thumbnail"><a href="../Newsletter/Estilo12.html" class="no-external">
+
+<p class="card-img-top"><img src="images/troca-geracional.png"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../Newsletter/Estilo12.html" class="no-external">Troca geracional e o paradoxo da produtividade no Brasil</a>
+</h3>
+<div class="delink listing-description"><a href="../Newsletter/Estilo12.html" class="no-external">
+<p>Empresas reclamam de falta de mão de obra qualificada enquanto 8,9 milhões de jovens não trabalham nem estudam. O que a economia explica sobre esse desencontro e o que ele custa ao país.</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="../Newsletter/Estilo12.html" class="no-external">
+<div class="listing-date">
+31/05/2026
+</div>
+<div class="listing-author">
+Beatriz Poncio, 3° semestre de Economia, e Rafael Sanches, 6° semestre de Finanças e Negócios
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1780196400000" data-listing-file-modified-sort="1780494015589" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1937">
+<div class="thumbnail"><a href="../Newsletter/Estilo10.html" class="no-external">
+
+<p class="card-img-top"><img src="images/grandes-fortunas.png"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../Newsletter/Estilo10.html" class="no-external">Grandes Fortunas: Tributar ou não Tributar?</a>
+</h3>
+<div class="delink listing-description"><a href="../Newsletter/Estilo10.html" class="no-external">
+<p>Uma análise dos argumentos prós e contras do debate sobre o IGF, único tributo previsto na Constituição de 1988 que não foi aplicado até o momento.</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="../Newsletter/Estilo10.html" class="no-external">
+<div class="listing-date">
+31/05/2026
+</div>
+<div class="listing-author">
+Luiz Scorzafave e Maria Carolina Lobato, 5° semestre de Ciências Econômicas — FEARP
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1780196400000" data-listing-file-modified-sort="1780494019892" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1744">
+<div class="thumbnail"><a href="../Newsletter/Estilo9.html" class="no-external">
+
+<p class="card-img-top"><img src="images/terras-raras.png"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../Newsletter/Estilo9.html" class="no-external">Terras Raras e a Disputa Geopolítica</a>
+</h3>
+<div class="delink listing-description"><a href="../Newsletter/Estilo9.html" class="no-external">
+<p>A cessão dos direitos de exploração de uma mina brasileira a uma empresa norte-americana acendeu o debate sobre soberania mineral, dependência tecnológica e o papel do Brasil na cadeia global das terras raras em um momento de disputa EUA e China.</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="../Newsletter/Estilo9.html" class="no-external">
+<div class="listing-date">
+31/05/2026
+</div>
+<div class="listing-author">
+Arthur Coelho Oliveira, 7° semestre, e Pedro Konstantino Freire Voltezou, 3° semestre
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">Sem itens correspondentes</div>
+</div>
+</section>
 <section id="terceira-edição" class="level2 edicao-container" style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; border-left: 5px solid #1a365d; margin-bottom: 50px;">
 <h2 class="anchored" data-anchor-id="terceira-edição">Terceira Edição</h2>
 <p><strong>Responsáveis pela editoração:</strong> Isabela Gargano, Ryan Tarasco, Samuel Rubens e Thaís Ferreira | <em>Publicado em Abril de 2026</em></p>
