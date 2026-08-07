@@ -12,19 +12,17 @@ format:
 
 ## Do porquê da variação da taxa básica
 
-Para compreender a necessidade constante de ajustes na taxa básica de juros (Selic) observada na realidade brasileira, é necessário primeiro compreender a função do Banco Central do Brasil (BCB) e da própria Selic.
-
-O BCB tem como uma de suas atribuições assegurar a estabilidade do valor da moeda e do sistema financeiro nacional. O mecanismo através do qual garante essa estabilidade é a Taxa Selic, a taxa básica de juros, servindo como base para as demais taxas da economia: na prática, impacta os valores de financiamento de automóveis, o rotativo do cartão de crédito e o rendimento da poupança.
-
 ::: caixinha-lateral-esq
 "Tá, mas e a Economia? - Taxa Selic
 
 A Selic Meta, ou seja, o valor alvo para a taxa de juros brasileira, é definida pelo Banco Central do Brasil através das reuniões do Comitê de Política Monetária (Copom), o qual é composto pelos membros da Diretoria Colegiada do Banco Central do Brasil, entre eles o Presidente do BCB e mais oito diretores. Na prática, ela é definida no mercado de títulos, através de diferentes instrumentos, cabendo ao BCB atuar por meio de operações open market para garantir que a taxa convirja para a meta estipulada.
 :::
 
-## Da explicação dos constantes cortes e aumentos dos juros
+Para compreender a necessidade constante de ajustes na taxa básica de juros (Selic) observada na realidade brasileira, é necessário primeiro compreender a função do Banco Central do Brasil (BCB) e da própria Selic.
 
-Segundo a teoria econômica, há uma taxa real de referência de longo prazo. Entretanto, a economia está sob constantes choques internos e externos, como conflitos geopolíticos e recessões. Assim, o BCB vê a necessidade de adotar maior flexibilidade, ajustando constantemente a taxa básica com intuito de manter estabilidade (da moeda e do sistema financeiro) e valendo-se de metas de curto prazo para a inflação (12 ou 24 meses).
+O BCB tem como uma de suas atribuições assegurar a estabilidade do valor da moeda e do sistema financeiro nacional. O mecanismo através do qual garante essa estabilidade é a Taxa Selic, a taxa básica de juros, servindo como base para as demais taxas da economia: na prática, impacta os valores de financiamento de automóveis, o rotativo do cartão de crédito e o rendimento da poupança.
+
+## Da explicação dos constantes cortes e aumentos dos juros
 
 ::: caixinha-lateral-dir
 "Tá, mas e a Economia? - Taxa real de referência de longo prazo
@@ -32,15 +30,13 @@ Segundo a teoria econômica, há uma taxa real de referência de longo prazo. En
 A taxa real de referência de longo prazo (r\*) de uma economia é a taxa real no equilíbrio, no qual a poupança total iguala-se ao investimento agregado, garantindo pleno emprego dos recursos (ainda que haja o desemprego natural) sem gerar pressões inflacionárias. Por ser uma variável que exerce influência sem que possa ser medida ou observada diretamente no mercado financeiro, ela é estimada econometricamente a fim de isolar as tendências dos ciclos econômicos de curto prazo. De tal estimativa, o Copom obtém base para subir ou reduzir a Selic Meta comparando a taxa vigente com r\*. Por exemplo, em um cenário no qual a inflação está acima da meta, o juro é elevado acima de r\* para desestimular a demanda.
 :::
 
+Segundo a teoria econômica, há uma taxa real de referência de longo prazo. Entretanto, a economia está sob constantes choques internos e externos, como conflitos geopolíticos e recessões. Assim, o BCB vê a necessidade de adotar maior flexibilidade, ajustando constantemente a taxa básica com intuito de manter estabilidade (da moeda e do sistema financeiro) e valendo-se de metas de curto prazo para a inflação (12 ou 24 meses).
+
 Abaixo, observa-se com mais clareza os ciclos de diminuição e incremento na taxa Selic:
 
 ![Ciclos da taxa Selic — variação histórica](images/selic-ciclos.png){width="100%" style="margin: 20px 0;"}
 
 Em 2020, para evitar um colapso devido à pandemia, o BCB definiu a Selic Meta em 2% ao ano. O objetivo era baratear o crédito para estimular o consumo das famílias e o investimento produtivo das empresas. Além disso, foi gerado, a partir dessa política, um forte efeito cambial, contribuindo para a desvalorização do Real, impactando a dinâmica de exportações, aumentando a competitividade de produtos brasileiros no exterior, e dos custos de insumos importados, que se tornaram mais caros para o mercado doméstico. Tudo com o objetivo de manter o capital circulando enquanto o país enfrentava fortes restrições sanitárias.
-
-No entanto, esse estímulo monetário trouxe desafios complexos. Com a Selic em patamares tão baixos, o diferencial de rentabilidade entre o Brasil e o exterior reduziu-se drasticamente, o que provocou uma saída de capitais estrangeiros e pressionou o câmbio.
-
-A desvalorização da moeda brasileira somada aos choques de oferta globais, como a desarticulação das cadeias produtivas e a alta das *commodities*, gerou uma forte inflação de custos. Entre 2020 e 2021, o IPCA acelerou rapidamente, superando os juros nominais e forçando o Banco Central a iniciar um ciclo agressivo de elevação da taxa para 13,75%, visando ancorar novamente as expectativas de mercado.
 
 ::: caixinha-lateral-esq
 "Tá, mas e a Economia? - Juro Real e a Equação de Fisher
@@ -49,6 +45,10 @@ Diferente do juro nominal (a taxa Selic anunciada), o juro real mede o ganho efe
 
 Na Equação de Fisher, se utilizarmos a expectativa de inflação (Focus), obtemos o juro real *ex-ante*, que orienta as decisões de investimento e política monetária. Se utilizarmos a inflação realizada (IPCA), obtemos o juro real *ex-post*, que mensura a variação efetiva do poder de compra no passado. Para calcular o juro real de forma precisa, utilizamos a relação multiplicativa entre as taxas: **(1+r) = (1+ i) / (1 + π)**. Sendo r = taxa de juros real; i = taxa de juros nominal; π = inflação (IPCA).
 :::
+
+No entanto, esse estímulo monetário trouxe desafios complexos. Com a Selic em patamares tão baixos, o diferencial de rentabilidade entre o Brasil e o exterior reduziu-se drasticamente, o que provocou uma saída de capitais estrangeiros e pressionou o câmbio.
+
+A desvalorização da moeda brasileira somada aos choques de oferta globais, como a desarticulação das cadeias produtivas e a alta das *commodities*, gerou uma forte inflação de custos. Entre 2020 e 2021, o IPCA acelerou rapidamente, superando os juros nominais e forçando o Banco Central a iniciar um ciclo agressivo de elevação da taxa para 13,75%, visando ancorar novamente as expectativas de mercado.
 
 Após uma rápida tentativa de queda em 2024, incertezas fiscais e uma nova pressão inflacionária forçaram o BCB a manter a precaução. Na prática, isso significa que o Banco Central do Brasil continua mantendo o crédito caro para garantir que a inflação não volte a subir, mesmo que isso signifique um crescimento mais lento no curto prazo.
 

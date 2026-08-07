@@ -12,23 +12,27 @@ format:
 
 ## As consequências da guerra
 
-Após o ataque israelense e estadunidense ao Irã, em 28 de fevereiro de 2026, os efeitos da continuidade da guerra vêm se espalhando pela economia mundial a cada dia. Em março, o preço do petróleo bruto Brent, referência internacional, superou a marca de **US\$ 115 por barril**, atingindo o maior nível desde 2012 e acumulando alta de cerca de 57% em relação ao valor da véspera do ataque, quando girava em torno de US\$ 70 por barril. Esse forte aumento decorre principalmente do bloqueio iraniano ao estreito de Ormuz, adotado como represália, por onde passa cerca de **20% de todo o petróleo e gás** comercializados no mundo.
-
-Fenômenos dessa natureza não são inéditos. Situações semelhantes ocorreram nos choques do petróleo de 1973 e 1979, quando elevações abruptas no preço do petróleo provocaram impactos significativos na economia global, combinando inflação elevada com desaceleração da atividade econômica e, em muitos casos, resultando em recessões. Esses episódios históricos ajudam a entender por que novos choques no mercado de petróleo geram tanta preocupação entre governos, empresas e famílias.
-
 ::: caixinha-lateral-esq
 "Tá, mas e a Economia? - Como funciona o mercado internacional de petróleo
 
 O mercado internacional do petróleo cru, como o Brent, funciona basicamente como um mercado global de compra e venda de uma commodity padronizada, cujo preço é determinado pela interação entre oferta e demanda mundial. O Brent é uma referência mundial para o preço do petróleo. Quando ele sobe, indica que os combustíveis ficam mais caros.
 :::
 
+Após o ataque israelense e estadunidense ao Irã, em 28 de fevereiro de 2026, os efeitos da continuidade da guerra vêm se espalhando pela economia mundial a cada dia. Em março, o preço do petróleo bruto Brent, referência internacional, superou a marca de **US\$ 115 por barril**, atingindo o maior nível desde 2012 e acumulando alta de cerca de 57% em relação ao valor da véspera do ataque, quando girava em torno de US\$ 70 por barril. Esse forte aumento decorre principalmente do bloqueio iraniano ao estreito de Ormuz, adotado como represália, por onde passa cerca de **20% de todo o petróleo e gás** comercializados no mundo.
+
+Fenômenos dessa natureza não são inéditos. Situações semelhantes ocorreram nos choques do petróleo de 1973 e 1979, quando elevações abruptas no preço do petróleo provocaram impactos significativos na economia global, combinando inflação elevada com desaceleração da atividade econômica e, em muitos casos, resultando em recessões. Esses episódios históricos ajudam a entender por que novos choques no mercado de petróleo geram tanta preocupação entre governos, empresas e famílias.
+
 ![Preço do petróleo Brent — variação recente (US\$ por barril)](images/petroleo-brent.png){width="100%" style="margin: 20px 0;"}
+
+::: caixinha-lateral-esq
+"Tá, mas e a Economia? - Inflação
+
+Inflação é o aumento médio no nível de preços de determinada cesta de produtos e serviços. O índice de inflação mais comum no Brasil é o IPCA, que hoje está por volta de 3,8% nos últimos 12 meses.
+:::
 
 Contudo, esse efeito nos preços não fica restrito aos combustíveis, uma vez que os efeitos dos aumentos de preço vão se acumulando. Imagine uma confeitaria que vende um bolo simples por 20 reais. Nesse cenário de aumento do preço do petróleo, o mesmo bolo passaria a ter um valor de venda mais elevado. Isso porque a gasolina mais cara encarece o transporte de mercadorias, o que eleva o custo das matérias-primas e do frete, que representam parte importante dos custos logísticos no Brasil.
 
 Quando a confeiteira vai ao mercado comprar os ingredientes e percebe esse aumento em seus preços, ela pode tentar reajustar o valor do bolo para preservar sua margem de lucro. No entanto, esse repasse de custos não é garantido. A capacidade de aumentar preços depende das condições do mercado e da reação dos consumidores.
-
-Em mercados com muitos vendedores e produtos semelhantes, como em situações próximas à concorrência perfeita, aumentar preços pode significar perder clientes. Já em mercados com menos concorrentes ou produtos diferenciados, como em monopólios ou oligopólios, há mais espaço para reajustes.
 
 ::: caixinha-lateral-dir
 "Tá, mas e a Economia? - Elasticidade e repasse de custos
@@ -36,13 +40,9 @@ Em mercados com muitos vendedores e produtos semelhantes, como em situações pr
 O repasse de custos aos preços depende da elasticidade-preço da demanda, ou seja, de quanto os consumidores reagem a aumentos de preço. Quando a demanda é elástica, aumentos de preço reduzem significativamente a quantidade demandada, dificultando o repasse. Já quando a demanda é inelástica, o consumo varia pouco, o que facilita o repasse.
 :::
 
+Em mercados com muitos vendedores e produtos semelhantes, como em situações próximas à concorrência perfeita, aumentar preços pode significar perder clientes. Já em mercados com menos concorrentes ou produtos diferenciados, como em monopólios ou oligopólios, há mais espaço para reajustes.
+
 Ou seja, o aumento no valor do bolo representa a **inflação de custos**: quando produzir e transportar mercadorias fica mais caro, esse encarecimento pode se espalhar pela cadeia produtiva até chegar ao consumidor final, dependendo da capacidade de repasse das empresas.
-
-::: caixinha-lateral-esq
-"Tá, mas e a Economia? - Inflação
-
-Inflação é o aumento médio no nível de preços de determinada cesta de produtos e serviços. O índice de inflação mais comum no Brasil é o IPCA, que hoje está por volta de 3,8% nos últimos 12 meses.
-:::
 
 ## Aprofundando a ideia de choque
 
