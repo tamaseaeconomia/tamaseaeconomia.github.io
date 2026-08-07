@@ -409,17 +409,31 @@
 
 /* ---------- navbar de vidro ---------- */
 body.nav-fixed .navbar {
-  background-color: rgba(16, 29, 46, 0.72) !important;
-  -webkit-backdrop-filter: blur(16px) saturate(160%);
-  backdrop-filter: blur(16px) saturate(160%);
-  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  /* mesmo marinho das seções, com opacidade baixa e desfoque */
+  background-color: rgba(26, 43, 63, 0.55) !important;
+  -webkit-backdrop-filter: blur(18px) saturate(160%);
+  backdrop-filter: blur(18px) saturate(160%);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.07);
   transition: background-color 0.35s ease, border-color 0.35s ease;
 }
 
-/* no topo da página inicial a navbar fica praticamente invisível */
+/* no topo da página inicial a navbar fica quase toda transparente */
 body.home-topo .navbar {
-  background-color: rgba(16, 29, 46, 0.18) !important;
+  background-color: rgba(26, 43, 63, 0.22) !important;
   border-bottom-color: transparent;
+}
+
+/* nada de faixa clara entre o topo da página e o hero */
+body.pagina-inicial,
+body:has(.home-hero) {
+  background-color: var(--marinho-escuro);
+}
+
+/* o Quarto deixa 17px de margem acima do conteúdo: na home isso vira faixa branca */
+body.pagina-inicial main.content,
+body:has(.home-hero) main.content {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
 }
 
 /* ---------- topo ---------- */
@@ -447,24 +461,30 @@ body.home-topo .navbar {
   height: 100%;
   object-fit: cover;
   display: block;
-  filter: saturate(0.5) contrast(1.03) brightness(0.62);
+  filter: saturate(0.6) contrast(1.02) brightness(0.78);
 }
 
+/* escurecimento mais forte à esquerda, clareando em direção à direita */
 .home-hero-midia::after {
   content: "";
   position: absolute;
   inset: 0;
   background:
     linear-gradient(90deg,
-      rgba(16, 29, 46, 0.42) 0%,
-      rgba(16, 29, 46, 0.62) 30%,
-      rgba(16, 29, 46, 0.84) 62%,
-      rgba(16, 29, 46, 0.95) 85%,
-      rgba(16, 29, 46, 0.99) 100%),
+      rgba(16, 29, 46, 0.88) 0%,
+      rgba(16, 29, 46, 0.74) 28%,
+      rgba(16, 29, 46, 0.55) 60%,
+      rgba(16, 29, 46, 0.40) 85%,
+      rgba(16, 29, 46, 0.32) 100%),
     linear-gradient(180deg,
-      rgba(16, 29, 46, 0.55) 0%,
-      rgba(16, 29, 46, 0.30) 45%,
-      rgba(16, 29, 46, 0.70) 100%);
+      rgba(16, 29, 46, 0.42) 0%,
+      rgba(16, 29, 46, 0.18) 45%,
+      rgba(16, 29, 46, 0.52) 100%);
+}
+
+/* o vídeo já carrega informação demais: o texto ganha um respiro próprio */
+.home-hero-conteudo {
+  text-shadow: 0 2px 18px rgba(10, 18, 30, 0.55);
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -906,4 +926,159 @@ body.home-topo .navbar {
 .indicador-data {
   font-size: 0.78rem;
   color: #8b98a8;
+}
+
+/* ============================================================= */
+/* PÁGINA "QUEM SOMOS" — cartões de integrantes                   */
+/* ============================================================= */
+
+.pagina-equipe {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 0 1rem 3rem;
+}
+
+.equipe-intro {
+  color: var(--texto);
+  line-height: 1.7;
+  max-width: 780px;
+  margin-bottom: 2.5rem;
+}
+
+.equipe-turma {
+  font-size: 1.75rem;
+  font-weight: 800;
+  color: var(--marinho);
+  margin: 3rem 0 0.4rem;
+  position: relative;
+  padding-left: 1rem;
+}
+
+.equipe-turma::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.18em;
+  bottom: 0.18em;
+  width: 5px;
+  border-radius: 3px;
+  background-color: var(--laranja);
+}
+
+.equipe-turma-sub {
+  color: var(--texto-suave);
+  margin: 0 0 2rem 1rem;
+  font-size: 0.95rem;
+}
+
+.equipe-secao {
+  font-size: 0.8rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--texto-suave);
+  margin: 2.2rem 0 1.1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.9rem;
+}
+
+.equipe-secao::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background-color: #e6ecf3;
+}
+
+.equipe-grade {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1.5rem;
+}
+
+.cartao-membro {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  background-color: #fff;
+  border: 1px solid #e3e9f0;
+  border-radius: 14px;
+  padding: 1.6rem 1.3rem 1.5rem;
+  position: relative;
+  overflow: hidden;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.cartao-membro::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background-color: var(--laranja);
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.25s ease;
+}
+
+.cartao-membro:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 14px 30px rgba(26, 43, 63, 0.13);
+  border-color: #cfdae6;
+}
+
+.cartao-membro:hover::before { transform: scaleX(1); }
+
+/* todas as fotos ficam do mesmo tamanho, independentemente do original */
+.membro-foto {
+  width: 128px;
+  height: 128px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center 25%;
+  border: 3px solid #eef2f7;
+  background-color: #eef2f7;
+  margin-bottom: 1rem;
+  flex: 0 0 auto;
+}
+
+.membro-nome {
+  font-size: 1.02rem;
+  font-weight: 800;
+  color: var(--marinho);
+  line-height: 1.3;
+  margin: 0 0 0.35rem 0;
+}
+
+.membro-curso {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--laranja);
+  margin: 0 0 0.8rem 0;
+}
+
+.membro-bio {
+  font-size: 0.9rem;
+  line-height: 1.55;
+  color: var(--texto-suave);
+  margin: 0;
+}
+
+/* turmas anteriores: só foto e nome, cartão mais enxuto */
+.equipe-grade-compacta {
+  grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+  gap: 1.1rem;
+}
+
+.equipe-grade-compacta .cartao-membro { padding: 1.2rem 0.9rem; }
+.equipe-grade-compacta .membro-foto { width: 96px; height: 96px; margin-bottom: 0.8rem; }
+.equipe-grade-compacta .membro-nome { font-size: 0.92rem; margin-bottom: 0; }
+
+@media (max-width: 640px) {
+  .equipe-grade { grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); }
+  .equipe-turma { font-size: 1.45rem; }
 }

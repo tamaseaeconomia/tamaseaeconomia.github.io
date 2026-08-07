@@ -14,23 +14,6 @@ format:
     <video id="hero-video" muted loop playsinline preload="none" poster="imagens/hero-fundo.jpg" data-src="imagens/hero-video.mp4"></video>
   </div>
 
-  <div class="detalhes-geo" aria-hidden="true">
-    <span class="geo-circulo geo-circulo-1"></span>
-    <span class="geo-circulo geo-circulo-2"></span>
-    <span class="geo-colchete geo-colchete-tl"></span>
-    <span class="geo-colchete geo-colchete-br"></span>
-    <svg class="geo-linha" viewBox="0 0 340 170" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <path d="M8 162 L8 10" stroke="rgba(255,255,255,.30)" stroke-width="2" stroke-linecap="round"/>
-      <path d="M8 162 L332 162" stroke="rgba(255,255,255,.30)" stroke-width="2" stroke-linecap="round"/>
-      <path d="M40 130 L110 70 L180 100 L250 42 L320 18" stroke="rgba(255,255,255,.38)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
-      <path d="M40 130 L40 162 M110 70 L110 162 M180 100 L180 162 M250 42 L250 162" stroke="rgba(255,255,255,.16)" stroke-width="2" stroke-dasharray="4 8" stroke-linecap="round"/>
-      <circle cx="40" cy="130" r="4" fill="rgba(255,255,255,.45)"/>
-      <circle cx="110" cy="70" r="4" fill="rgba(255,255,255,.45)"/>
-      <circle cx="180" cy="100" r="4" fill="rgba(255,255,255,.45)"/>
-      <circle cx="250" cy="42" r="4" fill="rgba(255,255,255,.45)"/>
-    </svg>
-  </div>
-
   <div class="home-hero-conteudo">
     <span class="hero-etiqueta">Atividade de Extensão · FEA-RP/USP</span>
     <h1 class="hero-marca">Tá, mas<br>e a <span class="destaque">economia?</span><svg class="hero-icone" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M 20 25 L 20 180 L 175 180" fill="none" stroke="#e69138" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><path d="M 12 37 L 20 25 L 28 37" fill="none" stroke="#e69138" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><path d="M 163 172 L 175 180 L 163 188" fill="none" stroke="#e69138" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><path d="M 45 135 L 45 180 M 80 90 L 80 180 M 115 115 L 115 180 M 145 80 L 145 180" fill="none" stroke="#e69138" stroke-width="7" stroke-dasharray="6, 11" stroke-linecap="round"/><path d="M 45 135 L 80 90 L 115 115 L 145 80 L 175 45" fill="none" stroke="#e69138" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><path d="M 160 45 L 175 45 L 175 60" fill="none" stroke="#e69138" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><circle cx="45" cy="135" r="10" fill="#e69138"/><circle cx="80" cy="90" r="10" fill="#e69138"/><circle cx="115" cy="115" r="10" fill="#e69138"/><circle cx="145" cy="80" r="10" fill="#e69138"/></svg></h1>
@@ -185,6 +168,13 @@ format:
     }
   }
 
+  // marca a página inicial: o CSS zera o espaço acima do hero
+  function marcarPaginaInicial() {
+    if (document.querySelector('.home-hero')) {
+      document.body.classList.add('pagina-inicial');
+    }
+  }
+
   function alternarTopo() {
     document.body.classList.toggle('home-topo', window.scrollY < 60);
   }
@@ -266,6 +256,7 @@ format:
   }
 
   document.addEventListener('DOMContentLoaded', function () {
+    marcarPaginaInicial();
     medirNavbar();
     alternarTopo();
     ligarCarrossel();
@@ -274,6 +265,7 @@ format:
   });
   window.addEventListener('scroll', alternarTopo, { passive: true });
   window.addEventListener('resize', medirNavbar);
+  window.addEventListener('load', medirNavbar);
 })();
 </script>
 ```

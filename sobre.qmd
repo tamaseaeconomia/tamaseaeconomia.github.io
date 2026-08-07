@@ -1,216 +1,184 @@
 ---
-title: "Integrantes"
+title: ""
+pagetitle: "Quem somos? — Tá, mas e a economia?"
 title-block-style: none
 toc: false
 title-block-banner: false
-toc-title: "Nesta página"
 sidebar: false
-toc-depth: 10
 format:
   html:
+    page-layout: full
     anchor-sections: false
+    css: styles.css
 ---
 
-## Sobre o projeto
-
-Conheça a equipe por trás das análises e publicações deste semestre. Nosso projeto faz parte das **Atividades Extensionistas Currículares (AEX)**, o que significa que nosso time é dinâmico e rotativo.
-
-A cada novo ciclo, novos estudantes assumem o desafio de levar o conhecimento acadêmico para a sociedade. Estes são os colaboradores que compõem o projeto no período atual:
-
-------------------------------------------------------------------------
-
-### Turma 2 - Primeiro Semestre 2026
-
-#### Professora Responsável
-
-::::::::::::::: grid
-::: {.g-col-12 .g-col-md-4}
-##### **Roseli Basso-Silva**
-
-![](images/Roseli-2%202021.jpeg){width="150"}
-
-Professora de economia, economista de formação, propôs esta Atividade de Extensão "AEX- Tá, mas e a economia?" a partir da iniciativa da estudante Carol Lhais para, juntas e juntos, contribuirmos para o debate econômico no país, para além dos muros da USP.
-:::
-:::::::::::::::
-
-#### Equipe Produção
-
-::::::::::::::: grid
-::: {.g-col-12 .g-col-md-4}
-##### **Sofia de Almeida Rodrigues**
-
-![](images/Sofia.jpeg){width="150"}
-
-Estudante de economia na FEARP-USP, com interesse em macroeconomia e finanças corporativas, e afinidade com análises que articulam dados e impactos sociais, integrando a equipe de produção da Newsletter.
-:::
-
-::: {.g-col-12 .g-col-md-4}
-##### **Giovana Alves Paiva**
-
-![](images/Giovana.jpg){width="150"}
-
-Estudante de economia na FEARP-USP, com interesse na dimensão social da economia e em políticas públicas. Se interessa por temas ligados à desigualdade e ao acesso a oportunidades, e integra a equipe de produção da Newsletter.
-:::
-
-::: {.g-col-12 .g-col-md-4}
-##### **Luiz Henrique Braga Scorzafave**
-
-![](images/Luiz.jpeg){width="150"}
-
-Estudante de economia na FEARP-USP, com interesse na área da economia política e políticas públicas, e integra a equipe de produção da Newsletter.
-:::
-
-::: {.g-col-12 .g-col-md-4}
-##### **Pedro Konstantino Freire Voltezou**
-
-![](images/pedro_konstantino.jpg){width="150"}
-
-Estudante de economia na FEARP-USP, com interesse nas áreas de macroeconomia, história econômica, economia política e finanças. Integra a equipe de produção da Newsletter.
-:::
-
-::: {.g-col-12 .g-col-md-4}
-##### **Arthur Coelho Oliveira**
-
-![](images/Arthur.jpeg){width="150"}
-
-Estudante de economia na FEARP-USP, com interesse nas áreas de macroeconomia, economia política e finanças corporativas, e integra a equipe de produção da Newsletter.
-:::
-
-::: {.g-col-12 .g-col-md-4}
-##### **Maria Carolina Dias Lobato**
-
-![](images/Maria%20Lobato.jpeg){width="150"}
-
-Estudante de economia na FEA-RP, com interesse nas áreas de macroeconomia, políticas públicas e economia internacional, e integra a equipe de produção da Newsletter.
-:::
-
-::: {.g-col-12 .g-col-md-4}
-##### **Beatriz Poncio**
-
-![](images/BeatrizPoncio.jpg){width="150"}
-
-Estudante de economia na FEA-RP, com interesse nas áreas de macroeconomia, economia política e economia internacional, e integra a equipe de produção da newsletter.
-:::
-
-::: {.g-col-12 .g-col-md-4}
-##### **Rafael Sanches**
-
-![](images/Rafael%20Sanches.jpg){width="150"}
-
-Estudante de Finanças e negócios na FEA-RP, com interesse nas áreas de governança corporativa, macroeconomia e finanças, e integra a equipe de produção da newsletter.
-:::
-:::::::::::::::
-
-#### Equipe Comunicação e Edição
-
-::::::::::::::: grid
-::: {.g-col-12 .g-col-md-4}
-##### **Isabella Gargano**
-
-![](images/Isabella.jpg){width="150"}
-
-Estudante de jornalismo na Escola de Comunicação e Artes da USP, com afinidade com jornalismo econômico e político internacional, faz parte da equipe de comunicação e edição da Newsletter.
-:::
-
-::: {.g-col-12 .g-col-md-4}
-##### **Thaís Ferreira Cruz**
-
-![](images/Thais_.jpg){width="150"}
-
-Estudante de química com habilitação em forense na Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto - USP, com afinidade na área de toxicologia bioquímica e integra a equipe de comunicação e edição da Newsletter.
-:::
-
-::: {.g-col-12 .g-col-md-4}
-##### **Samuel Rubens**
-
-![](images/samuel_rubens.png){width="150"}
-
-Estudante de Ciência da Computação na USP-ICMC, atuou como engenheiro de software por 5 anos e atualmente está empreendendo com a Rubrion.
-:::
-
-::: {.g-col-12 .g-col-md-4}
-##### **Ryan**
-
-![](images/Ryan.jpg){width="150"}
-
-Estudante de administração na FEARP-USP, com interesse na área de marketing. Atua como estagiário na Assessoria de Comunicação da faculdade e integra a equipe de comunicação e edição da Newsletter.
-:::
-:::::::::::::::
-
-------------------------------------------------------------------------
-
-### Turma 1 - Segundo Semestre 2025
-
-::::::::::::::: grid
-::: {.g-col-12 .g-col-md-4}
-##### **Anna Livya Queiroz**
-
-![](images/clipboard-4042184240.jpeg){width="150"}
-:::
-
-::: {.g-col-12 .g-col-md-4}
-##### **Bruna Agostini**
-
-![](images/clipboard-2642606476.jpeg){width="150"}
-:::
-
-::: {.g-col-12 .g-col-md-4}
-##### **Caroline Lhais Oliveira**
-
-![](images/clipboard-3508393542.jpeg){width="150"}
-:::
-
-::: {.g-col-12 .g-col-md-4}
-##### **Gabriel**
-
-![](images/clipboard-335215217.jpeg){width="150"}
-:::
-
-::: {.g-col-12 .g-col-md-4}
-##### **Giuliana Sigilló**
-
-![](images/clipboard-370101971.jpeg){width="150"}
-:::
-
-::: {.g-col-12 .g-col-md-4}
-##### **Gustavo Lima Moraes**
-
-![](images/clipboard-1030265860.jpeg){width="150"}
-:::
-
-::: {.g-col-12 .g-col-md-4}
-##### **João Gabriel**
-
-![](images/clipboard-3759248711.jpeg){width="150"}
-:::
-
-::: {.g-col-12 .g-col-md-4}
-##### **Jonathan Cunha**
-
-![](images/clipboard-1002129704.jpeg){width="150"}
-:::
-
-::: {.g-col-12 .g-col-md-4}
-##### **Leticia Brito**
-
-![](images/clipboard-3442889573.jpeg){width="150"}
-:::
-
-::: {.g-col-12 .g-col-md-4}
-##### **Manuela Marangoni Jampani**
-
-![](images/clipboard-1268148681.jpeg){width="150"}
-:::
-
-::: {.g-col-12 .g-col-md-4}
-##### **Matheus de Souza Teixeira**
-
-![](images/clipboard-2197960862.jpeg){width="150"}
-:::
-
-::: {.g-col-12 .g-col-md-4}
-##### **Paula Leandra**
-
-![](images/clipboard-584421673.jpeg){width="150"}
-:::
-:::::::::::::::
+```{=html}
+<div class="pagina-equipe">
+
+  <h1 class="equipe-turma" style="margin-top: 1.5rem;">Integrantes</h1>
+  <p class="equipe-turma-sub">Quem faz a newsletter, edição após edição.</p>
+
+  <p class="equipe-intro">Conheça a equipe por trás das análises e publicações deste semestre. Nosso projeto faz parte das <strong>Atividades Extensionistas Curriculares (AEX)</strong>, o que significa que nosso time é dinâmico e rotativo. A cada novo ciclo, novos estudantes assumem o desafio de levar o conhecimento acadêmico para a sociedade. Estes são os colaboradores que compõem o projeto no período atual.</p>
+
+  <h2 class="equipe-turma">Turma 2</h2>
+  <p class="equipe-turma-sub">Primeiro semestre de 2026</p>
+
+  <div class="equipe-secao">Professora responsável</div>
+
+  <div class="equipe-grade">
+    <div class="cartao-membro">
+      <img class="membro-foto" src="images/Roseli-2%202021.jpeg" alt="Roseli Basso-Silva">
+      <h3 class="membro-nome">Roseli Basso-Silva</h3>
+      <p class="membro-curso">Professora responsável</p>
+      <p class="membro-bio">Professora de economia, economista de formação, propôs esta Atividade de Extensão "AEX — Tá, mas e a economia?" a partir da iniciativa da estudante Carol Lhais para, juntas e juntos, contribuirmos para o debate econômico no país, para além dos muros da USP.</p>
+    </div>
+  </div>
+
+  <div class="equipe-secao">Equipe de produção</div>
+
+  <div class="equipe-grade">
+    <div class="cartao-membro">
+      <img class="membro-foto" src="images/Sofia.jpeg" alt="Sofia de Almeida Rodrigues">
+      <h3 class="membro-nome">Sofia de Almeida Rodrigues</h3>
+      <p class="membro-curso">Economia · FEA-RP/USP</p>
+      <p class="membro-bio">Interesse em macroeconomia e finanças corporativas, e afinidade com análises que articulam dados e impactos sociais.</p>
+    </div>
+
+    <div class="cartao-membro">
+      <img class="membro-foto" src="images/Giovana.jpg" alt="Giovana Alves Paiva">
+      <h3 class="membro-nome">Giovana Alves Paiva</h3>
+      <p class="membro-curso">Economia · FEA-RP/USP</p>
+      <p class="membro-bio">Interesse na dimensão social da economia e em políticas públicas, com foco em desigualdade e acesso a oportunidades.</p>
+    </div>
+
+    <div class="cartao-membro">
+      <img class="membro-foto" src="images/Luiz.jpeg" alt="Luiz Henrique Braga Scorzafave">
+      <h3 class="membro-nome">Luiz Henrique Braga Scorzafave</h3>
+      <p class="membro-curso">Economia · FEA-RP/USP</p>
+      <p class="membro-bio">Interesse na área de economia política e políticas públicas.</p>
+    </div>
+
+    <div class="cartao-membro">
+      <img class="membro-foto" src="images/pedro_konstantino.jpg" alt="Pedro Konstantino Freire Voltezou">
+      <h3 class="membro-nome">Pedro Konstantino Freire Voltezou</h3>
+      <p class="membro-curso">Economia · FEA-RP/USP</p>
+      <p class="membro-bio">Interesse em macroeconomia, história econômica, economia política e finanças.</p>
+    </div>
+
+    <div class="cartao-membro">
+      <img class="membro-foto" src="images/Arthur.jpeg" alt="Arthur Coelho Oliveira">
+      <h3 class="membro-nome">Arthur Coelho Oliveira</h3>
+      <p class="membro-curso">Economia · FEA-RP/USP</p>
+      <p class="membro-bio">Interesse em macroeconomia, economia política e finanças corporativas.</p>
+    </div>
+
+    <div class="cartao-membro">
+      <img class="membro-foto" src="images/Maria%20Lobato.jpeg" alt="Maria Carolina Dias Lobato">
+      <h3 class="membro-nome">Maria Carolina Dias Lobato</h3>
+      <p class="membro-curso">Economia · FEA-RP/USP</p>
+      <p class="membro-bio">Interesse em macroeconomia, políticas públicas e economia internacional.</p>
+    </div>
+
+    <div class="cartao-membro">
+      <img class="membro-foto" src="images/BeatrizPoncio.jpg" alt="Beatriz Poncio">
+      <h3 class="membro-nome">Beatriz Poncio</h3>
+      <p class="membro-curso">Economia · FEA-RP/USP</p>
+      <p class="membro-bio">Interesse em macroeconomia, economia política e economia internacional.</p>
+    </div>
+
+    <div class="cartao-membro">
+      <img class="membro-foto" src="images/Rafael%20Sanches.jpg" alt="Rafael Sanches">
+      <h3 class="membro-nome">Rafael Sanches</h3>
+      <p class="membro-curso">Finanças e Negócios · FEA-RP/USP</p>
+      <p class="membro-bio">Interesse em governança corporativa, macroeconomia e finanças.</p>
+    </div>
+  </div>
+
+  <div class="equipe-secao">Equipe de comunicação e edição</div>
+
+  <div class="equipe-grade">
+    <div class="cartao-membro">
+      <img class="membro-foto" src="images/Isabella.jpg" alt="Isabella Gargano">
+      <h3 class="membro-nome">Isabella Gargano</h3>
+      <p class="membro-curso">Jornalismo · ECA/USP</p>
+      <p class="membro-bio">Afinidade com jornalismo econômico e político internacional.</p>
+    </div>
+
+    <div class="cartao-membro">
+      <img class="membro-foto" src="images/Thais_.jpg" alt="Thaís Ferreira Cruz">
+      <h3 class="membro-nome">Thaís Ferreira Cruz</h3>
+      <p class="membro-curso">Química forense · FFCLRP/USP</p>
+      <p class="membro-bio">Afinidade com a área de toxicologia bioquímica.</p>
+    </div>
+
+    <div class="cartao-membro">
+      <img class="membro-foto" src="images/samuel_rubens.png" alt="Samuel Rubens">
+      <h3 class="membro-nome">Samuel Rubens</h3>
+      <p class="membro-curso">Ciência da Computação · ICMC/USP</p>
+      <p class="membro-bio">Atuou como engenheiro de software por 5 anos e atualmente está empreendendo com a Rubrion.</p>
+    </div>
+
+    <div class="cartao-membro">
+      <img class="membro-foto" src="images/Ryan.jpg" alt="Ryan">
+      <h3 class="membro-nome">Ryan</h3>
+      <p class="membro-curso">Administração · FEA-RP/USP</p>
+      <p class="membro-bio">Interesse na área de marketing. Atua como estagiário na Assessoria de Comunicação da faculdade.</p>
+    </div>
+  </div>
+
+  <h2 class="equipe-turma">Turma 1</h2>
+  <p class="equipe-turma-sub">Segundo semestre de 2025</p>
+
+  <div class="equipe-grade equipe-grade-compacta">
+    <div class="cartao-membro">
+      <img class="membro-foto" src="images/clipboard-4042184240.jpeg" alt="Anna Livya Queiroz">
+      <h3 class="membro-nome">Anna Livya Queiroz</h3>
+    </div>
+    <div class="cartao-membro">
+      <img class="membro-foto" src="images/clipboard-2642606476.jpeg" alt="Bruna Agostini">
+      <h3 class="membro-nome">Bruna Agostini</h3>
+    </div>
+    <div class="cartao-membro">
+      <img class="membro-foto" src="images/clipboard-3508393542.jpeg" alt="Caroline Lhais Oliveira">
+      <h3 class="membro-nome">Caroline Lhais Oliveira</h3>
+    </div>
+    <div class="cartao-membro">
+      <img class="membro-foto" src="images/clipboard-335215217.jpeg" alt="Gabriel">
+      <h3 class="membro-nome">Gabriel</h3>
+    </div>
+    <div class="cartao-membro">
+      <img class="membro-foto" src="images/clipboard-370101971.jpeg" alt="Giuliana Sigilló">
+      <h3 class="membro-nome">Giuliana Sigilló</h3>
+    </div>
+    <div class="cartao-membro">
+      <img class="membro-foto" src="images/clipboard-1030265860.jpeg" alt="Gustavo Lima Moraes">
+      <h3 class="membro-nome">Gustavo Lima Moraes</h3>
+    </div>
+    <div class="cartao-membro">
+      <img class="membro-foto" src="images/clipboard-3759248711.jpeg" alt="João Gabriel">
+      <h3 class="membro-nome">João Gabriel</h3>
+    </div>
+    <div class="cartao-membro">
+      <img class="membro-foto" src="images/clipboard-1002129704.jpeg" alt="Jonathan Cunha">
+      <h3 class="membro-nome">Jonathan Cunha</h3>
+    </div>
+    <div class="cartao-membro">
+      <img class="membro-foto" src="images/clipboard-3442889573.jpeg" alt="Leticia Brito">
+      <h3 class="membro-nome">Leticia Brito</h3>
+    </div>
+    <div class="cartao-membro">
+      <img class="membro-foto" src="images/clipboard-1268148681.jpeg" alt="Manuela Marangoni Jampani">
+      <h3 class="membro-nome">Manuela Marangoni Jampani</h3>
+    </div>
+    <div class="cartao-membro">
+      <img class="membro-foto" src="images/clipboard-2197960862.jpeg" alt="Matheus de Souza Teixeira">
+      <h3 class="membro-nome">Matheus de Souza Teixeira</h3>
+    </div>
+    <div class="cartao-membro">
+      <img class="membro-foto" src="images/clipboard-584421673.jpeg" alt="Paula Leandra">
+      <h3 class="membro-nome">Paula Leandra</h3>
+    </div>
+  </div>
+
+</div>
+```
