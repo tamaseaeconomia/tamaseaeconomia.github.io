@@ -410,7 +410,7 @@
 /* ---------- navbar de vidro ---------- */
 body.nav-fixed .navbar {
   /* mesmo marinho das seções, com opacidade baixa e desfoque */
-  background-color: rgba(26, 43, 63, 0.55) !important;
+  background-color: rgba(26, 43, 63, 0.88) !important;
   -webkit-backdrop-filter: blur(18px) saturate(160%);
   backdrop-filter: blur(18px) saturate(160%);
   border-bottom: 1px solid rgba(255, 255, 255, 0.07);
@@ -419,7 +419,7 @@ body.nav-fixed .navbar {
 
 /* no topo da página inicial a navbar fica quase toda transparente */
 body.home-topo .navbar {
-  background-color: rgba(26, 43, 63, 0.22) !important;
+  background-color: rgba(26, 43, 63, 0.38) !important;
   border-bottom-color: transparent;
 }
 
@@ -1082,3 +1082,25 @@ body:has(.home-hero) main.content {
   .equipe-grade { grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); }
   .equipe-turma { font-size: 1.45rem; }
 }
+
+/* ---------- assinatura no rodapé ---------- */
+.rodape-powered {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+  text-decoration: none !important;
+  color: rgba(255, 255, 255, 0.7) !important;
+  font-size: 0.85rem;
+  font-weight: 600;
+  transition: color 0.2s ease, opacity 0.2s ease;
+}
+
+.rodape-powered img {
+  height: 26px;
+  width: auto;
+  opacity: 0.85;
+  transition: opacity 0.2s ease;
+}
+
+.rodape-powered:hover { color: #ffffff !important; }
+.rodape-powered:hover img { opacity: 1; }

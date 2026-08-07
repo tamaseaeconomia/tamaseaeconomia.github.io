@@ -40,7 +40,12 @@ website:
       <a href="https://www.linkedin.com/in/jonathan-cunha-78bb0b28b/" style="color: white; text-decoration: none;">
         Jonathan Cunha <i class="bi bi-linkedin"></i>
       </a>
-    right: "2026 Tá, mas e a economia?"
+    center: "2026 Tá, mas e a economia?"
+    right: |
+      <a class="rodape-powered" href="https://rubrion.ai" target="_blank" rel="noopener">
+        <span>Powered by</span>
+        <img src="/imagens/logo_rubrion.svg" alt="Rubrion">
+      </a>
 
 format:
   html:
