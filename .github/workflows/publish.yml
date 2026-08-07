@@ -1,0 +1,38 @@
+name: Publicar site
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+# permite que o job escreva no branch gh-pages
+permissions:
+  contents: write
+
+# um deploy por vez; se chegarem dois pushes seguidos, o mais novo espera o anterior
+concurrency:
+  group: publicar-site
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Baixar o repositório
+        uses: actions/checkout@v4
+        with:
+          # o publish precisa do histórico do gh-pages para atualizar o branch
+          fetch-depth: 0
+
+      - name: Instalar o Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: 1.7.32
+
+      - name: Renderizar e publicar no gh-pages
+        uses: quarto-dev/quarto-actions/publish@v2
+        with:
+          target: gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

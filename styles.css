@@ -1104,3 +1104,33 @@ body:has(.home-hero) main.content {
 
 .rodape-powered:hover { color: #ffffff !important; }
 .rodape-powered:hover img { opacity: 1; }
+
+/* ---------- destaque ao passar o mouse na lista da newsletter ---------- */
+.quarto-listing .quarto-post {
+  border: 1px solid transparent;
+  border-radius: 12px;
+  padding: 1rem 1.15rem;
+  margin-bottom: 0.35rem;
+  transition: background-color 0.2s ease, border-color 0.2s ease,
+              box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.quarto-listing .quarto-post:hover {
+  background-color: #fff7e3;           /* amarelo esbranquiçado */
+  border-color: #f3dcae;
+  box-shadow: 0 10px 24px rgba(230, 145, 56, 0.16);
+  transform: translateY(-2px);
+}
+
+.quarto-listing .quarto-post:hover .listing-title {
+  color: #b06a12;
+}
+
+.quarto-listing .quarto-post:hover .listing-date,
+.quarto-listing .quarto-post:hover .listing-author {
+  color: #8a6a3c;
+}
+
+.quarto-listing .quarto-post .listing-title {
+  transition: color 0.2s ease;
+}
