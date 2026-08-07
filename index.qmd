@@ -89,6 +89,38 @@ format:
   </div>
 </section>
 
+<section class="secao-indicadores faixa-larga">
+  <div class="secao-interna">
+    <div class="secao-cabecalho">
+      <h2 class="secao-titulo">Indicadores</h2>
+      <span class="indicadores-fonte">Fonte: Banco Central do Brasil (SGS) · <span id="indicadores-estado">atualizando…</span></span>
+    </div>
+
+    <div class="grade-indicadores" id="painel-indicadores">
+      <div class="indicador" data-serie="432" data-formato="percentual">
+        <span class="indicador-nome">Selic meta</span>
+        <span class="indicador-numero">14,00%</span>
+        <span class="indicador-data">16/09/2026</span>
+      </div>
+      <div class="indicador" data-serie="13522" data-formato="percentual">
+        <span class="indicador-nome">IPCA · 12 meses</span>
+        <span class="indicador-numero">4,64%</span>
+        <span class="indicador-data">06/2026</span>
+      </div>
+      <div class="indicador" data-serie="1" data-formato="moeda">
+        <span class="indicador-nome">Dólar comercial</span>
+        <span class="indicador-numero">R$ 5,09</span>
+        <span class="indicador-data">07/08/2026</span>
+      </div>
+      <div class="indicador" data-serie="21619" data-formato="moeda">
+        <span class="indicador-nome">Euro</span>
+        <span class="indicador-numero">R$ 5,88</span>
+        <span class="indicador-data">07/08/2026</span>
+      </div>
+    </div>
+  </div>
+</section>
+
 <section class="secao-cinza faixa-larga">
   <div class="secao-interna">
     <div class="grade-numeros">
@@ -192,11 +224,53 @@ format:
     if (tocar && tocar.catch) tocar.catch(function () {});
   }
 
+  function formatarValor(valor, formato) {
+    var n = parseFloat(valor);
+    if (isNaN(n)) return null;
+    if (formato === 'moeda') {
+      return 'R$ ' + n.toLocaleString('pt-BR', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+    }
+    return n.toLocaleString('pt-BR', { minimumFractionDigits: 2, maximumFractionDigits: 2 }) + '%';
+  }
+
+  function carregarIndicadores() {
+    var painel = document.getElementById('painel-indicadores');
+    var estado = document.getElementById('indicadores-estado');
+    if (!painel) return;
+
+    var itens = Array.prototype.slice.call(painel.querySelectorAll('.indicador'));
+    var pedidos = itens.map(function (item) {
+      var url = 'https://api.bcb.gov.br/dados/serie/bcdata.sgs.' + item.dataset.serie +
+                '/dados/ultimos/1?formato=json';
+      return fetch(url, { cache: 'no-store' })
+        .then(function (r) { return r.ok ? r.json() : Promise.reject(r.status); })
+        .then(function (dados) {
+          var ponto = dados && dados[0];
+          if (!ponto) return false;
+          var texto = formatarValor(ponto.valor, item.dataset.formato);
+          if (!texto) return false;
+          item.querySelector('.indicador-numero').textContent = texto;
+          item.querySelector('.indicador-data').textContent = ponto.data;
+          return true;
+        })
+        .catch(function () { return false; });
+    });
+
+    Promise.all(pedidos).then(function (resultados) {
+      if (!estado) return;
+      var ok = resultados.filter(Boolean).length;
+      estado.textContent = ok === resultados.length
+        ? 'atualizado agora'
+        : (ok === 0 ? 'últimos valores conhecidos' : 'parcialmente atualizado');
+    });
+  }
+
   document.addEventListener('DOMContentLoaded', function () {
     medirNavbar();
     alternarTopo();
     ligarCarrossel();
     ligarVideo();
+    carregarIndicadores();
   });
   window.addEventListener('scroll', alternarTopo, { passive: true });
   window.addEventListener('resize', medirNavbar);
