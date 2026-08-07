@@ -1,0 +1,87 @@
+---
+title: "O Brasil aposta alto: quem ganha e quem perde com as bets?"
+author:
+  - Luiz Scorzafave e Maria Carolina Lobato, 5° semestre de Ciências Econômicas — FEARP
+date: 2026-06-30
+description: Uma análise econômica e social sobre as bets, um dos setores mais dinâmicos, e polêmicos, da economia brasileira recente.
+format:
+  html:
+    toc: false
+    css: news-custom.css
+---
+
+## Introdução
+
+Em ano de Copa do Mundo, o torcedor brasileiro costuma seguir um roteiro conhecido: camisas da seleção, churrasco e as tradicionais rodadas de palpites com amigos e colegas de trabalho. No entanto, o que antes era uma brincadeira informal de bolão ganhou uma escala industrial. Há poucos anos, as apostas online ocupavam uma zona cinzenta no Brasil. Hoje, movimentam dezenas de bilhões de reais por mês, atraem milhões de usuários e se tornaram um dos setores mais dinâmicos — e controversos — da economia nacional. O crescimento explosivo das chamadas "bets" e jogos como o "tigrinho" levanta uma pergunta inevitável: estamos diante de um novo mercado de entretenimento ou de um problema econômico de grandes proporções?
+
+Um estudo econômico da Confederação Nacional do Comércio (CNC) revela que o gasto dos brasileiros com as plataformas de apostas girava em torno de R\$ 4 bilhões mensais no final de 2022. Contudo, em notas técnicas recentes apresentadas à CPI das Bets no Senado, o Banco Central do Brasil (BC) atualizou suas projeções e apontou que a movimentação bruta em 2025 alcançou entre **R\$ 20 bilhões e R\$ 30 bilhões por mês**, o que representa de 2,2% a 3,2% do PIB nacional. O faturamento das empresas licenciadas no primeiro quadrimestre de 2026 foi de R\$ 12 bilhões, segundo o balanço de arrecadação da Receita Federal. Além disso, segundo o Ministério da Fazenda, o número de apostadores já passa de 40 milhões de pessoas.
+
+## Impacto socioeconômico
+
+Como tantos indivíduos conseguem gastar tanto com as bets? Como a renda das famílias é limitada, gastar mais em uma categoria significa gastar menos em outra. É justamente esse raciocínio que ajuda a explicar a preocupação de economistas e empresários do varejo. O crescimento acelerado das bets não cria dinheiro novo na economia, pois, em grande parte, ele redireciona recursos que poderiam ser usados para comprar roupas, eletrodomésticos, refeições ou até mesmo para formar uma reserva financeira.
+
+Na prática, milhões de pequenas apostas podem representar bilhões de reais deixando de circular em outros setores. Por isso, parte dos especialistas acompanha o avanço das plataformas de apostas com atenção: o impacto não está apenas no valor movimentado pelas empresas do setor, mas também nos gastos que deixaram de acontecer em outros mercados. Um estudo publicado pela CNC revelou que as apostas online retiraram **R\$ 143,8 bilhões** do comércio varejista brasileiro entre 2023 e o início de 2026, afetando o faturamento de supermercados, lojas de vestuário e eletrodomésticos, montante equivalente aos natais de 2024 e 2025 somados.
+
+::: caixinha-lateral-esq
+**“Tá, mas e a economia?” — O que é efeito substituição?**
+
+Efeito substituição ocorre quando consumidores trocam um tipo de gasto por outro, para um dado nível de renda. Se uma família passa a destinar mais dinheiro às apostas, tende a reduzir despesas em outras áreas do orçamento. O dinheiro mudou de destino, mas não aumentou.
+:::
+
+Além disso, um dos principais problemas são os usuários que também são beneficiários do Bolsa Família. O crescimento das apostas também trouxe preocupações que vão além da economia. Dados recentes mostram que centenas de milhares de brasileiros já solicitaram a autoexclusão das plataformas, mecanismo que bloqueia voluntariamente o acesso às contas de apostas. Embora muitas pessoas apostem apenas por entretenimento, existe uma parcela dos usuários que desenvolve dificuldades para controlar a frequência ou os valores gastos. Nesses casos, as perdas financeiras podem se transformar em endividamento, conflitos familiares e problemas de saúde mental. Por exemplo, a plataforma federal de autoexclusão, lançada em dezembro de 2025, já recebeu, até 19 de junho de 2026, pedidos de quase 700 mil pessoas. Entre quem informou o motivo, 41% apontaram perda de controle sobre o jogo ou impacto na saúde mental como razão principal.
+
+O tema ganhou ainda mais atenção após a divulgação de estudos mostrando que beneficiários de programas sociais também estão entre os usuários das plataformas. Um estudo do Banco Central revelou que cerca de 5 milhões de pessoas cadastradas no Bolsa Família enviaram R\$ 3 bilhões a empresas de apostas via Pix. Desses, 4 milhões eram chefes de família e foram responsáveis por R\$ 2 bilhões. Um cenário preocupante, em que a política pública desenhada para garantir a segurança alimentar e transferir renda para as camadas mais vulneráveis acabou se transformando, por vias tortas, em um dreno de subsídio estatal direto para o lucro de corporações de apostas. Isso mostra que o debate deixou de ser apenas sobre escolhas individuais e passou a envolver possíveis impactos sobre o bem-estar das famílias e a vulnerabilidade econômica de parte da população.
+
+## Intervenção do governo
+
+O avanço das apostas online não gera impactos apenas nas famílias e no varejo — ele também produz custos sociais que extrapolam a escolha individual e exigem a atenção do Estado. É o que os economistas chamam de externalidades negativas.
+
+::: caixinha-lateral-dir
+**“Tá, mas e a economia?” — O que são externalidades?**
+
+Externalidades são custos ou benefícios gerados por uma atividade que não aparecem diretamente no preço pago pelo consumidor. No caso das apostas, o lucro das plataformas pode vir acompanhado de custos sociais, que são externalidades negativas. Por exemplo, endividamento, perda de patrimônio familiar, afastamento do trabalho e maior demanda por atendimento psicológico e psiquiátrico.
+:::
+
+Diante da rápida expansão do setor, o governo optou por um caminho diferente da proibição: a regulamentação. A ideia é estabelecer regras para o funcionamento das plataformas, aumentar a fiscalização e arrecadar impostos sobre uma atividade que já movimenta bilhões de reais.
+
+Do ponto de vista econômico, a tributação busca compensar parte dos custos sociais que podem surgir com o aumento das apostas. Os recursos arrecadados ajudam a financiar áreas como saúde pública e seguridade social, além de ampliar as receitas do Estado.
+
+A carga tributária total sobre as empresas regularizadas gira em torno de 37% da receita, e em 2026 a alíquota sobre a receita bruta das apostas foi elevada de 12% para 15% (com discussões para chegar a 18%), com os recursos direcionados à saúde pública e à seguridade social. O resultado é visível: o governo arrecadou **R\$ 4,5 bilhões** em impostos só entre janeiro e abril de 2026, o dobro do mesmo período do ano anterior, reflexo de uma base que já ultrapassa 25 milhões de CPFs ativos em plataformas regularizadas.
+
+::: caixinha-lateral-esq
+**“Tá, mas e a economia?” — O que é tributação?**
+
+Tributação é a forma como o Estado arrecada recursos por meio de tributos — como impostos, taxas e contribuições. Além de financiar serviços públicos, os tributos podem ser usados para incentivar ou desestimular determinados comportamentos. É o caso dos impostos pigouvianos, cobrados sobre atividades que geram custos para a sociedade, com o objetivo de reduzir esses efeitos e ajudar a compensá-los.
+:::
+
+O principal risco a esse modelo é o mercado ilegal de apostas, que representa cerca de 40% do setor no Brasil, bem acima dos 13% do Reino Unido, gerando uma perda potencial de R\$ 10,8 bilhões por ano em arrecadação. Tributar demais o mercado regulado pode, paradoxalmente, ampliar a clandestinidade: a alíquota ótima não é a mais alta, mas aquela que maximiza a formalização.
+
+Ainda assim, permanece uma discussão importante: a arrecadação gerada pelo setor será suficiente para compensar seus possíveis impactos sobre as famílias e sobre outros segmentos da economia?
+
+## Conclusão
+
+As apostas online criaram um paradoxo econômico. De um lado, geram empregos, movimentam o setor digital e ampliam a arrecadação do governo. De outro, podem reduzir o consumo em áreas tradicionais da economia, aumentar o endividamento das famílias e produzir custos sociais difíceis de mensurar. A grande questão talvez não seja se as bets devem existir, mas qual é o limite entre um mercado de entretenimento e uma atividade capaz de comprometer a saúde financeira de milhões de brasileiros.
+
+::: callout-tip
+#### ODS 10 — Redução das desigualdades
+
+O uso de recursos provenientes de programas de transferência de renda para a realização de apostas nessas plataformas contraria diretamente o objetivo de redução das desigualdades, uma vez que, em princípio, esses valores deveriam ser destinados à aquisição de bens e serviços básicos pelas famílias beneficiárias.
+:::
+
+**Transparência em Uso de IA:** Ferramentas: ChatGPT-4 e Gemini. Uso: organização das ideias e revisão gramatical. Todo o conteúdo foi revisado pelos autores, que assumem responsabilidade pela versão final.
+
+**Fontes:**
+
+BANCO CENTRAL DO BRASIL. *Análise técnica sobre o mercado de apostas online no Brasil*. Nota técnica apresentada à CPI das Bets. Brasília: BCB, 2025.
+
+CONFEDERAÇÃO NACIONAL DO COMÉRCIO DE BENS, SERVIÇOS E TURISMO (CNC). *Impacto das apostas online no comércio varejista brasileiro: 2023–2026*. Rio de Janeiro: CNC, 2026.
+
+INSTITUTO BRASILEIRO DE JOGO RESPONSÁVEL (IBJR); LCA CONSULTORES. *Fora do Radar: dimensionamento do mercado ilegal de apostas no Brasil*. São Paulo: IBJR/LCA, 2025. Disponível em: <https://ibjr.org.br>. Acesso em: 28 jun. 2026.
+
+MINISTÉRIO DA FAZENDA. *Secretaria de Prêmios e Apostas (SPA): balanço de arrecadação do setor de apostas — 1º quadrimestre de 2026*. Brasília: MF, 2026.
+
+::: botoes-fim-de-pagina
+[Voltar para a Newsletter](indexNe.qmd){.btn-voltar}
+
+[Ler o próximo texto](Estilo16.qmd){.btn-proximo}
+:::

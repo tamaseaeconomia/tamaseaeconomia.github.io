@@ -18,31 +18,31 @@ Esses minerais estão presentes em turbinas eólicas, motores de veículos elét
 
 Neodímio e praseodímio, especificamente, são utilizados para fabricação de ímãs permanentes de alta potência, peça para motores de veículos elétricos e geradores eólicos.
 
+::: caixinha-lateral-esq
+**“Tá, mas e a economia?” — Oligopólio**
+
+O oligopólio de oferta é uma estrutura de mercado caracterizada por um pequeno número de produtores que detém o controle da maior parte ou totalidade da oferta de um bem ou serviço, em contraposição a uma grande quantidade de compradores. Diante disso, as empresas que detém a produção têm poder de mercado a ponto de influenciar preços, saindo de um cenário de concorrência perfeita.
+:::
+
 A demanda por esses minerais cresceu de forma expressiva na última década, e a expectativa é de mais crescimento à medida que governos avançam em agendas de descarbonização e digitalização. Segundo o U.S. Geological Survey (USGS), a produção mundial de terras raras atingiu cerca de 375.950 toneladas em 2023.
 
 Para a economia, o ponto central do tema é a estrutura de mercado, pois as terras raras estão inseridas em um oligopólio de oferta chinês, justamente por a China ser a maior responsável pelo beneficiamento desses minerais.
 
-::: {.caixinha-lateral-esq}
-**"Tá, mas e a Economia? - Oligopólio e barreiras de entrada**
-O oligopólio de oferta é uma estrutura de mercado caracterizada por um pequeno número de produtores que detém o controle da maior parte ou totalidade da oferta de um bem ou serviço, em contraposição a uma grande quantidade de compradores. Diante disso, as empresas que detém a produção têm poder de mercado a ponto de influenciar preços, saindo de um cenário de concorrência perfeita.
-
-Já as barreiras de entrada são a dificuldade que novas empresas têm em entrar em um mercado. Neste caso, vale citar tecnologia de processamento, custos ambientais, regulatórios e de construção de uma mina. Em outras palavras, a principal barreira de entrada é a necessidade de alto capital inicial, com retornos apenas no longuíssimo prazo.
-:::
-
 ## O mapa das reservas e da produção mundial
+
+::: caixinha-lateral-dir
+**“Tá, mas e a economia?” — Óxidos de Terras Raras (REO)**
+
+Em economia, medir corretamente é condição para analisar preços, comparar mercados e estimar valor ao longo de cadeias produtivas.
+
+A solução adotada pelo mercado e pelos organismos internacionais é a tonelada de REO (Rare Earth Oxide), que representa o equivalente em óxido de cada elemento. O REO funciona como um denominador comum que viabiliza comparações padronizadas entre minerais, países e períodos.
+:::
 
 As reservas mundiais de terras raras são estimadas pelo USGS em aproximadamente 90 milhões de toneladas de REO (2025). O Brasil detém cerca de 21 milhões de toneladas, representando cerca de 23% do total mundial, sendo a segunda maior reserva individual, atrás apenas da China (48%).
 
-::: {.caixinha-lateral-dir}
-**"Tá, mas e a Economia?" - Óxidos de Terras Raras (REO)**
-Em economia, medir corretamente é condição para analisar preços, comparar mercados e estimar valor ao longo de cadeias produtivas. No setor de terras raras, esse desafio é particularmente agudo: são 17 elementos distintos, extraídos em concentrações e purezas variadas, com aplicações e preços completamente diferentes entre si. Sem uma unidade comum, torna-se impossível comparar a produção de dois países, acompanhar a evolução de preços no tempo ou dimensionar reservas globais com rigor analítico.
-
-A solução adotada pelo mercado e pelos organismos internacionais é a tonelada de REO (Rare Earth Oxide), que representa o equivalente em óxido de cada elemento. Como as terras raras são refinadas sob a forma de óxidos, por exemplo Nd₂O₃ para neodímio, Ce₂O₃ para cério, o REO funciona como um denominador comum que viabiliza comparações padronizadas entre minerais, países e períodos. Reservas e produção globais são reportadas nessa unidade pelo USGS no Mineral Commodity Summaries, referência internacional para análise do setor mineral.
-:::
+Em relação ao beneficiamento, estimativas do Departamento de Energia dos EUA e do Parlamento Europeu indicam que a China controla entre 85% e 90% da capacidade global de transformar terras raras brutas em compostos industrialmente utilizáveis.
 
 ![Reservas e produção mundial de terras raras](images/terras-raras.png){width="100%" style="margin: 20px 0;"}
-
-Em relação ao beneficiamento, estimativas do Departamento de Energia dos EUA e do Parlamento Europeu indicam que a China controla entre 85% e 90% da capacidade global de transformar terras raras brutas em compostos industrialmente utilizáveis.
 
 ## O poder de mercado da China
 
@@ -60,26 +60,28 @@ O resultado desse oligopólio tem implicações que extrapolam o mercado de comm
 
 A transação integra uma estratégia mais ampla dos Estados Unidos de manter sua hegemonia geopolítica frente à China, visto que o Brasil, sob a ótica estadunidense, reúne atributos estratégicos evidentes como magnitude das reservas, estabilidade institucional e ausência de uma indústria de beneficiamento doméstico de terras raras consolidada.
 
-Do ponto de vista da teoria econômica, a extração de terras raras enfrenta altas barreiras de entrada, gerando oligopólio de oferta. Por conta disso, em todas as principais nações atuantes no mercado de terras raras, o Estado investe fortemente, já que é o principal agente da economia a dispor de capital paciente em um contexto de fortes externalidades positivas (segurança nacional e viabilização de indústrias de alto valor agregado). Isto é, para superar os altos custos de extração de terras raras, houveram anos de política industrial chinesa e, no caso dos EUA, a própria compra da Serra Verde foi financiada por um banco estatal americano. Mesmo a MP Materials, responsável por explorar a única fonte ativa de terras raras dos Estados Unidos, na Califórnia, opera sob parceria público privada com o departamento de defesa.
+::: caixinha-lateral-esq
+**“Tá, mas e a economia?” — Barreiras de entrada**
 
-Com isso em vista, houve a proposta de criação, pela União, de uma empresa estatal de terras raras, a Terrabras. Uma empresa brasileira que seria a responsável pela exploração desses minerais, assim como ocorre com a Petrobras em relação ao petróleo.
-
-::: {.caixinha-lateral-esq}
-"Tá, mas e a Economia? - Capital paciente
-
-Os investidores, usualmente, buscam retorno sobre investimento em prazos previsíveis e um menor risco. No caso das terras raras, seus projetos de mineração e refino exigem bilhões de dólares, levando anos apenas entre o licenciamento e o início da produção. Daí, surge a necessidade de capital paciente, definido por recursos de longo prazo que toleram o risco extremo e a ausência de lucro imediato.
+As barreiras de entrada são a dificuldade que novas empresas têm em entrar em um mercado. Neste caso, vale citar tecnologia de processamento, custos ambientais, regulatórios e de construção de uma mina. Em outras palavras, a principal barreira de entrada é a necessidade de alto capital inicial, com retornos apenas no longuíssimo prazo.
 :::
 
+Do ponto de vista da teoria econômica, a extração de terras raras enfrenta altas barreiras de entrada, gerando oligopólio de oferta. Por conta disso, em todas as principais nações atuantes no mercado de terras raras, o Estado investe fortemente, já que é o principal agente da economia a dispor de capital paciente em um contexto de fortes externalidades positivas (segurança nacional e viabilização de indústrias de alto valor agregado). Isto é, para superar os altos custos de extração de terras raras, houveram anos de política industrial chinesa e, no caso dos EUA, a própria compra da Serra Verde foi financiada por um banco estatal americano. Mesmo a MP Materials, responsável por explorar a única fonte ativa de terras raras dos Estados Unidos, na Califórnia, opera sob parceria público privada com o departamento de defesa.
+
+Com isso em vista, houve a proposta de criação, pela União, de uma empresa estatal de terras raras, a Terrabras. Uma empresa brasileira que seria a responsável pela exploração desses minerais, assim como ocorre com a Petrobras em relação ao petróleo. Dentro do contexto citado, o capital financiado pelo Estado tem uma importância que pode ser descrita pelo conceito de **capital paciente**: como os investidores, usualmente, buscam retorno sobre investimento em prazos previsíveis e com menor risco, e como os projetos de mineração e refino de terras raras exigem bilhões de dólares e levam anos apenas entre o licenciamento e o início da produção, surge a necessidade de recursos de longo prazo que toleram o risco extremo e a ausência de lucro imediato.
+
 ## As consequências negativas do acordo
+
+A teoria do comércio internacional corrobora e atesta o acordo firmado, mas desconsidera dois fenômenos centrais identificados pela literatura: as externalidades positivas da industrialização (aprendizado, transbordamentos tecnológicos, economias de escala dinâmicas) e a assimetria de poder em mercados oligopolizados, nos quais os ganhos do comércio são capturados desproporcionalmente pelo agente dominante. É exatamente o caso das terras raras.
 
 A controvérsia em torno do contrato de cessão não está necessariamente no valor da venda, mas nas condições que deixaram de ser impostas. Em nenhum momento a negociação exigiu que o beneficiamento das terras raras extraídas ocorresse em território nacional.
 
 Manter o beneficiamento no Brasil significaria geração de emprego para mão de obra altamente qualificada, transferência de tecnologia, receita fiscal adicional e, em última instância, acumulação de capacidade produtiva em um setor de fronteira tecnológica.
 
-::: {.caixinha-lateral-dir}
-"Tá, mas e a Economia? - Teoria do Comércio Internacional
+::: caixinha-lateral-dir
+**“Tá, mas e a economia?” — Teoria do Comércio Internacional**
 
-A teoria clássica do comércio internacional, na formulação ricardiana, recomendaria ao Brasil especializar-se na atividade econômica em que possui vantagem comparativa frente a outras nações (a extração mineral) e importar os produtos industrializados de maior valor. O problema é que essa prescrição pressupõe mercados competitivos e ignora dois fenômenos centrais identificados pela literatura: as externalidades positivas da industrialização (aprendizado, transbordamentos tecnológicos, economias de escala dinâmicas) e a assimetria de poder em mercados oligopolizados, onde os ganhos do comércio são capturados desproporcionalmente pelo agente dominante. É exatamente o caso das terras raras.
+A teoria clássica do comércio internacional, na formulação ricardiana, recomendaria ao Brasil especializar-se na atividade econômica em que possui vantagem comparativa frente a outras nações (a extração mineral) e importar os produtos industrializados de maior valor.
 :::
 
 É nesse aspecto teórico que se inserem as cláusulas de conteúdo local (LCR). Do ponto de vista da teoria do comércio estratégico (Brander, 1985), em mercados não competitivos, a intervenção estatal pode deslocar rendas do produtor estrangeiro para o doméstico. As LCR (exigências contratuais ou regulatórias que determinam uma proporção mínima de valor agregado gerada no país de origem do recurso) são esse instrumento. Indonésia (níquel e bauxita) e Austrália já as aplicam para minerais estratégicos, forçando empresas estrangeiras a investir em capacidade industrial local como condição de acesso às reservas. O Brasil utiliza mecanismos análogos na produção de petróleo via ANP, mas ainda não transpôs essa lógica para as terras raras. Adotar tal medida, passando a exigir transferência de tecnologia para o território brasileiro, pode ser uma forma de resolver as consequências negativas do acordo.

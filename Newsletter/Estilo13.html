@@ -6,10 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="João, Maria">
-<meta name="description" content="demonstração de todas as flexibilidades e organizações que conheço para o site">
+<meta name="author" content="Beatriz Poncio, 3° semestre de Ciências Econômicas, e Rafael Sanches, 6° semestre de Finanças e Negócios">
+<meta name="description" content="Em 2026, estrangeiros já injetaram mais de R$ 67 bilhões na bolsa brasileira. O que esse fluxo recorde revela sobre a posição do Brasil no mercado financeiro global e qual é o preço de depender dele.">
 
-<title>Estilo 2 –</title>
+<title>Hot money e a vulnerabilidade do Brasil como destino de capital especulativo –</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -39,14 +39,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-2fef5ea3f8957b3e4ecc936fc74692ca.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-5f949a5bea45d94d62fc36e208ebafcc.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark-b137a21c2f25a3a13d0d6fada44ea6d9.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="../site_libs/bootstrap/bootstrap-5f949a5bea45d94d62fc36e208ebafcc.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-b3d884b029980123f899d89c53fcbb37.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -86,172 +82,10 @@ gtag('config', 'G-VT21GYZ4R3', { 'anonymize_ip': true});
 
 
 <link rel="stylesheet" href="../styles.css">
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="news-custom.css">
 </head>
 
-<body class="nav-fixed fullcontent quarto-light"><script id="quarto-html-before-body" type="application/javascript">
-    const toggleBodyColorMode = (bsSheetEl) => {
-      const mode = bsSheetEl.getAttribute("data-mode");
-      const bodyEl = window.document.querySelector("body");
-      if (mode === "dark") {
-        bodyEl.classList.add("quarto-dark");
-        bodyEl.classList.remove("quarto-light");
-      } else {
-        bodyEl.classList.add("quarto-light");
-        bodyEl.classList.remove("quarto-dark");
-      }
-    }
-    const toggleBodyColorPrimary = () => {
-      const bsSheetEl = window.document.querySelector("link#quarto-bootstrap:not([rel=disabled-stylesheet])");
-      if (bsSheetEl) {
-        toggleBodyColorMode(bsSheetEl);
-      }
-    }
-    const setColorSchemeToggle = (alternate) => {
-      const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
-      for (let i=0; i < toggles.length; i++) {
-        const toggle = toggles[i];
-        if (toggle) {
-          if (alternate) {
-            toggle.classList.add("alternate");
-          } else {
-            toggle.classList.remove("alternate");
-          }
-        }
-      }
-    };
-    const toggleColorMode = (alternate) => {
-      // Switch the stylesheets
-      const primaryStylesheets = window.document.querySelectorAll('link.quarto-color-scheme:not(.quarto-color-alternate)');
-      const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
-      manageTransitions('#quarto-margin-sidebar .nav-link', false);
-      if (alternate) {
-        // note: dark is layered on light, we don't disable primary!
-        enableStylesheet(alternateStylesheets);
-        for (const sheetNode of alternateStylesheets) {
-          if (sheetNode.id === "quarto-bootstrap") {
-            toggleBodyColorMode(sheetNode);
-          }
-        }
-      } else {
-        disableStylesheet(alternateStylesheets);
-        enableStylesheet(primaryStylesheets)
-        toggleBodyColorPrimary();
-      }
-      manageTransitions('#quarto-margin-sidebar .nav-link', true);
-      // Switch the toggles
-      setColorSchemeToggle(alternate)
-      // Hack to workaround the fact that safari doesn't
-      // properly recolor the scrollbar when toggling (#1455)
-      if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
-        manageTransitions("body", false);
-        window.scrollTo(0, 1);
-        setTimeout(() => {
-          window.scrollTo(0, 0);
-          manageTransitions("body", true);
-        }, 40);
-      }
-    }
-    const disableStylesheet = (stylesheets) => {
-      for (let i=0; i < stylesheets.length; i++) {
-        const stylesheet = stylesheets[i];
-        stylesheet.rel = 'disabled-stylesheet';
-      }
-    }
-    const enableStylesheet = (stylesheets) => {
-      for (let i=0; i < stylesheets.length; i++) {
-        const stylesheet = stylesheets[i];
-        if(stylesheet.rel !== 'stylesheet') { // for Chrome, which will still FOUC without this check
-          stylesheet.rel = 'stylesheet';
-        }
-      }
-    }
-    const manageTransitions = (selector, allowTransitions) => {
-      const els = window.document.querySelectorAll(selector);
-      for (let i=0; i < els.length; i++) {
-        const el = els[i];
-        if (allowTransitions) {
-          el.classList.remove('notransition');
-        } else {
-          el.classList.add('notransition');
-        }
-      }
-    }
-    const isFileUrl = () => {
-      return window.location.protocol === 'file:';
-    }
-    const hasAlternateSentinel = () => {
-      let styleSentinel = getColorSchemeSentinel();
-      if (styleSentinel !== null) {
-        return styleSentinel === "alternate";
-      } else {
-        return false;
-      }
-    }
-    const setStyleSentinel = (alternate) => {
-      const value = alternate ? "alternate" : "default";
-      if (!isFileUrl()) {
-        window.localStorage.setItem("quarto-color-scheme", value);
-      } else {
-        localAlternateSentinel = value;
-      }
-    }
-    const getColorSchemeSentinel = () => {
-      if (!isFileUrl()) {
-        const storageValue = window.localStorage.getItem("quarto-color-scheme");
-        return storageValue != null ? storageValue : localAlternateSentinel;
-      } else {
-        return localAlternateSentinel;
-      }
-    }
-    const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
-      const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
-      const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
-      let newTheme = '';
-      if(authorPrefersDark) {
-        newTheme = isAlternate ? baseTheme : alternateTheme;
-      } else {
-        newTheme = isAlternate ? alternateTheme : baseTheme;
-      }
-      const changeGiscusTheme = () => {
-        // From: https://github.com/giscus/giscus/issues/336
-        const sendMessage = (message) => {
-          const iframe = document.querySelector('iframe.giscus-frame');
-          if (!iframe) return;
-          iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
-        }
-        sendMessage({
-          setConfig: {
-            theme: newTheme
-          }
-        });
-      }
-      const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
-      if (isGiscussLoaded) {
-        changeGiscusTheme();
-      }
-    };
-    const authorPrefersDark = false;
-    const darkModeDefault = authorPrefersDark;
-      document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
-      document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
-    let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
-    // Dark / light mode switch
-    window.quartoToggleColorScheme = () => {
-      // Read the current dark / light value
-      let toAlternate = !hasAlternateSentinel();
-      toggleColorMode(toAlternate);
-      setStyleSentinel(toAlternate);
-      toggleGiscusIfUsed(toAlternate, darkModeDefault);
-      window.dispatchEvent(new Event('resize'));
-    };
-    // Switch to dark mode if need be
-    if (hasAlternateSentinel()) {
-      toggleColorMode(true);
-    } else {
-      toggleColorMode(false);
-    }
-  </script>
+<body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -292,10 +126,14 @@ gtag('config', 'G-VT21GYZ4R3', { 'anonymize_ip': true});
 </i> 
 <span class="menu-text"></span></a>
   </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://www.linkedin.com/in/t%C3%A1-mas-e-a-economia-aex-fearp-0a6837394/"> <i class="bi bi-linkedin" role="img" aria-label="LinkedIn">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
-  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Alternar modo escuro"><i class="bi"></i></a>
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -308,15 +146,14 @@ gtag('config', 'G-VT21GYZ4R3', { 'anonymize_ip': true});
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Estilo 2</h1>
+<h1 class="title">Hot money e a vulnerabilidade do Brasil como destino de capital especulativo</h1>
 </div>
 
 <div>
   <div class="description">
-    demonstração de todas as flexibilidades e organizações que conheço para o site
+    Em 2026, estrangeiros já injetaram mais de R$ 67 bilhões na bolsa brasileira. O que esse fluxo recorde revela sobre a posição do Brasil no mercado financeiro global e qual é o preço de depender dele.
   </div>
 </div>
 
@@ -326,14 +163,14 @@ gtag('config', 'G-VT21GYZ4R3', { 'anonymize_ip': true});
     <div>
     <div class="quarto-title-meta-heading">Autor</div>
     <div class="quarto-title-meta-contents">
-             <p>João, Maria </p>
+             <p>Beatriz Poncio, 3° semestre de Ciências Econômicas, e Rafael Sanches, 6° semestre de Finanças e Negócios </p>
           </div>
   </div>
     
     <div>
     <div class="quarto-title-meta-heading">Data de Publicação</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">30/12/2025</p>
+      <p class="date">30/06/2026</p>
     </div>
   </div>
   
@@ -345,54 +182,107 @@ gtag('config', 'G-VT21GYZ4R3', { 'anonymize_ip': true});
 </header>
 
 
-<section id="textos-retirado-de-noticias-para-demonstrar-a-estrutura-do-texto." class="level3">
-<h3 class="anchored" data-anchor-id="textos-retirado-de-noticias-para-demonstrar-a-estrutura-do-texto.">Textos retirado de noticias para demonstrar a estrutura do texto.</h3>
-<p>A China implementará o tratamento de tarifa zero para importações dos 53 países africanos com os quais mantém relações diplomáticas.</p>
-<p>A medida será implementada a partir de 1º de maio de 2026, de acordo a mídia estatal.</p>
-<p>Segundo reportagem da televisão estatal, a China também continuará a pressionar pela negociação e assinatura de pactos de parceria econômica conjunta e a expandir ainda mais o acesso das exportações africanas ao mercado chinês por meio de mecanismos aprimorados, como o seu “canal verde”.</p>
-<p><img src="imagem.jpg" class="img-direita img-fluid"></p>
-<p>A Receita Federal conseguiu reduzir em mais de 60% o volume de encomendas internacionais em desacordo com o programa Remessa Conforme, conhecido como “taxa das blusinhas”. No ano passado, o Fisco identificou 6,2 milhões de encomendas em desconformidade com a iniciativa, ante 15,7 milhões em 2024.</p>
-<p>No período, também houve queda no volume de compras internacionais realizadas por brasileiros. Em 2025, a Receita Federal contabilizou 157,3 milhões de encomendas, redução de cerca de 8% em comparação ao ano anterior, quando 169,4 milhões foram registradas.</p>
-<p>Apesar da queda nas encomendas, a arrecadação federal com a taxa das blusinhas duplicou. Subiu de R$ 2,88 bilhões em 2024 para R$ 5 bilhões no ano passado.</p>
-<p>O programa foi implementado em agosto de 2023 como parte de um esforço do governo para combater a sonegação de impostos em compras internacionais. No Remessa Conforme, há duas modalidades de tributação:</p>
+<section id="um-recorde" class="level2">
+<h2 class="anchored" data-anchor-id="um-recorde">Um recorde</h2>
+<p>Até abril de 2026, investidores estrangeiros já haviam aplicado <strong>R$ 67,7 bilhões</strong> na B3, volume que supera o total investido em todo o ano de 2025. A participação estrangeira nos negócios da bolsa atingiu 61,2% do total operado, a maior fatia já registrada na série histórica, superando investidores institucionais (24,5%) e pessoas físicas (11%). Apenas em fevereiro de 2026, o aporte mensal chegou a R$ 42,56 bilhões, ultrapassando, em um único mês, o saldo acumulado de todo o ano anterior. O fenômeno levanta uma pergunta central para a análise econômica: por que o capital internacional está concentrando recursos no Brasil neste momento específico, e o que isso diz sobre a natureza desse dinheiro?</p>
+<div class="caixinha-lateral-esq">
+<p><strong>“Tá, mas e a economia?” — Investimento de portfólio</strong></p>
+<p>Categoria do Balanço de Pagamentos que registra a compra de ativos financeiros (ações, títulos públicos e privados) sem intenção de controle administrativo sobre a empresa. Diferencia-se do Investimento Direto (IED) pela alta liquidez: pode ser desfeito rapidamente, tornando-o sensível a mudanças nas condições de mercado.</p>
+</div>
+<p>A resposta exige separar dois conceitos frequentemente confundidos no debate público. Um é o investimento estrangeiro direto (IED), que financia plantas industriais, aquisições de empresas e operações de longo prazo, pouco sensível a oscilações de curto prazo. O outro é o fluxo de portfólio, compra de ações e títulos em mercados secundários, que pode entrar e sair do país em questão de dias, movido por mudanças marginais no diferencial de juros ou na percepção de risco. É esse segundo tipo de capital, mais volátil, que vem batendo recordes na B3 em 2026, enquanto o investidor brasileiro pessoa física e os fundos de pensão locais seguem como vendedores líquidos de ações no mesmo período, uma assimetria que torna o mercado doméstico cada vez mais dependente da decisão de alocação de gestores fora do país.</p>
 </section>
-<section id="caixinha" class="level3 caixinha-lateral">
-<h3 class="anchored" data-anchor-id="caixinha">Caixinha</h3>
-<p>compras de até US$ 50:</p>
-<ul>
-<li>20% de Imposto de Importação;</li>
-<li>17% de ICMS;</li>
-</ul>
-<p>compras de até US$ 50:</p>
-<ul>
-<li>60% de Imposto de Importação;</li>
-<li>17% de ICMS.</li>
-</ul>
+<section id="carry-trade-o-motor-por-trás-do-fluxo" class="level2">
+<h2 class="anchored" data-anchor-id="carry-trade-o-motor-por-trás-do-fluxo">Carry trade: o motor por trás do fluxo</h2>
+<div class="caixinha-lateral-dir">
+<p><strong>“Tá, mas e a economia?” — Carry trade</strong></p>
+<p>Estratégia em que o investidor capta recursos em uma moeda de juro baixo e aplica em ativos denominados em moeda de juro alto. Pela Teoria da Paridade de Juros Descoberta (UIP), juros em moedas diferentes não podem ser comparados diretamente: o ganho com o diferencial de taxas deve ser sempre avaliado junto com a expectativa de variação cambial entre a entrada e a saída do investimento. O carry trade lucra quando a depreciação da moeda de destino é menor do que o diferencial de juros esperado, uma aposta, não um retorno garantido.</p>
+</div>
+<p>O principal mecanismo que explica a atratividade do Brasil para esse capital é o carry trade. Investidores internacionais captam recursos em países com juros baixos (Estados Unidos, Japão, zona do euro) e os realocam em economias com juros elevados, embolsando o diferencial. Com a Selic em 15% ao ano ao final de 2025, muito acima dos juros praticados nas economias centrais, o Brasil se tornou um destino natural dessa estratégia. Some-se a isso o ambiente internacional, visto que a guerra no Irã elevou os preços do petróleo, beneficiando o Brasil como exportador líquido da commodity, e analistas do mercado já descrevem os ativos brasileiros como comportando-se de forma similar a um porto relativamente seguro dentro do universo de emergentes.</p>
+<p>O resultado prático aparece nos números. Somente em fevereiro de 2026, o aporte estrangeiro somou R$ 42,56 bilhões, superando o saldo de todo o ano de 2025. Em março, mesmo com a escalada do conflito no Oriente Médio, a entrada não refluiu: o fluxo mensal permaneceu positivo em R$ 6 bilhões. Esse padrão é a evidência empírica de um movimento de carry trade em curso, sustentado pelo diferencial de juros e por uma janela favorável de apetite a risco global por mercados emergentes.</p>
 </section>
-<p>Caso a compra internacional seja realizada em um site não certificado no Remessa Conforme, será aplicada a regra geral, cujas alíquotas são 60% de imposto de importação e 17% de ICMS. Os impostos são aplicados quando o produto chega no Brasil, antes de serem enviados à casa do comprador.</p>
-<p>À primeira vista, a aposta do governo Trump na imigração e nos empregos parece uma simples questão de matemática: se um grande número de trabalhadores for removido do país, os empregadores precisarão recorrer aos trabalhadores que ainda estão nos Estados Unidos para preencher essas vagas.</p>
-<p>No entanto, não é isso que está acontecendo. Os trabalhadores americanos, cidadãos ou não, estão enfrentando um crescimento salarial mais lento, menos vagas de emprego e uma taxa de desemprego mais alta.</p>
-<p>Acontece que há muitos fatores complicados mantendo os americanos desempregados à margem. O principal deles é a menor demanda geral resultante da remoção de pessoas dos Estados Unidos e da interrupção da entrada de novos imigrantes.</p>
-<p>“No primeiro ano do presidente Trump no cargo, todo o crescimento do emprego foi para os trabalhadores nascidos nos Estados Unidos, enquanto o crescimento do emprego diminuiu para os trabalhadores nascidos no exterior”, disse a porta-voz da Casa Branca, Taylor Rogers, à CNN em um comunicado.</p>
+<section id="composição-do-capital-estrangeiro-no-brasil-2026" class="level2">
+<h2 class="anchored" data-anchor-id="composição-do-capital-estrangeiro-no-brasil-2026">Composição do capital estrangeiro no Brasil — 2026</h2>
+<p><em>Tipos de fluxo financeiro internacional por prazo e volatilidade</em></p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Tipo de fluxo</th>
+<th>Prazo médio</th>
+<th>Volatilidade</th>
+<th>Saldo 2026 (B3)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Investimento Direto (IED)</td>
+<td>Longo prazo</td>
+<td>Baixa</td>
+<td>—</td>
+</tr>
+<tr class="even">
+<td>Fluxo de portfólio (bolsa)</td>
+<td>Curto/médio</td>
+<td>Alta</td>
+<td>+R$ 67,7 bi*</td>
+</tr>
+<tr class="odd">
+<td>Carry trade (juros)</td>
+<td>Curtíssimo</td>
+<td>Muito alta</td>
+<td>—</td>
+</tr>
+<tr class="even">
+<td>Participação estrangeira na B3</td>
+<td>—</td>
+<td>—</td>
+<td>61,2%**</td>
+</tr>
+</tbody>
+</table>
+<p>*Fluxo estrangeiro acumulado na B3 até 15/04/2026. **Participação nos negócios totais da B3 no acumulado de 2026 até 16/04. Fonte: B3 e Banco Central do Brasil.</p>
+</section>
+<section id="o-outro-lado-da-moeda-a-vulnerabilidade" class="level2">
+<h2 class="anchored" data-anchor-id="o-outro-lado-da-moeda-a-vulnerabilidade">O outro lado da moeda: a vulnerabilidade</h2>
+<div class="caixinha-lateral-esq">
+<p><strong>“Tá, mas e a economia?” — Sudden stop</strong></p>
+<p>Termo cunhado por Guillermo Calvo para descrever a interrupção abrupta e generalizada de fluxos de capital estrangeiro para uma economia emergente, geralmente seguida de forte depreciação cambial e contração do crédito. Tende a ocorrer quando há mudança rápida na percepção de risco do investidor internacional.</p>
+</div>
+<p>O mesmo mecanismo que atrai capital de forma acelerada pode revertê-lo com igual velocidade, um fenômeno que a literatura econômica batizou de <em>sudden stop</em>, descrito por Guillermo Calvo a partir das crises latino-americanas dos anos 1990. Quando investidores percebem mudança na relação risco-retorno, seja por alta de juros nos Estados Unidos, deterioração fiscal doméstica ou choque geopolítico, o capital de portfólio sai do país rapidamente, pressionando o câmbio e a liquidez do mercado de capitais. Diferente do IED, que financia capacidade produtiva, o capital especulativo não cria valor real na economia: ele aposta na diferença de preços e juros entre países, e sai assim que essa diferença se estreita ou o risco aumenta.</p>
+<p>Essa vulnerabilidade é estrutural para economias emergentes. O Brasil já viveu episódios de reversão abrupta de fluxo, como em 2013, quando o anúncio de redução de estímulos monetários nos Estados Unidos provocou fuga de capital de mercados emergentes em bloco, o chamado <em>taper tantrum</em>. O recorde de entradas em 2026 não elimina esse risco: ele o concentra. Quanto maior a dependência da bolsa brasileira em relação ao investidor estrangeiro, maior a exposição do mercado doméstico a decisões tomadas fora do país.</p>
+</section>
+<section id="perspectivas-oportunidade-com-prazo-de-validade" class="level2">
+<h2 class="anchored" data-anchor-id="perspectivas-oportunidade-com-prazo-de-validade">Perspectivas: oportunidade com prazo de validade</h2>
+<p>A entrada recorde de capital fortalece o real, barateia o financiamento externo e sustenta o Ibovespa em níveis historicamente altos. Para a economia real, contudo, o benefício é condicional: ele depende da continuidade de um cenário externo favorável e do diferencial de juros que, segundo o Boletim Focus, deve se reduzir ao longo de 2026 com a queda gradual da Selic. Bancos de investimento já apontam que parte relevante dos recursos atuais tem caráter tático, ou seja, foi alocada para capturar uma janela específica, não para permanecer indefinidamente no país. À medida que a Selic recua e o diferencial de juros com as economias centrais se estreita, o incentivo ao carry trade perde força, e o fluxo de portfólio tende a se tornar mais seletivo ou a buscar outros destinos emergentes com retorno comparável.</p>
+<p>Do ponto de vista da política econômica, o desafio é transformar a janela de capital especulativo em condições para atrair investimento de longo prazo, mais estável e menos sujeito a reversões súbitas. Isso depende de fundamentos que vão além do diferencial de juros: previsibilidade fiscal, segurança jurídica e produtividade. Sem isso, o Brasil corre o risco de repetir um padrão histórico, aproveitar ciclos de liquidez internacional sem consolidar ganhos estruturais quando a maré, inevitavelmente, vira. A literatura sobre crises em países emergentes é clara nesse ponto: economias que dependem excessivamente de fluxo de portfólio para sustentar seus mercados de capitais tendem a sofrer mais quando o ciclo de liquidez internacional se reverte, e o Brasil já experimentou esse padrão em episódios anteriores de saída abrupta de capital.</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+ODS 8 — Trabalho decente e crescimento econômico
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>A dependência de capital especulativo de curto prazo compromete o ODS 8, pois investimentos voláteis financiam pouco a expansão da capacidade produtiva e do emprego. Direcionar políticas para atrair Investimento Direto (IED) de longo prazo, em vez de apenas capital de portfólio, fortalece um crescimento econômico mais estável e sustentável.</p>
+</div>
+</div>
+<p><strong>Transparência em Uso de IA:</strong> A ferramenta de inteligência artificial Claude (Anthropic) foi utilizada para apoio à pesquisa de dados, estruturação do texto e revisão de estilo. Toda a análise econômica, a escolha dos conceitos teóricos e a argumentação foram desenvolvidas e revisadas pelos autores humanos, que assumem integral responsabilidade pelo conteúdo publicado.</p>
+<p><strong>Para saber mais:</strong></p>
+<p>BANCO CENTRAL DO BRASIL. <em>Balanço de Pagamentos</em>. Brasília: BCB, 2026. Disponível em: <a href="https://www.bcb.gov.br/estatisticas/balancopagamentos" class="uri">https://www.bcb.gov.br/estatisticas/balancopagamentos</a>. Acesso em: jun. 2026.</p>
+<p>BANCO CENTRAL DO BRASIL. <em>Relatório de Estabilidade Financeira</em>. Brasília: BCB, 2026. Disponível em: <a href="https://www.bcb.gov.br/publicacoes/ref" class="uri">https://www.bcb.gov.br/publicacoes/ref</a>. Acesso em: jun. 2026.</p>
+<p>B3. <em>Fluxo de Investimento Estrangeiro</em>. São Paulo: B3, 2026. Disponível em: <a href="https://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/consultas/mercado-a-vista/fluxo-de-investimento-estrangeiro" class="uri">https://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/consultas/mercado-a-vista/fluxo-de-investimento-estrangeiro</a>. Acesso em: jun. 2026.</p>
+<div class="botoes-fim-de-pagina">
+<p><a href="../Newsletter/indexNe.html" class="btn-voltar">Voltar para a Newsletter</a></p>
+<p><a href="../Newsletter/Estilo14.html" class="btn-proximo">Ler o próximo texto</a></p>
+</div>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
-    // Ensure there is a toggle, if there isn't float one in the top right
-    if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
-      const a = window.document.createElement('a');
-      a.classList.add('top-right');
-      a.classList.add('quarto-color-scheme-toggle');
-      a.href = "";
-      a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
-      const i = window.document.createElement("i");
-      i.classList.add('bi');
-      a.appendChild(i);
-      window.document.body.appendChild(a);
-    }
-    setColorSchemeToggle(hasAlternateSentinel())
     const icon = "";
     const anchorJS = new window.AnchorJS();
     anchorJS.options = {
@@ -463,7 +353,7 @@ gtag('config', 'G-VT21GYZ4R3', { 'anonymize_ip': true});
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/tamaseaeconomia\.github\.io\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

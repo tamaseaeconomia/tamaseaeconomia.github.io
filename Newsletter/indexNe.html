@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="pt-BR" xml:lang="pt-BR"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.25">
+<meta name="generator" content="quarto-1.7.32">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,15 +35,14 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-5e62ab56cb14ebd2271c08e25d507c76.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-b3d884b029980123f899d89c53fcbb37.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -72,6 +71,34 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-quinta-edicao .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-quinta-edicao'] = new List('listing-quinta-edicao', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
     const listingTargetEl = window.document.querySelector('#listing-quarta-edicao .list');
@@ -208,7 +235,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+      if (mathElements[i].tagName == "SPAN") {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -235,8 +262,7 @@ window.Quarto = {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../imagens/logo_aex_2.png" alt="" class="navbar-logo light-content">
-    <img src="../imagens/logo_aex_2.png" alt="" class="navbar-logo dark-content">
+    <img src="../imagens/logo_aex_2.png" alt="" class="navbar-logo">
     </a>
     <a class="navbar-brand" href="../index.html">
     <span class="navbar-title"></span>
@@ -309,16 +335,126 @@ window.Quarto = {
 </header>
 
 
+<section id="quinta-edição" class="level2 edicao-container" style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; border-left: 5px solid #1a365d; margin-bottom: 50px;">
+<h2 class="anchored" data-anchor-id="quinta-edição">Quinta Edição</h2>
+<p><strong>Responsáveis pela editoração:</strong> Isabela Gargano, Ryan Tarasco, Samuel Rubens e Thaís Ferreira | <em>Publicado em Junho de 2026</em></p>
+<hr>
+<div id="listing-quinta-edicao" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1782788400000" data-listing-file-modified-sort="1786127522958" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1388">
+<div class="thumbnail"><a href="../Newsletter/Estilo13.html" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../Newsletter/Estilo13.html" class="no-external">Hot money e a vulnerabilidade do Brasil como destino de capital especulativo</a>
+</h3>
+<div class="delink listing-description"><a href="../Newsletter/Estilo13.html" class="no-external">
+<p>Em 2026, estrangeiros já injetaram mais de R$ 67 bilhões na bolsa brasileira. O que esse fluxo recorde revela sobre a posição do Brasil no mercado financeiro global e qual é o preço de depender dele.</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="../Newsletter/Estilo13.html" class="no-external">
+<div class="listing-date">
+30/06/2026
+</div>
+<div class="listing-author">
+Beatriz Poncio, 3° semestre de Ciências Econômicas, e Rafael Sanches, 6° semestre de Finanças e Negócios
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1782788400000" data-listing-file-modified-sort="1786127580431" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1753">
+<div class="thumbnail"><a href="../Newsletter/Estilo14.html" class="no-external">
+
+<p class="card-img-top"><img src="images/industria-vab.png"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../Newsletter/Estilo14.html" class="no-external">O quadro recente da desindustrialização brasileira</a>
+</h3>
+<div class="delink listing-description"><a href="../Newsletter/Estilo14.html" class="no-external">
+<p>Embora a manufatura dê sinais de reação recente, em especial no período pós-pandêmico, o contraste com a indústria extrativa e as marcas do “Custo Brasil” expõem um setor em busca de equilíbrio.</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="../Newsletter/Estilo14.html" class="no-external">
+<div class="listing-date">
+30/06/2026
+</div>
+<div class="listing-author">
+Arthur Coelho Oliveira, 7° semestre, e Pedro Konstantino Freire Voltezou, 3° semestre
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1782788400000" data-listing-file-modified-sort="1786127772489" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1444">
+<div class="thumbnail"><a href="../Newsletter/Estilo15.html" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../Newsletter/Estilo15.html" class="no-external">O Brasil aposta alto: quem ganha e quem perde com as bets?</a>
+</h3>
+<div class="delink listing-description"><a href="../Newsletter/Estilo15.html" class="no-external">
+<p>Uma análise econômica e social sobre as bets, um dos setores mais dinâmicos, e polêmicos, da economia brasileira recente.</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="../Newsletter/Estilo15.html" class="no-external">
+<div class="listing-date">
+30/06/2026
+</div>
+<div class="listing-author">
+Luiz Scorzafave e Maria Carolina Lobato, 5° semestre de Ciências Econômicas — FEARP
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1782788400000" data-listing-file-modified-sort="1786127667246" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1280">
+<div class="thumbnail"><a href="../Newsletter/Estilo16.html" class="no-external">
+
+<p class="card-img-top"><img src="images/expatriados-cies.png"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../Newsletter/Estilo16.html" class="no-external">O Brasil exporta mais do que jogadores: a economia por trás da formação de talentos</a>
+</h3>
+<div class="delink listing-description"><a href="../Newsletter/Estilo16.html" class="no-external">
+<p>Quando pensamos nas exportações brasileiras, soja e minério costumam vir à mente. Mas existe outro produto nacional presente em todos os continentes, os jogadores de futebol.</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="../Newsletter/Estilo16.html" class="no-external">
+<div class="listing-date">
+30/06/2026
+</div>
+<div class="listing-author">
+Sofia de Almeida Rodrigues e Giovana Alves Paiva, 5° semestre de Ciências Econômicas
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">Sem itens correspondentes</div>
+</div>
+</section>
 <section id="quarta-edição" class="level2 edicao-container" style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; border-left: 5px solid #1a365d; margin-bottom: 50px;">
 <h2 class="anchored" data-anchor-id="quarta-edição">Quarta Edição</h2>
 <p><strong>Responsáveis pela editoração:</strong> Isabela Gargano, Ryan Tarasco, Samuel Rubens e Thaís Ferreira | <em>Publicado em Maio de 2026</em></p>
 <hr>
 <div id="listing-quarta-edicao" class="quarto-listing quarto-listing-container-default">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1780196400000" data-listing-file-modified-sort="1780937819699" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1796">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1780196400000" data-listing-file-modified-sort="1780493874269" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1796">
 <div class="thumbnail"><a href="../Newsletter/Estilo11.html" class="no-external">
 
-<p class="card-img-top"><img src="images\trabalho-infantil.png"  class="thumbnail-image card-img"/></p>
+<p class="card-img-top"><img src="images/trabalho-infantil.png"  class="thumbnail-image card-img"/></p>
 
 </a></div>
 <div class="body">
@@ -340,10 +476,10 @@ Sofia de Almeida Rodrigues, 5° semestre, e Giovana Alves Paiva, 5° semestre
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1780196400000" data-listing-file-modified-sort="1780937819699" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1515">
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1780196400000" data-listing-file-modified-sort="1780494011164" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1515">
 <div class="thumbnail"><a href="../Newsletter/Estilo12.html" class="no-external">
 
-<p class="card-img-top"><img src="images\troca-geracional.png"  class="thumbnail-image card-img"/></p>
+<p class="card-img-top"><img src="images/troca-geracional.png"  class="thumbnail-image card-img"/></p>
 
 </a></div>
 <div class="body">
@@ -365,10 +501,10 @@ Beatriz Poncio, 3° semestre de Economia, e Rafael Sanches, 6° semestre de Fina
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1780196400000" data-listing-file-modified-sort="1780937819699" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1937">
+<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1780196400000" data-listing-file-modified-sort="1780494015589" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1937">
 <div class="thumbnail"><a href="../Newsletter/Estilo10.html" class="no-external">
 
-<p class="card-img-top"><img src="images\grandes-fortunas.png"  class="thumbnail-image card-img"/></p>
+<p class="card-img-top"><img src="images/grandes-fortunas.png"  class="thumbnail-image card-img"/></p>
 
 </a></div>
 <div class="body">
@@ -390,10 +526,10 @@ Luiz Scorzafave e Maria Carolina Lobato, 5° semestre de Ciências Econômicas �
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1780196400000" data-listing-file-modified-sort="1780938809494" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1744">
+<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1780196400000" data-listing-file-modified-sort="1785372525643" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1667">
 <div class="thumbnail"><a href="../Newsletter/Estilo9.html" class="no-external">
 
-<p class="card-img-top"><img src="images\terras-raras.png"  class="thumbnail-image card-img"/></p>
+<p class="card-img-top"><img src="images/terras-raras.png"  class="thumbnail-image card-img"/></p>
 
 </a></div>
 <div class="body">
@@ -425,10 +561,10 @@ Arthur Coelho Oliveira, 7° semestre, e Pedro Konstantino Freire Voltezou, 3° s
 <hr>
 <div id="listing-terceira-edicao" class="quarto-listing quarto-listing-container-default">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1777518000000" data-listing-file-modified-sort="1780937819704" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1268">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1777518000000" data-listing-file-modified-sort="1780275311904" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1268">
 <div class="thumbnail"><a href="../Newsletter/Estilo8.html" class="no-external">
 
-<p class="card-img-top"><img src="images\petroleo-brent.png"  class="thumbnail-image card-img"/></p>
+<p class="card-img-top"><img src="images/petroleo-brent.png"  class="thumbnail-image card-img"/></p>
 
 </a></div>
 <div class="body">
@@ -450,10 +586,10 @@ Luiz Scorzafave e Maria Carolina Lobato, 5° semestre de Ciências Econômicas �
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1777518000000" data-listing-file-modified-sort="1780937819704" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1523">
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1777518000000" data-listing-file-modified-sort="1780275311904" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1523">
 <div class="thumbnail"><a href="../Newsletter/Estilo5.html" class="no-external">
 
-<p class="card-img-top"><img src="images\divida-credito.png"  class="thumbnail-image card-img"/></p>
+<p class="card-img-top"><img src="images/divida-credito.png"  class="thumbnail-image card-img"/></p>
 
 </a></div>
 <div class="body">
@@ -475,10 +611,10 @@ Rafael Sanches e Beatriz Poncio
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1777518000000" data-listing-file-modified-sort="1780937819704" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1422">
+<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1777518000000" data-listing-file-modified-sort="1780275311904" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1422">
 <div class="thumbnail"><a href="../Newsletter/Estilo6.html" class="no-external">
 
-<p class="card-img-top"><img src="images\selic-ciclos.png"  class="thumbnail-image card-img"/></p>
+<p class="card-img-top"><img src="images/selic-ciclos.png"  class="thumbnail-image card-img"/></p>
 
 </a></div>
 <div class="body">
@@ -500,10 +636,10 @@ Arthur Coelho Oliveira, 7° semestre, e Pedro Konstantino Freire Voltezou, 3° s
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1777518000000" data-listing-file-modified-sort="1780937819704" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1453">
+<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1777518000000" data-listing-file-modified-sort="1780275311904" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1453">
 <div class="thumbnail"><a href="../Newsletter/Estilo7.html" class="no-external">
 
-<p class="card-img-top"><img src="images\envelhecimento-piramide.jpg"  class="thumbnail-image card-img"/></p>
+<p class="card-img-top"><img src="images/envelhecimento-piramide.jpg"  class="thumbnail-image card-img"/></p>
 
 </a></div>
 <div class="body">
@@ -535,7 +671,7 @@ Giovana Alves Paiva, 5° semestre, e Sofia de Almeida Rodrigues, 5° semestre
 <hr>
 <div id="listing-segunda-edicao" class="quarto-listing quarto-listing-container-default">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1773630000000" data-listing-file-modified-sort="1780937819701" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1354">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1773630000000" data-listing-file-modified-sort="1780275311904" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1354">
 <div class="thumbnail"><a href="../Newsletter/Estilo3.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -560,7 +696,7 @@ Jonathan Sa Teles, 7° semestre de economia e João Gabriel Gomes, 7° semestre 
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1773630000000" data-listing-file-modified-sort="1780937819701" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1181">
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1773630000000" data-listing-file-modified-sort="1780275311904" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1181">
 <div class="thumbnail"><a href="../Newsletter/Estilo2.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -585,7 +721,7 @@ Paula Leandra, 5º semestre de economia, e Matheus Teixeira, 5º semestre de eco
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1773630000000" data-listing-file-modified-sort="1780937819701" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1491">
+<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1773630000000" data-listing-file-modified-sort="1780275311904" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1491">
 <div class="thumbnail"><a href="../Newsletter/Estilo4.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -610,7 +746,7 @@ Manuela Marangoni Jampani, 3° semestre de economia e Gustavo Lima Moraes, 7° s
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1773630000000" data-listing-file-modified-sort="1780937819699" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1453">
+<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1773630000000" data-listing-file-modified-sort="1780275311904" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1453">
 <div class="thumbnail"><a href="../Newsletter/Estilo1.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -645,10 +781,10 @@ Caroline Lhaís, 7° semestre de economia e Anna Livya Queiroz, 5º semestre de 
 <hr>
 <div id="listing-primeira-edicao" class="quarto-listing quarto-listing-container-default">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1771988400000" data-listing-file-modified-sort="1780937819716" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1390">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1771988400000" data-listing-file-modified-sort="1780275311907" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1390">
 <div class="thumbnail"><a href="../Newsletter/texto3.html" class="no-external">
 
-<p class="card-img-top"><img src="images\WhatsApp Image 2026-02-24 at 14.32.32.jpeg"  class="thumbnail-image card-img"/></p>
+<p class="card-img-top"><img src="images/WhatsApp Image 2026-02-24 at 14.32.32.jpeg"  class="thumbnail-image card-img"/></p>
 
 </a></div>
 <div class="body">
@@ -670,10 +806,10 @@ Gustavo Moraes (6° semestre de economia) e Manuela Marangoni (2° semestre de e
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1771988400000" data-listing-file-modified-sort="1780937819713" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1169">
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1771988400000" data-listing-file-modified-sort="1780275311907" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1169">
 <div class="thumbnail"><a href="../Newsletter/texto1.html" class="no-external">
 
-<p class="card-img-top"><img src="images\WhatsApp Image 2026-02-24 at 19.03.43.jpeg"  class="thumbnail-image card-img"/></p>
+<p class="card-img-top"><img src="images/WhatsApp Image 2026-02-24 at 19.03.43.jpeg"  class="thumbnail-image card-img"/></p>
 
 </a></div>
 <div class="body">
@@ -695,10 +831,10 @@ Paula Leandra, 4° semestre Economia e Matheus Teixeira, 4° semestre Economia
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1771988400000" data-listing-file-modified-sort="1780937819715" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1301">
+<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1771988400000" data-listing-file-modified-sort="1780275311907" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1301">
 <div class="thumbnail"><a href="../Newsletter/texto2.html" class="no-external">
 
-<p class="card-img-top"><img src="images\WhatsApp Image 2026-02-24 at 18.46.40 (1).jpeg"  class="thumbnail-image card-img"/></p>
+<p class="card-img-top"><img src="images/WhatsApp Image 2026-02-24 at 18.46.40 (1).jpeg"  class="thumbnail-image card-img"/></p>
 
 </a></div>
 <div class="body">
@@ -720,7 +856,7 @@ Jonathan e João Gabriel
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1771988400000" data-listing-file-modified-sort="1780937819716" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1041">
+<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1771988400000" data-listing-file-modified-sort="1780275311907" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1041">
 <div class="thumbnail"><a href="../Newsletter/texto4.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -805,14 +941,13 @@ Anna Livya &amp; Caroline Lhaís
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-      const outerScaffold = trigger.parentElement.cloneNode(true);
-      const codeEl = outerScaffold.querySelector('code');
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
         }
-      }
-      return codeEl.innerText;
+        return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
