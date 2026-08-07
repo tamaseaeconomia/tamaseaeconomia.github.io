@@ -1,0 +1,25 @@
+<svg viewBox="0 0 200 200" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+  <!-- Eixos X e Y -->
+  <path d="M 20 25 L 20 180 L 175 180" fill="none" stroke="#e69138" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+
+  <!-- Seta do Eixo Y (Cima) -->
+  <path d="M 12 37 L 20 25 L 28 37" fill="none" stroke="#e69138" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+
+  <!-- Seta do Eixo X (Direita) -->
+  <path d="M 163 172 L 175 180 L 163 188" fill="none" stroke="#e69138" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+
+  <!-- Linhas Pontilhadas de cada ponto até a base -->
+  <path d="M 45 135 L 45 180 M 80 90 L 80 180 M 115 115 L 115 180 M 145 80 L 145 180" fill="none" stroke="#e69138" stroke-width="4" stroke-dasharray="5, 8" stroke-linecap="round" />
+
+  <!-- Linha de Tendência (O gráfico em si) -->
+  <path d="M 45 135 L 80 90 L 115 115 L 145 80 L 175 45" fill="none" stroke="#e69138" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+
+  <!-- Seta no final da Linha de Tendência -->
+  <path d="M 160 45 L 175 45 L 175 60" fill="none" stroke="#e69138" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+
+  <!-- Os pontos de dados (bolinhas) -->
+  <circle cx="45" cy="135" r="6" fill="#e69138" />
+  <circle cx="80" cy="90" r="6" fill="#e69138" />
+  <circle cx="115" cy="115" r="6" fill="#e69138" />
+  <circle cx="145" cy="80" r="6" fill="#e69138" />
+</svg>
