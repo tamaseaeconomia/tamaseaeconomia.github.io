@@ -207,8 +207,9 @@ format:
     var video = document.getElementById('hero-video');
     if (!video) return;
     var reduzirMovimento = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-    // em telas pequenas fica só o pôster, para não baixar o vídeo no celular
-    if (reduzirMovimento || window.innerWidth < 768) return;
+    var economiaDeDados = navigator.connection && navigator.connection.saveData;
+    // roda em qualquer tela; só não carrega com menos movimento ou economia de dados
+    if (reduzirMovimento || economiaDeDados) return;
     video.src = video.dataset.src;
     var tocar = video.play();
     if (tocar && tocar.catch) tocar.catch(function () {});

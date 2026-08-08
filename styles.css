@@ -783,7 +783,9 @@ body:has(.home-hero) main.content {
 }
 
 @media (max-width: 768px) {
-  .home-hero { padding: 3.5rem 1.25rem 3rem; }
+  .home-hero {
+    padding: calc(var(--nav-altura, 70px) + 2.25rem) 1.25rem 3rem;
+  }
   .secao-clara, .home-sobre { padding: 3rem 1.25rem; }
   .sobre-colunas { column-count: 1; }
   .secao-titulo { font-size: 1.5rem; }
@@ -1133,4 +1135,74 @@ body:has(.home-hero) main.content {
 
 .quarto-listing .quarto-post .listing-title {
   transition: color 0.2s ease;
+}
+
+/* ============================================================= */
+/* AJUSTES DE TELA PEQUENA                                        */
+/* ============================================================= */
+
+/* o Quarto emite um <header> de título vazio na home; ele empurrava o hero */
+body.pagina-inicial #title-block-header,
+body:has(.home-hero) #title-block-header {
+  display: none;
+}
+
+/* botão hamburguer: sem a moldura que o Bootstrap desenha ao pressionar */
+.navbar-toggler {
+  border: 0 !important;
+  padding: 0.35rem 0.5rem;
+  border-radius: 10px;
+  transition: background-color 0.2s ease;
+}
+
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler:focus-visible {
+  box-shadow: none !important;
+  outline: 0 !important;
+  background-color: rgba(255, 255, 255, 0.14);
+}
+
+@media (max-width: 991.98px) {
+  /* navbar mais fina, para sobrar espaço para o hero */
+  .navbar {
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+  }
+
+  .navbar-brand img,
+  .navbar-brand-container img {
+    max-height: 38px;
+  }
+
+  /* menu aberto com o mesmo vidro da navbar */
+  .navbar .navbar-collapse.show,
+  .navbar .navbar-collapse.collapsing {
+    background-color: rgba(20, 34, 54, 0.96);
+    -webkit-backdrop-filter: blur(18px);
+    backdrop-filter: blur(18px);
+    border-radius: 12px;
+    margin-top: 0.5rem;
+    padding: 0.4rem 0.8rem 0.9rem;
+  }
+
+  .navbar .navbar-collapse .nav-link {
+    padding-top: 0.55rem;
+    padding-bottom: 0.55rem;
+  }
+}
+
+@media (max-width: 640px) {
+  .hero-marca { font-size: clamp(2.2rem, 11vw, 3rem); }
+  .hero-etiqueta { font-size: 0.7rem; padding: 0.35rem 0.9rem; margin-bottom: 1.2rem; }
+  .hero-botoes { flex-direction: column; align-items: stretch; }
+  .hero-botoes a { text-align: center; }
+  .secao-clara, .secao-indicadores { padding-left: 1.1rem; padding-right: 1.1rem; }
+  .secao-cabecalho { gap: 0.4rem; }
+  .grade-indicadores { grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.8rem; }
+  .indicador { padding: 0.9rem 1rem; }
+  .indicador-numero { font-size: 1.45rem; }
+  .numero-valor { font-size: 1.9rem; }
+  .botao-destaque { width: 100%; justify-content: center; }
+  .pagina-equipe { padding-left: 1.1rem; padding-right: 1.1rem; }
 }
