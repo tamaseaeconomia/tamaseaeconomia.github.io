@@ -407,21 +407,19 @@
   .geo-circulo-1 { width: 280px; height: 280px; top: -120px; right: -90px; }
 }
 
-/* ---------- navbar de vidro ---------- */
-body.nav-fixed .navbar {
-  /* mesmo marinho das seções, com opacidade baixa e desfoque */
-  background-color: rgba(26, 43, 63, 0.88) !important;
-  -webkit-backdrop-filter: blur(18px) saturate(160%);
-  backdrop-filter: blur(18px) saturate(160%);
+/*nav bar da mesma cor pra qualquer seção */
+body.nav-fixed .navbar,
+body.home-topo .navbar {
+  background-color: #1a2b3f !important;
+
+  -webkit-backdrop-filter: none;
+  backdrop-filter: none;
+
   border-bottom: 1px solid rgba(255, 255, 255, 0.07);
-  transition: background-color 0.35s ease, border-color 0.35s ease;
+
+  transition: background-color 0.35s ease;
 }
 
-/* no topo da página inicial a navbar fica quase toda transparente */
-body.home-topo .navbar {
-  background-color: rgba(26, 43, 63, 0.38) !important;
-  border-bottom-color: transparent;
-}
 
 /* nada de faixa clara entre o topo da página e o hero */
 body.pagina-inicial,
@@ -935,7 +933,8 @@ body:has(.home-hero) main.content {
 /* ============================================================= */
 
 .pagina-equipe {
-  max-width: 1120px;
+  max-width: 1400px;
+  width: 100%;
   margin: 0 auto;
   padding: 0 1rem 3rem;
 }
@@ -943,7 +942,8 @@ body:has(.home-hero) main.content {
 .equipe-intro {
   color: var(--texto);
   line-height: 1.7;
-  max-width: 780px;
+  max-width: 100%;
+  width: 100%;
   margin-bottom: 2.5rem;
 }
 
