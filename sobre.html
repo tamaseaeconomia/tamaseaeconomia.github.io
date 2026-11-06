@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="pt-BR" xml:lang="pt-BR"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -33,13 +33,14 @@ ul.task-list li input[type="checkbox"] {
 <link href="./imagens/favicon.svg" rel="icon" type="image/svg+xml">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-986a7310b58b8d22bf8858bcce5bca7e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-1e84a6a1fc9172af8769c4cb262fc637.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -89,7 +90,8 @@ gtag('config', 'G-VT21GYZ4R3', { 'anonymize_ip': true});
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./imagens/logo_wordmark.png" alt="" class="navbar-logo">
+    <img src="./imagens/logo_wordmark.png" alt="" class="navbar-logo light-content">
+    <img src="./imagens/logo_wordmark.png" alt="" class="navbar-logo dark-content">
     </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title"></span>
@@ -150,9 +152,15 @@ gtag('config', 'G-VT21GYZ4R3', { 'anonymize_ip': true});
   
   <p class="equipe-turma-sub">Quem faz a newsletter, edição após edição.</p>
 
-  <p class="equipe-intro">Conheça a equipe por trás das análises e publicações deste semestre. Nosso projeto faz parte das <strong>Atividades Extensionistas Curriculares (AEX)</strong>, o que significa que nosso time é dinâmico e rotativo. A cada novo ciclo, novos estudantes assumem o desafio de levar o conhecimento acadêmico para a sociedade. Estes são os colaboradores que compõem o projeto no período atual.</p>
+  <p class="equipe-intro">Conheça a equipe por trás das análises e publicações do <strong>Tá, mas e a economia?<strong>. Nosso projeto é uma iniciativa de extensão universitária da Universidade de São Paulo (USP), desenvolvida no âmbito das <strong>Atividades Extensionistas Curriculares (AEX)<strong>, que buscam aproximar a Universidade da sociedade, levando o conhecimento acadêmico para além da sala de aula.
 
-<h2 class="equipe-turma">Turma 3</h2>
+A cada ciclo, estudantes se organizam em diferentes frentes de trabalho para produzir e compartilhar conteúdos sobre economia. A equipe de produção é formada por oito estudantes das áreas de Economia ou Finanças e Negócios, responsáveis pela pesquisa, elaboração e escrita dos artigos que compõem nossas publicações.
+
+Já a equipe de editoração e comunicação reúne estudantes de diferentes cursos da USP, não se restringindo às áreas de Economia ou Negócios. Seus integrantes cuidam da revisão, organização editorial, identidade visual, diagramação, divulgação e atualização dos canais de comunicação do projeto, contribuindo para que o conteúdo chegue ao público de maneira clara, acessível e atrativa.
+
+Como uma iniciativa de caráter dinâmico e colaborativo, nossa equipe se renova a cada ciclo, incorporando novos estudantes e perspectivas. Abaixo, você pode conhecer os colaboradores que fazem parte do projeto neste período e nos anteriores.</strong></strong></strong></strong></p><strong><strong><strong>
+
+<h2 class="equipe-turma">Turma 3 - Turma atual</h2>
   <p class="equipe-turma-sub">Segundo semestre de 2026</p>
 
 
@@ -413,11 +421,11 @@ gtag('config', 'G-VT21GYZ4R3', { 'anonymize_ip': true});
   </div>
 
 
-</div>
+</strong></strong></strong></div><strong><strong><strong>
 
 
 
-</main> <!-- /main -->
+</strong></strong></strong></main><strong><strong><strong> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const isCodeAnnotation = (el) => {
@@ -462,13 +470,14 @@ gtag('config', 'G-VT21GYZ4R3', { 'anonymize_ip': true});
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
@@ -810,7 +819,7 @@ gtag('config', 'G-VT21GYZ4R3', { 'anonymize_ip': true});
     }
   });
   </script>
-</div> <!-- /content -->
+</strong></strong></strong></div><strong><strong><strong> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
@@ -828,4 +837,4 @@ gtag('config', 'G-VT21GYZ4R3', { 'anonymize_ip': true});
 
 
 
-</body></html>
+</strong></strong></strong></body></html>
