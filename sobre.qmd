@@ -18,9 +18,15 @@ format:
   <h1 class="equipe-turma" style="margin-top: 1.5rem;">Integrantes</h1>
   <p class="equipe-turma-sub">Quem faz a newsletter, edição após edição.</p>
 
-  <p class="equipe-intro">Conheça a equipe por trás das análises e publicações deste semestre. Nosso projeto faz parte das <strong>Atividades Extensionistas Curriculares (AEX)</strong>, o que significa que nosso time é dinâmico e rotativo. A cada novo ciclo, novos estudantes assumem o desafio de levar o conhecimento acadêmico para a sociedade. Estes são os colaboradores que compõem o projeto no período atual.</p>
+  <p class="equipe-intro">Conheça a equipe por trás das análises e publicações do <strong>Tá, mas e a economia?<strong>. Nosso projeto é uma iniciativa de extensão universitária da Universidade de São Paulo (USP), desenvolvida no âmbito das <strong>Atividades Extensionistas Curriculares (AEX)<strong>, que buscam aproximar a Universidade da sociedade, levando o conhecimento acadêmico para além da sala de aula.
 
-<h2 class="equipe-turma">Turma 3</h2>
+A cada ciclo, estudantes se organizam em diferentes frentes de trabalho para produzir e compartilhar conteúdos sobre economia. A equipe de produção é formada por oito estudantes das áreas de Economia ou Finanças e Negócios, responsáveis pela pesquisa, elaboração e escrita dos artigos que compõem nossas publicações.
+
+Já a equipe de editoração e comunicação reúne estudantes de diferentes cursos da USP, não se restringindo às áreas de Economia ou Negócios. Seus integrantes cuidam da revisão, organização editorial, identidade visual, diagramação, divulgação e atualização dos canais de comunicação do projeto, contribuindo para que o conteúdo chegue ao público de maneira clara, acessível e atrativa.
+
+Como uma iniciativa de caráter dinâmico e colaborativo, nossa equipe se renova a cada ciclo, incorporando novos estudantes e perspectivas. Abaixo, você pode conhecer os colaboradores que fazem parte do projeto neste período e nos anteriores.</p>
+
+<h2 class="equipe-turma">Turma 3 - Turma atual</h2>
   <p class="equipe-turma-sub">Segundo semestre de 2026</p>
 
 
