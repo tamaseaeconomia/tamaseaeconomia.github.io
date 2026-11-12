@@ -1,99 +1,115 @@
 ---
-title: "O Brasil exporta mais do que jogadores: a economia por trás da formação de talentos"
+title: "A inteligência artificial vai roubar nossos empregos? O que a Economia tem a dizer"
 author:
-  - Sofia de Almeida Rodrigues e Giovana Alves Paiva, 5° semestre de Ciências Econômicas
-date: 2026-06-30
-description: Quando pensamos nas exportações brasileiras, soja e minério costumam vir à mente. Mas existe outro produto nacional presente em todos os continentes, os jogadores de futebol.
+  - Luiz Gustavo Neri e  João Pedro Amaral Araujo, 6° semestre de Ciências Econômicas
+date: 2026-11-11
+description: Entre a promessa de ganhos de produtividade e o risco de ampliar desigualdades, o futuro do trabalho depende de como a tecnologia será utilizada — e de quais oportunidades surgirão no caminho.
 format:
   html:
     toc: false
     css: news-custom.css
 ---
 
-## O Brasil como exportador de talentos
+Imagine dois funcionários que realizam tarefas semelhantes. Um usa inteligência artificial (IA) para organizar informações, responder clientes e preparar relatórios em minutos; o outro faz tudo manualmente. Se ambos entregam resultados equivalentes, a empresa passa a precisar de menos horas de trabalho para produzir o mesmo serviço. Mas o que acontece com quem deixa de ser necessário?
 
-O Brasil é considerado um berço global do futebol e ocupa, há anos, uma posição singular no cenário mundial, não apenas pelas conquistas em campo, mas também pelo que acontece fora dele. Segundo o relatório mais recente do Observatório do Futebol do Centro Internacional de Estudos Esportivos (CIES), o país lidera o ranking global de exportações de jogadores: mais de 1.400 atletas brasileiros atuam em 135 ligas estrangeiras, à frente de França e Alemanha.
+Esse dilema está no centro do debate econômico sobre a IA. A tecnologia pode reduzir custos e elevar a produtividade, mas também pode diminuir a demanda por determinadas atividades. Ao mesmo tempo, empresas mais eficientes podem crescer, novos serviços podem surgir e ocupações inteiras podem mudar. Por isso, nem a previsão de desemprego em massa nem a promessa de que a inovação criará oportunidades para todos devem ser tratadas como certezas.
 
-![Jogadores expatriados: os 10 principais países de origem (2020-2025)](images/expatriados-cies.png){width="100%" style="margin: 20px 0;"}
+A ideia central é esta: a IA pode substituir tarefas sem eliminar profissões inteiras, mas os empregos perdidos não são automaticamente compensados pelos novos que surgem. O resultado depende da combinação entre automação, aumento de produtividade e criação de novas atividades — e de quem consegue acessar as oportunidades geradas.
 
-*A primeira coluna refere-se ao número de jogadores expatriados distintos por país de origem. Fonte: edição número 505 do Boletim Semanal do Observatório de Futebol do CIES.*
+## Entre substituir e complementar o trabalho
 
-Portugal é o principal destino desses jogadores, com cerca de 182 atletas brasileiros atuando por lá, o que reflete, em parte, os laços históricos e a facilidade de adaptação cultural e linguística. Mas a presença brasileira vai muito além: da Coreia do Sul à Indonésia, do Vietnã aos Emirados Árabes, dificilmente existe um campeonato relevante no mundo sem ao menos um nome do Brasil em campo.
+Um emprego raramente é formado por uma única tarefa. Um analista financeiro, por exemplo, coleta dados, atualiza planilhas. A IA pode assumir a coleta e as planilhas, mas interpretar os resultados e decidir o que recomendar continua sendo trabalho do analista.
 
-O que esses números revelam é que o futebol brasileiro funciona como uma cadeia produtiva robusta, capaz de formar, desenvolver e "exportar" um ativo altamente valorizado no mercado internacional: o talento humano.
+É assim que os economistas Daron Acemoglu e Pascual Restrepo explicam o tema: a tecnologia transforma o mercado de trabalho ao redistribuir tarefas entre pessoas e máquinas. Quando automatiza atividades antes realizadas por trabalhadores, pode reduzir a demanda por mão de obra em determinadas funções. Quando complementa o trabalho humano, porém, pode permitir que as mesmas pessoas produzam mais ou realizem tarefas de maior valor.
 
-## Como se forma um jogador?
-
-Por trás de cada atleta que embarca para jogar no exterior há um longo e custoso processo de formação. Tudo começa nas chamadas categorias de base, as divisões de jovens que os clubes mantêm para identificar e desenvolver talentos desde a infância, muitas vezes a partir dos 8 ou 9 anos de idade.
+O efeito não é igual para todos. A mesma ferramenta que aumenta a capacidade de um profissional experiente pode reduzir a necessidade de contratar iniciantes para tarefas rotineiras. Quando a máquina passa a fazer o que antes era feito por uma pessoa, e a empresa precisa de menos gente naquela atividade, ocorre o que os economistas chamam de efeito deslocamento.
 
 ::: caixinha-lateral-esq
-**“Tá, mas e a economia?” — Capital humano**
+**“Tá, mas e a economia?” — Efeito Deslocamento**
 
-É o conjunto de conhecimentos, habilidades e experiências que uma pessoa desenvolve ao longo da vida e que a tornam mais produtiva. Quando um clube investe anos formando um jogador, está, essencialmente, construindo capital humano.
+É quando a tecnologia assume tarefas antes realizadas por trabalhadores, reduzindo a necessidade de mão de obra nessas atividades. Isso pode pressionar o emprego e os salários em determinadas funções, mas não significa necessariamente que uma profissão inteira desaparecerá.
 :::
 
-Esse processo exige investimento contínuo: instalações esportivas, comissão técnica especializada, suporte médico, alimentação, moradia para atletas de outras cidades e, em muitos casos, apoio às famílias. É um compromisso de longo prazo, sem garantia de retorno imediato.
+## Mais produtividade não significa, necessariamente, mais empregos
 
-Marcelo Teixeira, presidente do Santos FC, clube historicamente reconhecido por revelar grandes nomes do futebol mundial, resumiu essa lógica em entrevista ao jornal espanhol AS, ao comentar o papel das categorias de base no clube:
+Se uma empresa passa a produzir mais com os mesmos recursos, pode reduzir preços, ampliar vendas e investir em novos produtos. Esse crescimento tende a gerar demanda por trabalhadores em outras áreas e a compensar parte dos postos deslocados pela automação. É por esse canal que os ganhos de produtividade podem beneficiar o emprego.
 
-> "O desenvolvimento de jogadores de base sempre fez parte do DNA do Santos e representa um pilar essencial para o presente e o futuro do clube. Este é um recurso inesgotável, mas que exige gestão responsável e investimento contínuo."
-
-O raciocínio econômico por trás disso é direto: os clubes funcionam como empresas que investem hoje esperando um retorno no futuro. Assim como uma indústria investe em máquinas ou tecnologia para aumentar sua produção, os clubes investem em pessoas, apostando que o talento bruto, com o treinamento certo, se tornará um ativo valioso.
-
-## Quando o investimento gera retorno
-
-O momento em que esse modelo econômico se concretiza é a transferência internacional, quando um clube estrangeiro compra um jogador formado no Brasil. Os números mais recentes mostram que esse mercado nunca esteve tão aquecido.
-
-Em 2025, as receitas com transferências de atletas pelos clubes da Série A atingiram **R\$ 3,9 bilhões**, o maior valor já registrado pelo futebol brasileiro, com crescimento de 63% em relação ao ano anterior. Para efeito de comparação, a receita total dos clubes da Série A foi de R\$ 14,3 bilhões no período, de modo que as transferências responderam por cerca de 27% desse total.
+Essa compensação, porém, não é automática: depende de a eficiência se converter em expansão da produção, investimento e contratações. Se a estratégia for substituir apenas mão de obra, a empresa se torna mais eficiente sem gerar oportunidades para os trabalhadores afetados.
 
 ::: caixinha-lateral-dir
-**“Tá, mas e a economia?” — ROI**
+**“Tá, mas e a economia?” — Produtividade**
 
-Significa "retorno sobre investimento". É a medida de quanto você ganhou em relação ao que gastou. Se um clube investe R\$ 500 mil na formação de um jogador e o vende por R\$ 50 milhões, o retorno é altíssimo, e é exatamente esse cálculo que explica por que a base virou o negócio mais lucrativo do futebol brasileiro.
+É a relação entre o que se produz e os recursos utilizados para produzir. A produtividade do trabalho, por exemplo, mede quanto é produzido por trabalhador ou por hora trabalhada. Seu aumento permite produzir mais com os mesmos recursos, mas não garante, por si só, salários maiores ou mais empregos.
 :::
 
-Alguns negócios recentes ajudam a entender a escala do fenômeno. O Palmeiras negociou Endrick com o Real Madrid por 47,5 milhões de euros fixos, valor que pode superar os 70 milhões com bônus, e logo depois vendeu Estêvão ao Chelsea por 45 milhões de euros.
+Um estudo de Erik Brynjolfsson, Danielle Li e Lindsey Raymond, publicado em 2025, ilustra o potencial da IA como complemento ao trabalho. Em uma empresa de atendimento ao cliente, o uso de um assistente de IA elevou em 15%, em média, o número de problemas resolvidos por hora. Os maiores ganhos ficam com os menos experientes, já que a ferramenta disseminou práticas antes restritas aos profissionais mais antigos.
 
-A lógica econômica por trás disso é direta: o clube investe na formação por um custo relativamente baixo e, anos depois, vende o atleta por um valor muito superior.
+O resultado, no entanto, refere-se a uma empresa e a uma atividade específicas; não permite concluir que todas as ocupações terão ganhos semelhantes ou que o emprego crescerá necessariamente no conjunto da economia.
 
-Mas há uma virada importante nessa história: parte significativa desse dinheiro está sendo reinvestida dentro do próprio país. Na janela de transferências mais recente, os clubes brasileiros desembolsaram 245 milhões de euros em contratações, superando ligas tradicionais como a italiana e a espanhola, ficando atrás apenas da Premier League inglesa.
+A outra peça dessa equação é a criação de novas tarefas. A informática reduziu a rotinas administrativas, mas ampliou a demanda por profissionais de tecnologia, análise de dados e segurança digital. Para Acemoglu e Restrepo, são as tarefas em que o trabalho humano mantém papel relevante que contrabalançam o deslocamento provocado pela automação — o chamado efeito reinserção.
 
-## O futebol e outras exportações brasileiras
+::: caixinha-lateral-esq
+**“Tá, mas e a economia?” — Efeito Reinserção** É o mecanismo pelo qual a criação de novas tarefas abre espaço para o trabalho humano e amplia a demanda por trabalhadores. Essas novas atividades podem compensar parte dos empregos deslocados pela automação, mas isso depende de sua escala e de os trabalhadores conseguirem acessar as oportunidades.
+:::
 
-Quando olhamos para a balança comercial brasileira, os protagonistas costumam ser sempre os mesmos: soja, minério de ferro e petróleo. Esses produtos têm algo em comum. Sua fonte de valor está na terra, no subsolo e em recursos naturais que o Brasil tem em abundância. O futebol conta uma história diferente.
+O risco é que essas novas atividades não acompanhem o ritmo da substituição ou exijam competências inacessíveis aos trabalhadores deslocados. Nesse cenário, a economia pode produzir mais, mas os ganhos tendem a se concentrar em quem está mais bem posicionado para aproveitar a tecnologia.
 
-Enquanto commodities dependem de condições geográficas que não se replicam, o futebol depende de algo que pode ser construído: conhecimento, treinamento, disciplina e tempo investido em pessoas. Não existe uma mina de jogadores esperando para ser explorada, mas um processo contínuo de formação dentro dos clubes.
+## O que os dados mostram sobre o Brasil?
 
-Essa diferença muda tudo do ponto de vista econômico. Enquanto recursos naturais dependem da disponibilidade física, o capital humano depende da capacidade de formar e desenvolver pessoas. A principal riqueza produzida pelo futebol brasileiro, portanto, não está no solo, mas nas pessoas.
+Segundo o FGV IBRE, com base em metodologia da Organização Internacional do Trabalho (OIT), quase 30 milhões de brasileiros — cerca de 1 em cada 3 trabalhadores — estavam, no terceiro trimestre de 2025, em ocupações com algum grau de exposição à IA generativa. A exposição é maior entre mulheres, jovens, pessoas com mais escolaridade, moradores do Sudeste e trabalhadores de serviços como finanças e comunicação, justamente onde se concentram tarefas de processar informação.
 
-## O que o futebol ensina sobre desenvolvimento econômico?
+::: caixinha-lateral-dir
+**“Tá, mas e a economia?” — Exposição à IA** É o grau em que as tarefas de uma profissão podem ser afetadas pela inteligência artificial, seja por automação, seja pelo apoio que a tecnologia oferece ao trabalhador. Uma ocupação muito exposta não está necessariamente ameaçada: a IA pode substituir algumas de suas tarefas, complementar outras ou transformar a maneira como o trabalho é realizado.
+:::
 
-Se o Brasil é capaz de formar, em série, jogadores disputados pelos principais clubes do mundo, fica a pergunta: por que essa mesma lógica não se repete com a mesma intensidade em áreas como ciência, tecnologia e engenharia?
+Esse número não significa que 30 milhões de empregos vão desaparecer. A exposição indica que parte das tarefas pode ser afetada, mas não diz se elas serão automatizadas, apoiadas pela IA ou reorganizadas. Ainda assim, mostra que o tema não se limita ao setor de tecnologia: alcança uma fatia grande do mercado de trabalho.
 
-Os clubes brasileiros desenvolveram, ao longo de décadas, uma estrutura sofisticada para identificar talentos jovens e investir continuamente em seu desenvolvimento, mesmo sem garantia de retorno imediato. O resultado é uma cadeia de formação capaz de gerar profissionais valorizados internacionalmente.
+Há um alerta para os jovens: as tarefas simples com que se aprende uma profissão, como organizar dados ou fazer um primeiro rascunho, são justamente as que a IA faz melhor. Sem outra porta de entrada, começar a carreira pode ficar mais difícil.
 
-Países que alcançaram altos níveis de desenvolvimento econômico costumam ter algo em comum: investimentos consistentes em capital humano, seja por meio da educação básica, da formação técnica ou do ensino superior. O futebol brasileiro funciona quase como uma prova de conceito, mostrando que, quando há investimento estruturado, o país é capaz de formar talentos de classe mundial.
+Ao mesmo tempo, segundo a consultora PricewaterhouseCoopers (PwC), a fatia de vagas no Brasil que pedem habilidades em IA mais que triplicou entre 2024 e 2025. Mas o mesmo levantamento registra queda no total de vagas no período, em todos os grupos. Ou seja: o mercado está mudando o que pede, mas não necessariamente contratando mais. E, como são anúncios de emprego, não dá para atribuir essas mudanças só à IA.
 
-Fica a reflexão sobre até que ponto esse mesmo modelo poderia inspirar outras áreas da economia, ampliando a capacidade de formação de profissionais altamente qualificados.
+## Quem ficará com os ganhos?
 
-No fim das contas, o futebol brasileiro mostra algo que costuma passar despercebido nas discussões econômicas. Por trás de cada jogador negociado no mercado internacional existe um longo processo de formação. Cada atleta que deixa o país para atuar no exterior carrega consigo anos de treinamento, investimento e desenvolvimento de habilidades que se transformaram em valor econômico.
+Mesmo quando a IA eleva a produtividade, resta uma pergunta decisiva: quem se apropria dos benefícios? Uma empresa pode produzir mais e aumentar seus lucros sem repassar os ganhos na mesma proporção aos salários. A distribuição depende, entre outros fatores, da concorrência entre empresas, do poder de negociação dos trabalhadores, da demanda por diferentes qualificações e das escolhas feitas na implementação da tecnologia.
 
-Esse modelo não é exclusividade do esporte. Ele ilustra um princípio econômico mais amplo: investimentos em qualificação e capacitação podem gerar retornos significativos ao longo do tempo. O sucesso brasileiro na formação de jogadores mostra como o desenvolvimento de talentos pode se transformar em uma importante fonte de valor econômico.
+A IA também pode reduzir algumas diferenças de desempenho e ampliar outras. Em alguns contextos, a automação pode reduzir oportunidades de entrada ou valorizar competências mais difíceis de reproduzir, como julgamento, criatividade, liderança e tomada de decisão.
+
+Não há, portanto, um único destino para o mercado de trabalho. A mesma tecnologia pode complementar alguns profissionais, substituir parte das tarefas de outros e criar novas demandas em determinados setores. O resultado agregado dependerá de qual desses movimentos prevalecerá — e de como os trabalhadores conseguirão transitar entre atividades.
+
+## A tecnologia não decide sozinha o futuro do trabalho
+
+A inteligência artificial amplia o que empresas e trabalhadores conseguem fazer, mas não determina automaticamente como os ganhos serão distribuídos. Para o Brasil, a questão é transformar o potencial de produtividade em crescimento e oportunidades concretas, sem ignorar os trabalhadores e as regiões mais vulneráveis à transição.
+
+Isso exige combinar formação profissional com a criação efetiva de novas atividades, incentivar usos da IA que complementam o trabalho humano e acompanhar os efeitos sobre emprego, salários e condições de trabalho.
+
+A pergunta “a IA vai roubar nossos empregos?” não tem uma resposta única. Algumas tarefas serão automatizadas, outras ganharão importância e algumas profissões serão reorganizadas. O ponto decisivo é se a criação de novas oportunidades acompanhará o deslocamento e se os ganhos de produtividade chegarão a uma parcela ampla da sociedade. A tecnologia abre possibilidades; as escolhas econômicas e sociais determinarão quem poderá aproveitá-las.
 
 ::: callout-tip
-#### ODS 8 — Trabalho decente e crescimento econômico
+#### ODS 8 — Direcionamento sustentável
 
-O tema dialoga com o ODS 8, que incentiva a geração de emprego produtivo e o crescimento econômico sustentável. A formação de atletas mostra, na prática, como investimentos em qualificação e desenvolvimento de pessoas podem gerar oportunidades e criar valor econômico.
+O tema dialoga com o ODS 8 (Trabalho decente e crescimento econômico), que busca promover crescimento econômico sustentado, inclusivo e sustentável, emprego pleno e produtivo e trabalho decente. A transformação provocada pela IA torna central o desafio de conciliar ganhos de produtividade com oportunidades de trabalho e condições para que os trabalhadores se adaptem às mudanças.
 :::
 
-**Transparência em Uso de IA:** Ferramentas: Claude e ChatGPT. Uso: apoio na revisão textual e na organização do conteúdo. As autoras revisaram integralmente o material e assumem total responsabilidade pela versão final.
+**Transparência em Uso de IA:** Ferramentas: A inteligência artificial, no caso o ChatGPT, foi utilizada como ferramenta de apoio ao desenvolvimento do texto, auxiliando na identificação de referências acadêmicas e na organização da estrutura argumentativa. Também foi empregada para sugerir melhorias na clareza, coesão e fluidez do texto e identificar repetições. A seleção dos argumentos, a avaliação crítica das sugestões e a revisão final do conteúdo ficaram sob responsabilidade dos autores.
 
 **Para saber mais:**
 
-POLI, Raffaele; RAVENEL, Loïc; BESSON, Roger. *Football expatriates 2020–2025*. Neuchâtel: CIES Football Observatory, 2025. (Monthly Report, n. 100). Disponível em: <https://football-observatory.hflip.co/MonthlyReport100>. Acesso em: 24 jun. 2026.
+ACEMOGLU, Daron; RESTREPO, Pascual. Automation and New Tasks: How Technology Displaces and Reinstates Labor. Journal of Economic Perspectives, 2019.
+
+ACEMOGLU, Daron. The Simple Macroeconomics of AI. 2024.
+
+BRYNJOLFSSON, Erik; LI, Danielle; RAYMOND, Lindsey R. Generative AI at Work. 2025.
+
+FGV IBRE. Inteligência artificial e mercado de trabalho. 5 fev. 2026. <https://ibre.fgv.br/observatorio-produtividade/artigos/inteligencia-artificial-e-mercado-de-trabalho>
+
+FGV IBRE. Inteligência artificial generativa e mercado de trabalho no Brasil: evidências iniciais sobre ocupação e renda. 27 abr. 2026. <https://blogdoibre.fgv.br/node/2289>
+
+ORGANIZAÇÃO INTERNACIONAL DO TRABALHO (OIT). Generative AI and jobs: A 2025 update. 2025. <https://www.ilo.org/>
+
+PwC Brasil. Barômetro de Empregos de IA 2026. 6 ago. 2026.<https://www.pwc.com.br/pt/estudos/servicos/consultoria-negocios/2026/barometro-empregos-de-ia-2026.html>
 
 ::: botoes-fim-de-pagina
 [Voltar para a Newsletter](indexNe.qmd){.btn-voltar}
 
-[Ler o próximo texto](Estilo13.qmd){.btn-proximo}
+[Ler o próximo texto](Estilo20.qmd){.btn-proximo}
 :::
