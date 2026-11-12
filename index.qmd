@@ -20,7 +20,7 @@ format:
     <p class="hero-punchline">Todo mundo fala de juros, câmbio e inflação. <span class="destaque">Tá, mas e a economia?</span></p>
     <p class="hero-chamada">Uma newsletter feita por estudantes de Economia da FEA-RP/USP: macroeconomia, mercados e política econômica traduzidos para o dia a dia, com rigor técnico e linguagem acessível.</p>
     <div class="hero-botoes">
-      <a class="botao-primario" href="Newsletter/indexNe.html">Ler a quinta edição</a>
+      <a class="botao-primario" href="Newsletter/indexNe.html">Ler a sexta edição</a>
       <a class="botao-vazado" href="email.html">Receba no e-mail</a>
     </div>
   </div>
@@ -38,7 +38,7 @@ format:
       <button class="carrossel-seta carrossel-seta-dir" type="button" aria-label="Próximos artigos">&#8250;</button>
       <div class="carrossel-trilho">
       <a class="cartao-artigo" href="Newsletter/Estilo17.html">
-        <span class="cartao-etiqueta">Quinta edição</span>
+        <span class="cartao-etiqueta">Sexta edição</span>
         <span class="cartao-titulo">Recorde nas exportações, restrições nos destinos: o paradoxo da proteína animal brasileira</span>
         <span class="cartao-resumo">China, União Europeia e Estados Unidos intensificam suas barreiras comerciais. Como as medidas protecionistas afetam as exportações de proteína animal brasileira e o mercado interno?</span>
         <span class="cartao-autoria">Luiz Henrique e Patricia · Novembro de 2026</span>
