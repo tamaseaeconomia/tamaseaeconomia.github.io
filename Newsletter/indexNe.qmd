@@ -5,6 +5,14 @@ format:
   html:
     page-layout: full
 listing:
+  - id: Sexta-edicao
+    contents:
+      - "Estilo17.qmd"
+      - "Estilo18.qmd"
+      - "Estilo19.qmd"
+      - "Estilo20.qmd"
+    type: default
+    sort: false
   - id: quinta-edicao
     contents:
       - "Estilo13.qmd"
@@ -43,65 +51,71 @@ listing:
       - "texto3.qmd"
       - "texto4.qmd"
     type: default
-
 ---
 
-::: {.edicao-container style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; border-left: 5px solid #1a365d; margin-bottom: 50px;"}
+:::: {.edicao-container style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; border-left: 5px solid #1a365d; margin-bottom: 50px;"}
 
+## Sexta Edição
+
+**Responsáveis pela editoração:** Paula Leandra, Ester Maria, Isabela Maísa e Luise Homobono \| *Publicado em novembro de 2026*
+
+------------------------------------------------------------------------
+
+::: {#Sexta-edicao}
+:::
+::::
+
+:::: {.edicao-container style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; border-left: 5px solid #1a365d; margin-bottom: 50px;"}
 ## Quinta Edição
-**Responsáveis pela editoração:** Isabela Gargano, Ryan Tarasco, Samuel Rubens e Thaís Ferreira | *Publicado em Junho de 2026*
 
----
+**Responsáveis pela editoração:** Isabela Gargano, Ryan Tarasco, Samuel Rubens e Thaís Ferreira \| *Publicado em Junho de 2026*
 
-:::{#quinta-edicao}
+------------------------------------------------------------------------
+
+::: {#quinta-edicao}
 :::
+::::
 
-:::
-
-::: {.edicao-container style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; border-left: 5px solid #1a365d; margin-bottom: 50px;"}
-
+:::: {.edicao-container style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; border-left: 5px solid #1a365d; margin-bottom: 50px;"}
 ## Quarta Edição
-**Responsáveis pela editoração:** Isabela Gargano, Ryan Tarasco, Samuel Rubens e Thaís Ferreira | *Publicado em Maio de 2026*
 
----
+**Responsáveis pela editoração:** Isabela Gargano, Ryan Tarasco, Samuel Rubens e Thaís Ferreira \| *Publicado em Maio de 2026*
 
-:::{#quarta-edicao}
+------------------------------------------------------------------------
+
+::: {#quarta-edicao}
 :::
+::::
 
-:::
-
-::: {.edicao-container style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; border-left: 5px solid #1a365d; margin-bottom: 50px;"}
-
+:::: {.edicao-container style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; border-left: 5px solid #1a365d; margin-bottom: 50px;"}
 ## Terceira Edição
-**Responsáveis pela editoração:** Isabela Gargano, Ryan Tarasco, Samuel Rubens e Thaís Ferreira | *Publicado em Abril de 2026*
 
----
+**Responsáveis pela editoração:** Isabela Gargano, Ryan Tarasco, Samuel Rubens e Thaís Ferreira \| *Publicado em Abril de 2026*
 
-:::{#terceira-edicao}
+------------------------------------------------------------------------
+
+::: {#terceira-edicao}
 :::
+::::
 
-:::
-
-::: {.edicao-container style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; border-left: 5px solid #1a365d; margin-bottom: 50px;"}
-
+:::: {.edicao-container style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; border-left: 5px solid #1a365d; margin-bottom: 50px;"}
 ## Segunda Edição
-**Responsáveis pela editoração:** Leticia Brito e Paula Leandra | *Publicado em Março de 2026*
 
----
+**Responsáveis pela editoração:** Leticia Brito e Paula Leandra \| *Publicado em Março de 2026*
 
-:::{#segunda-edicao}
+------------------------------------------------------------------------
+
+::: {#segunda-edicao}
 :::
+::::
 
-:::
-
-::: {.edicao-container style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; border-left: 5px solid #1a365d; margin-bottom: 50px;"}
-
+:::: {.edicao-container style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; border-left: 5px solid #1a365d; margin-bottom: 50px;"}
 ## Primeira Edição
-**Responsáveis pela editoração:** Leticia Brito, Giuliana Sigilló e Paula Leandra | *Publicado em Fevereiro de 2026*
 
----
+**Responsáveis pela editoração:** Leticia Brito, Giuliana Sigilló e Paula Leandra \| *Publicado em Fevereiro de 2026*
 
-:::{#primeira-edicao}
+------------------------------------------------------------------------
+
+::: {#primeira-edicao}
 :::
-
-:::
+::::
