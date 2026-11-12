@@ -106,7 +106,7 @@ neste período e nos anteriores.
     </div>
     
 <div class="cartao-membro">
-      <img class="membro-foto" src="images/semfoto.png" alt="Raphaela Minhoto Cunha">
+      <img class="membro-foto" src="images/raphaela.png" alt="Raphaela Minhoto Cunha">
       <h3 class="membro-nome">Raphaela Minhoto Cunha</h3>
       <p class="membro-curso">Finanças e Negócios · FEA-RP/USP</p>
       <p class="membro-bio">Apaixonada por finanças, empreendedorismo e comunicação, busca conectar conhecimento acadêmico com experiências práticas e projetos que gerem impacto. Atualmente, atua na Diretoria de Marketing do Núcleo de Empreendedores da FEA-RP/USP e acredita que a universidade é um espaço para transformar ideias em oportunidades.</p>
