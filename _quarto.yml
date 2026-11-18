@@ -7,9 +7,15 @@ project:
     - "imagens/video_introducao.mp4"
 
 website:
-  title: " "
+  title: "Tá, mas e a economia? "
+  site-url: "https://tamaseaeconomia.github.io/"
+  description: "Uma newsletter feita por estudantes de Economia da FEA-RP/USP. Macroeconomia, mercados financeiros e política econômica traduzidos para o dia a dia, com rigor técnico e linguagem acessível."
   favicon: imagens/favicon.svg
   google-analytics: "G-VT21GYZ4R3"
+  open-graph: true
+  twitter-card: true
+  
+  llms-txt: true
   navbar:
     logo: imagens/logo_wordmark.png
     background: "#1a2b3f"
@@ -36,10 +42,6 @@ website:
       <a href="https://www.linkedin.com/in/paula-oliveira-431271220/" style="color: white; text-decoration: none;">
         Paula Leandra <i class="bi bi-linkedin"></i>
       </a> 
-       e 
-      <a href="https://www.linkedin.com/in/jonathan-cunha-78bb0b28b/" style="color: white; text-decoration: none;">
-        Jonathan Cunha <i class="bi bi-linkedin"></i>
-      </a>
     center: "2026 Tá, mas e a economia?"
     right: |
       <a class="rodape-powered" href="https://rubrion.ai" target="_blank" rel="noopener">
