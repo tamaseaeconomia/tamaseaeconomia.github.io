@@ -7,6 +7,16 @@ format:
     toc: false
     css: styles.css
 ---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Tá, mas e a economia?",
+  "alternateName": "Tá, mas e a economia",
+  "url": "https://tamaseaeconomia.github.io/"
+}
+</script>
+---
 
 ```{=html}
 <section class="home-hero faixa-larga">
