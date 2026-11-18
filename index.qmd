@@ -1,6 +1,6 @@
 ---
 title: ""
-pagetitle: "Tá, mas e a economia?"
+pagetitle: "Início"
 format:
   html:
     page-layout: full
