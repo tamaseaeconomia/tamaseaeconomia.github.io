@@ -1,0 +1,103 @@
+# A inteligência artificial vai roubar nossos empregos? O que a Economia tem a dizer
+
+Entre a promessa de ganhos de produtividade e o risco de ampliar desigualdades, o futuro do trabalho depende de como a tecnologia será utilizada — e de quais oportunidades surgirão no caminho.
+
+Autor
+
+Luiz Gustavo Neri e João Pedro Amaral Araujo, 6° semestre de Ciências Econômicas
+
+Data de Publicação
+
+11/11/2026
+
+Imagine dois funcionários que realizam tarefas semelhantes. Um usa inteligência artificial (IA) para organizar informações, responder clientes e preparar relatórios em minutos; o outro faz tudo manualmente. Se ambos entregam resultados equivalentes, a empresa passa a precisar de menos horas de trabalho para produzir o mesmo serviço. Mas o que acontece com quem deixa de ser necessário?
+
+Esse dilema está no centro do debate econômico sobre a IA. A tecnologia pode reduzir custos e elevar a produtividade, mas também pode diminuir a demanda por determinadas atividades. Ao mesmo tempo, empresas mais eficientes podem crescer, novos serviços podem surgir e ocupações inteiras podem mudar. Por isso, nem a previsão de desemprego em massa nem a promessa de que a inovação criará oportunidades para todos devem ser tratadas como certezas.
+
+A ideia central é esta: a IA pode substituir tarefas sem eliminar profissões inteiras, mas os empregos perdidos não são automaticamente compensados pelos novos que surgem. O resultado depende da combinação entre automação, aumento de produtividade e criação de novas atividades — e de quem consegue acessar as oportunidades geradas.
+
+## Entre substituir e complementar o trabalho
+
+Um emprego raramente é formado por uma única tarefa. Um analista financeiro, por exemplo, coleta dados, atualiza planilhas. A IA pode assumir a coleta e as planilhas, mas interpretar os resultados e decidir o que recomendar continua sendo trabalho do analista.
+
+É assim que os economistas Daron Acemoglu e Pascual Restrepo explicam o tema: a tecnologia transforma o mercado de trabalho ao redistribuir tarefas entre pessoas e máquinas. Quando automatiza atividades antes realizadas por trabalhadores, pode reduzir a demanda por mão de obra em determinadas funções. Quando complementa o trabalho humano, porém, pode permitir que as mesmas pessoas produzam mais ou realizem tarefas de maior valor.
+
+O efeito não é igual para todos. A mesma ferramenta que aumenta a capacidade de um profissional experiente pode reduzir a necessidade de contratar iniciantes para tarefas rotineiras. Quando a máquina passa a fazer o que antes era feito por uma pessoa, e a empresa precisa de menos gente naquela atividade, ocorre o que os economistas chamam de efeito deslocamento.
+
+**“Tá, mas e a economia?” — Efeito Deslocamento**
+
+É quando a tecnologia assume tarefas antes realizadas por trabalhadores, reduzindo a necessidade de mão de obra nessas atividades. Isso pode pressionar o emprego e os salários em determinadas funções, mas não significa necessariamente que uma profissão inteira desaparecerá.
+
+## Mais produtividade não significa, necessariamente, mais empregos
+
+Se uma empresa passa a produzir mais com os mesmos recursos, pode reduzir preços, ampliar vendas e investir em novos produtos. Esse crescimento tende a gerar demanda por trabalhadores em outras áreas e a compensar parte dos postos deslocados pela automação. É por esse canal que os ganhos de produtividade podem beneficiar o emprego.
+
+Essa compensação, porém, não é automática: depende de a eficiência se converter em expansão da produção, investimento e contratações. Se a estratégia for substituir apenas mão de obra, a empresa se torna mais eficiente sem gerar oportunidades para os trabalhadores afetados.
+
+**“Tá, mas e a economia?” — Produtividade**
+
+É a relação entre o que se produz e os recursos utilizados para produzir. A produtividade do trabalho, por exemplo, mede quanto é produzido por trabalhador ou por hora trabalhada. Seu aumento permite produzir mais com os mesmos recursos, mas não garante, por si só, salários maiores ou mais empregos.
+
+Um estudo de Erik Brynjolfsson, Danielle Li e Lindsey Raymond, publicado em 2025, ilustra o potencial da IA como complemento ao trabalho. Em uma empresa de atendimento ao cliente, o uso de um assistente de IA elevou em 15%, em média, o número de problemas resolvidos por hora. Os maiores ganhos ficam com os menos experientes, já que a ferramenta disseminou práticas antes restritas aos profissionais mais antigos.
+
+O resultado, no entanto, refere-se a uma empresa e a uma atividade específicas; não permite concluir que todas as ocupações terão ganhos semelhantes ou que o emprego crescerá necessariamente no conjunto da economia.
+
+A outra peça dessa equação é a criação de novas tarefas. A informática reduziu a rotinas administrativas, mas ampliou a demanda por profissionais de tecnologia, análise de dados e segurança digital. Para Acemoglu e Restrepo, são as tarefas em que o trabalho humano mantém papel relevante que contrabalançam o deslocamento provocado pela automação — o chamado efeito reinserção.
+
+**“Tá, mas e a economia?” — Efeito Reinserção** É o mecanismo pelo qual a criação de novas tarefas abre espaço para o trabalho humano e amplia a demanda por trabalhadores. Essas novas atividades podem compensar parte dos empregos deslocados pela automação, mas isso depende de sua escala e de os trabalhadores conseguirem acessar as oportunidades.
+
+O risco é que essas novas atividades não acompanhem o ritmo da substituição ou exijam competências inacessíveis aos trabalhadores deslocados. Nesse cenário, a economia pode produzir mais, mas os ganhos tendem a se concentrar em quem está mais bem posicionado para aproveitar a tecnologia.
+
+## O que os dados mostram sobre o Brasil?
+
+Segundo o FGV IBRE, com base em metodologia da Organização Internacional do Trabalho (OIT), quase 30 milhões de brasileiros — cerca de 1 em cada 3 trabalhadores — estavam, no terceiro trimestre de 2025, em ocupações com algum grau de exposição à IA generativa. A exposição é maior entre mulheres, jovens, pessoas com mais escolaridade, moradores do Sudeste e trabalhadores de serviços como finanças e comunicação, justamente onde se concentram tarefas de processar informação.
+
+**“Tá, mas e a economia?” — Exposição à IA** É o grau em que as tarefas de uma profissão podem ser afetadas pela inteligência artificial, seja por automação, seja pelo apoio que a tecnologia oferece ao trabalhador. Uma ocupação muito exposta não está necessariamente ameaçada: a IA pode substituir algumas de suas tarefas, complementar outras ou transformar a maneira como o trabalho é realizado.
+
+Esse número não significa que 30 milhões de empregos vão desaparecer. A exposição indica que parte das tarefas pode ser afetada, mas não diz se elas serão automatizadas, apoiadas pela IA ou reorganizadas. Ainda assim, mostra que o tema não se limita ao setor de tecnologia: alcança uma fatia grande do mercado de trabalho.
+
+Há um alerta para os jovens: as tarefas simples com que se aprende uma profissão, como organizar dados ou fazer um primeiro rascunho, são justamente as que a IA faz melhor. Sem outra porta de entrada, começar a carreira pode ficar mais difícil.
+
+Ao mesmo tempo, segundo a consultora PricewaterhouseCoopers (PwC), a fatia de vagas no Brasil que pedem habilidades em IA mais que triplicou entre 2024 e 2025. Mas o mesmo levantamento registra queda no total de vagas no período, em todos os grupos. Ou seja: o mercado está mudando o que pede, mas não necessariamente contratando mais. E, como são anúncios de emprego, não dá para atribuir essas mudanças só à IA.
+
+## Quem ficará com os ganhos?
+
+Mesmo quando a IA eleva a produtividade, resta uma pergunta decisiva: quem se apropria dos benefícios? Uma empresa pode produzir mais e aumentar seus lucros sem repassar os ganhos na mesma proporção aos salários. A distribuição depende, entre outros fatores, da concorrência entre empresas, do poder de negociação dos trabalhadores, da demanda por diferentes qualificações e das escolhas feitas na implementação da tecnologia.
+
+A IA também pode reduzir algumas diferenças de desempenho e ampliar outras. Em alguns contextos, a automação pode reduzir oportunidades de entrada ou valorizar competências mais difíceis de reproduzir, como julgamento, criatividade, liderança e tomada de decisão.
+
+Não há, portanto, um único destino para o mercado de trabalho. A mesma tecnologia pode complementar alguns profissionais, substituir parte das tarefas de outros e criar novas demandas em determinados setores. O resultado agregado dependerá de qual desses movimentos prevalecerá — e de como os trabalhadores conseguirão transitar entre atividades.
+
+## A tecnologia não decide sozinha o futuro do trabalho
+
+A inteligência artificial amplia o que empresas e trabalhadores conseguem fazer, mas não determina automaticamente como os ganhos serão distribuídos. Para o Brasil, a questão é transformar o potencial de produtividade em crescimento e oportunidades concretas, sem ignorar os trabalhadores e as regiões mais vulneráveis à transição.
+
+Isso exige combinar formação profissional com a criação efetiva de novas atividades, incentivar usos da IA que complementam o trabalho humano e acompanhar os efeitos sobre emprego, salários e condições de trabalho.
+
+A pergunta “a IA vai roubar nossos empregos?” não tem uma resposta única. Algumas tarefas serão automatizadas, outras ganharão importância e algumas profissões serão reorganizadas. O ponto decisivo é se a criação de novas oportunidades acompanhará o deslocamento e se os ganhos de produtividade chegarão a uma parcela ampla da sociedade. A tecnologia abre possibilidades; as escolhas econômicas e sociais determinarão quem poderá aproveitá-las.
+
+> **TIP:**
+>
+> O tema dialoga com o ODS 8 (Trabalho decente e crescimento econômico), que busca promover crescimento econômico sustentado, inclusivo e sustentável, emprego pleno e produtivo e trabalho decente. A transformação provocada pela IA torna central o desafio de conciliar ganhos de produtividade com oportunidades de trabalho e condições para que os trabalhadores se adaptem às mudanças.
+
+**Transparência em Uso de IA:** Ferramentas: A inteligência artificial, no caso o ChatGPT, foi utilizada como ferramenta de apoio ao desenvolvimento do texto, auxiliando na identificação de referências acadêmicas e na organização da estrutura argumentativa. Também foi empregada para sugerir melhorias na clareza, coesão e fluidez do texto e identificar repetições. A seleção dos argumentos, a avaliação crítica das sugestões e a revisão final do conteúdo ficaram sob responsabilidade dos autores.
+
+**Para saber mais:**
+
+ACEMOGLU, Daron; RESTREPO, Pascual. Automation and New Tasks: How Technology Displaces and Reinstates Labor. Journal of Economic Perspectives, 2019.
+
+ACEMOGLU, Daron. The Simple Macroeconomics of AI. 2024.
+
+BRYNJOLFSSON, Erik; LI, Danielle; RAYMOND, Lindsey R. Generative AI at Work. 2025.
+
+FGV IBRE. Inteligência artificial e mercado de trabalho. 5 fev. 2026. <https://ibre.fgv.br/observatorio-produtividade/artigos/inteligencia-artificial-e-mercado-de-trabalho>
+
+FGV IBRE. Inteligência artificial generativa e mercado de trabalho no Brasil: evidências iniciais sobre ocupação e renda. 27 abr. 2026. <https://blogdoibre.fgv.br/node/2289>
+
+ORGANIZAÇÃO INTERNACIONAL DO TRABALHO (OIT). Generative AI and jobs: A 2025 update. 2025. <https://www.ilo.org/>
+
+PwC Brasil. Barômetro de Empregos de IA 2026. 6 ago. 2026.<https://www.pwc.com.br/pt/estudos/servicos/consultoria-negocios/2026/barometro-empregos-de-ia-2026.html>
+
+[Voltar para a Newsletter](../Newsletter/indexNe.llms.md)
+
+[Ler o próximo texto](../Newsletter/Estilo20.llms.md)
