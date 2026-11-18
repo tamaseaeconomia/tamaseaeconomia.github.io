@@ -14,7 +14,6 @@ website:
   google-analytics: "G-VT21GYZ4R3"
   open-graph: true
   twitter-card: true
-  
   llms-txt: true
   navbar:
     logo: imagens/logo_wordmark.png
