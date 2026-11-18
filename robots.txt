@@ -1,0 +1,20 @@
+
+# Tá, mas e a economia?
+# Regras de rastreamento do site
+
+User-agent: *
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: GPTBot
+Disallow: /
+
+Sitemap: https://tamaseaeconomia.github.io/sitemap.xml
