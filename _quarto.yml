@@ -7,15 +7,18 @@ project:
     - "imagens/video_introducao.mp4"
 
 website:
-  title: "Tá, mas e a economia? "
+  title: "Tá, mas e a economia?"
   site-url: "https://tamaseaeconomia.github.io/"
   description: "Uma newsletter feita por estudantes de Economia da FEA-RP/USP. Macroeconomia, mercados financeiros e política econômica traduzidos para o dia a dia, com rigor técnico e linguagem acessível."
   favicon: imagens/favicon.svg
   google-analytics: "G-VT21GYZ4R3"
-  open-graph: true
+  open-graph:
+   site-name: "Tá, mas e a economia?"
+   locale: pt_BR
   twitter-card: true
   llms-txt: true
   navbar:
+    title: false
     logo: imagens/logo_wordmark.png
     background: "#1a2b3f"
     foreground: "white"
@@ -52,6 +55,7 @@ format:
   html:
     theme: flatly
     css: styles.css
+    include-in-header: schema.html
     toc: false
     lang: pt-BR
     date-format: "DD/MM/YYYY"
